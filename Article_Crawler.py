@@ -1,7 +1,6 @@
-import soup as soup
 from bs4 import BeautifulSoup
 import urllib.request
-import emnlp19_BASIL
+import os
 
 
 def readFileNYT(file_name):
@@ -59,11 +58,18 @@ def readFileFOX(file_name):
     outfile.close()
     
     
+def get_website(filename: str):
+    return filename.split(".")[0].split("_")[1].upper()
+
 def main():
-    for file in emnlp19_BASIL.data:
-        if file[3,5].upper() == "NYT":
+    for file in os.listdir("./emnlp19_BASIL/data"):
+        website = get_website(file)
+        if website == "NYT":
             readFileNYT(file)
-        elif file[3,5].upper() == "HPO":
+        elif website == "HPO":
             readFileHPO(file)
-        elif file[3,5].upper() == "FOX":
+        elif website == "FOX":
             readFileFOX(file)
+
+
+main()
