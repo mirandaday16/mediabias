@@ -44,26 +44,37 @@ def get_captions_text(url):
     req = Request(url, headers={'User-Agent': 'Mozilla/5.0'})
     page_content = urlopen(req).read()
     soup = BeautifulSoup(page_content, "html.parser")
-    for div in soup.find('div'):
-        cap = div.find('a')
+    captions = soup.find('div',{'class': 'caption'})
+    if captions is not None:
+        cap = captions.find('p')
         if cap is not None:
-            return str(cap)
+            cap_text = str(cap.getText())
+            if cap_text[0] == "\n":
+                return cap_text[1:]
+            else:
+                return cap_text
+
+
+def printText(url, outfile, website):
+    alt_text = (get_alt_text(url))
+    caption = get_captions_text(url)
+    if alt_text is not None:
+        outfile.write(website + "\n" + url +
+                      "\n" + "ALT TEXT: " + alt_text + "\n")
+    if caption is not None:
+        outfile.write("CAPTION: " + caption)
+        outfile.write("\n\n")
+    else:
+        outfile.write("\n")
 
 
 # Iterates through all files and writes alt text/caption from each article to a new file
 def main():
     outfile = open("metadata.txt", 'w')
     for file in os.listdir(directory):
-        # website = get_website(file)
+        website = get_website(file)
         url = (get_url(directory + file))
-        alt_text = (get_alt_text(url))
-        caption = get_captions_text(url)
-        if alt_text is not None:
-            outfile.write(url + "\n" + alt_text + "\n")
-        if caption is not None:
-            outfile.write(caption +"\n\n")
-        else:
-            outfile.write("\n")
+        printText(url, outfile, website)
     outfile.close()
 
 
