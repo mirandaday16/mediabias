@@ -49,17 +49,19 @@ def get_captions_text(url):
         cap = captions.find('p')
         if cap is not None:
             cap_text = str(cap.getText())
-            if cap_text[0] == "\n":
-                return cap_text[1:]
-            else:
-                return cap_text
+            if cap_text != "":
+                if cap_text[0] == "\n":
+                    return cap_text[1:]
+                else:
+                    return cap_text
 
 
-def printText(url, outfile, website):
+# Writes web page details to outfile
+def printText(url, outfile, website, count):
     alt_text = (get_alt_text(url))
     caption = get_captions_text(url)
     if alt_text is not None:
-        outfile.write(website + "\n" + url +
+        outfile.write(str(count) + ". " + website + "\n" + url +
                       "\n" + "ALT TEXT: " + alt_text + "\n")
     if caption is not None:
         outfile.write("CAPTION: " + caption)
@@ -71,10 +73,12 @@ def printText(url, outfile, website):
 # Iterates through all files and writes alt text/caption from each article to a new file
 def main():
     outfile = open("metadata.txt", 'w')
+    count = 1
     for file in os.listdir(directory):
         website = get_website(file)
         url = (get_url(directory + file))
-        printText(url, outfile, website)
+        printText(url, outfile, website, count)
+        count += 1
     outfile.close()
 
 
