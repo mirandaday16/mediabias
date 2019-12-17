@@ -1,4 +1,5 @@
 import os, json
+import urllib
 from urllib.request import Request, urlopen
 from bs4 import BeautifulSoup
 
@@ -24,36 +25,44 @@ def get_url(json_file_path: str):
 # Gets alt text of first image/video in the article, if it exists
 def get_alt_text(url):
     req = Request(url, headers={'User-Agent': 'Mozilla/5.0'})
-    page_content = urlopen(req).read()
-    soup = BeautifulSoup(page_content, "html.parser")
-    for div in soup.find_all('div'):
-        img = div.find('img', alt=True)
-        if img is not None:
-            if img['alt'] is not None:
-                if img['alt'] == 'Video player loading':
-                    return 'VIDEO'
-                # Accounts for captions that only contain the website name, e.g. "HuffPost"
-                if len(img['alt']) > 15:
-                    return img['alt']
-                else:
-                    return 'IMAGE'
+    try:
+        page_content = urlopen(req).read()
+    except urllib.error.HTTPError:
+        return "HTTP Error"
+    else:
+        soup = BeautifulSoup(page_content, "html.parser")
+        for div in soup.find_all('div'):
+            img = div.find('img', alt=True)
+            if img is not None:
+                if img['alt'] is not None:
+                    if img['alt'] == 'Video player loading':
+                        return 'VIDEO'
+                    # Accounts for captions that only contain the website name, e.g. "HuffPost"
+                    if len(img['alt']) > 15:
+                        return img['alt']
+                    else:
+                        return 'IMAGE'
 
 
 # Gets caption text for first image or video
 def get_captions_text(url):
     req = Request(url, headers={'User-Agent': 'Mozilla/5.0'})
-    page_content = urlopen(req).read()
-    soup = BeautifulSoup(page_content, "html.parser")
-    captions = soup.find('div',{'class': 'caption'})
-    if captions is not None:
-        cap = captions.find('p')
-        if cap is not None:
-            cap_text = str(cap.getText())
-            if cap_text != "":
-                if cap_text[0] == "\n":
-                    return cap_text[1:]
-                else:
-                    return cap_text
+    try:
+        page_content = urlopen(req).read()
+    except urllib.error.HTTPError:
+        return "HTTP Error"
+    else:
+        soup = BeautifulSoup(page_content, "html.parser")
+        captions = soup.find('div',{'class': 'caption'})
+        if captions is not None:
+            cap = captions.find('p')
+            if cap is not None:
+                cap_text = str(cap.getText())
+                if cap_text != "":
+                    if cap_text[0] == "\n":
+                        return cap_text[1:]
+                    else:
+                        return cap_text
 
 
 # Writes web page details to outfile
