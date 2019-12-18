@@ -1,4 +1,5 @@
-import os, json
+import os
+import json
 import urllib
 from urllib.request import Request, urlopen
 from bs4 import BeautifulSoup
@@ -23,25 +24,22 @@ def get_url(json_file_path: str):
 
 
 # Gets alt text of first image/video in the article, if it exists
+# TODO: Differentiate between images and videos
 def get_alt_text(url):
     req = Request(url, headers={'User-Agent': 'Mozilla/5.0'})
     try:
         page_content = urlopen(req).read()
     except urllib.error.HTTPError:
         return "HTTP Error"
+    except urllib.error.URLError:
+        return "URL Error"
     else:
         soup = BeautifulSoup(page_content, "html.parser")
         for div in soup.find_all('div'):
             img = div.find('img', alt=True)
             if img is not None:
                 if img['alt'] is not None:
-                    if img['alt'] == 'Video player loading':
-                        return 'VIDEO'
-                    # Accounts for captions that only contain the website name, e.g. "HuffPost"
-                    if len(img['alt']) > 15:
-                        return img['alt']
-                    else:
-                        return 'IMAGE'
+                    return img['alt']
 
 
 # Gets caption text for first image or video
@@ -51,6 +49,8 @@ def get_captions_text(url):
         page_content = urlopen(req).read()
     except urllib.error.HTTPError:
         return "HTTP Error"
+    except urllib.error.URLError:
+        return "URL Error"
     else:
         soup = BeautifulSoup(page_content, "html.parser")
         captions = soup.find('div',{'class': 'caption'})

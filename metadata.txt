@@ -1,18 +1,18 @@
 1. HPO
 http://www.huffingtonpost.com/2015/05/05/mike-huckabee-2016_n_7120826.html
-ALT TEXT: IMAGE
+ALT TEXT: HuffPost
 
 2. HPO
 https://www.huffingtonpost.com/entry/mueller-denial-buzzfeed-trump-cohen_us_5c427385e4b027c3bbc1d076
-ALT TEXT: IMAGE
+ALT TEXT: HuffPost
 
 3. HPO
 https://www.huffpost.com/entry/trump-national-emergency-border-wall_n_5c382a82e4b05cb31c411c8d
-ALT TEXT: IMAGE
+ALT TEXT: HuffPost
 
 4. HPO
 http://www.huffingtonpost.com/2010/12/08/larry-summers-tax-cut-deal_n_793975.html
-ALT TEXT: IMAGE
+ALT TEXT: HuffPost
 
 5. NYT
 http://www.nytimes.com/2013/08/30/us/politics/irs-to-recognize-all-gay-marriages-regardless-of-state.html
@@ -20,12 +20,12 @@ ALT TEXT: In June, supporters of same-sex marriage in West Hollywood, Calif., ce
 
 6. HPO
 https://www.huffingtonpost.com/2014/02/26/jan-brewer-vetoes_n_4854003.html
-ALT TEXT: IMAGE
+ALT TEXT: HuffPost
 
 
 8. HPO
 https://www.huffingtonpost.com/2015/03/30/washington-indiana-discrimination-law_n_6973700.html
-ALT TEXT: IMAGE
+ALT TEXT: HuffPost
 
 9. FOX
 http://www.foxnews.com/politics/2013/06/07/intelligence-officials-reportedly-mining-data-from-us-internet-companies/
@@ -34,7 +34,7 @@ CAPTION: Fox News confirms agency tapped into online records
 
 10. FOX
 https://www.foxnews.com/politics/ocasio-cortez-defends-tlaib-after-impeachment-remarks-i-got-your-back.print
-ALT TEXT: IMAGE
+ALT TEXT: Print
 CAPTION:       Rep. Alexandria Ocasio-Cortez took a stand for fellow House freshman  Rashida Tlaib on Saturday after the latter’s expletive-laced comments in favor of impeaching the president.
       
 
@@ -48,20 +48,21 @@ ALT TEXT: Former Mayor Michael R. Bloomberg of New York and Donald J. Trump at t
 
 13. FOX
 http://www.foxnews.com/politics/2011/12/07/perry-tv-ad-can-defend-faith-from-obamas-war-on-religion/
-ALT TEXT: IMAGE
+ALT TEXT: 
 
 14. FOX
 https://www.foxnews.com/politics/defense-secretary-james-mattis-to-leave-as-of-january-1-trump-taps-patrick-shanahan-as-acting-secretary-of-defense
-ALT TEXT: IMAGE
+ALT TEXT: Gregg Re
 CAPTION: Former Trump campaign manager Corey Lewandowski and former deputy assistant secretary of state in the Obama administration Joel Rubin debate.
 
 15. NYT
 https://www.nytimes.com/2019/01/25/us/politics/trump-shutdown-deal.html
-ALT TEXT: VIDEO
+ALT TEXT: Video player loading
 
 16. NYT
 https://thecaucus.blogs.nytimes.com/2011/01/06/house-reading-of-the-constitution-is-not-without-issues/
-ALT TEXT: The Caucus - The Politics and Government blog of The New York Times
+ALT TEXT: HTTP Error
+CAPTION: HTTP Error
 
 17. FOX
 http://www.foxnews.com/us/2015/06/30/nj-gov-chris-christie-to-throw-his-hat-in-ring-for-white-house-run.html
@@ -80,19 +81,19 @@ ALT TEXT: Senator Chuck Schumer of New York, the Democratic leader, said Preside
 
 20. HPO
 https://www.huffingtonpost.com/entry/roger-stone-indicted-mueller-investigation_us_5b928d30e4b0cf7b003f3321
-ALT TEXT: IMAGE
+ALT TEXT: HuffPost
 
 21. NYT
 https://www.nytimes.com/politics/first-draft/2015/05/13/marco-rubio-to-outline-his-approach-to-foreign-policy/
-ALT TEXT: IMAGE
+ALT TEXT: 
 
 22. HPO
 https://www.huffingtonpost.com/entry/911-victims-saudi-arabia-veto-override_us_57ebcee1e4b082aad9b80f0a
-ALT TEXT: IMAGE
+ALT TEXT: HuffPost
 
 23. NYT
 https://www.nytimes.com/2019/01/19/us/politics/trump-proposal-daca-wall.html
-ALT TEXT: VIDEO
+ALT TEXT: Video player loading
 
 24. NYT
 http://thecaucus.blogs.nytimes.com/2012/12/09/officials-foresee-progress-on-fiscal-talks/
@@ -100,11 +101,11 @@ ALT TEXT: The Caucus - The Politics and Government blog of The New York Times
 
 25. HPO
 https://www.huffingtonpost.com/entry/trump-business-michael-bloomberg-dnc_us_579957a2e4b0d3568f85fbb7
-ALT TEXT: IMAGE
+ALT TEXT: HuffPost
 
 26. HPO
 http://www.huffingtonpost.com/2014/06/13/labrador-majority-leader_n_5491696.html
-ALT TEXT: IMAGE
+ALT TEXT: HuffPost
 
 27. FOX
 http://www.foxnews.com/politics/2014/04/25/federal-prosecutors-plan-to-file-charges-against-rep-grimm-attorney-says.html
@@ -119,11 +120,11 @@ CAPTION: All-Star panel weighs in
 
 29. HPO
 https://www.huffingtonpost.com/2011/01/06/house-republicans-constitution-reading_n_805167.html
-ALT TEXT: IMAGE
+ALT TEXT: HuffPost
 
 30. HPO
 https://www.huffingtonpost.com/entry/trump-government-shutdown-reopen-deal_us_5c4b4dd6e4b0e1872d436a2c
-ALT TEXT: IMAGE
+ALT TEXT: HuffPost
 
 31. FOX
 http://www.foxnews.com/politics/2014/12/19/colorado-top-cop-defends-pot-law-after-challenges-from-neighboring-states.html
@@ -139,7 +140,7 @@ CAPTION:           Rep. Bruce Braley, left, and Sen. Chuck Grassley.
 
 33. HPO
 https://www.huffingtonpost.com/2015/05/13/marco-rubio-foreign-policy_n_7276584.html
-ALT TEXT: IMAGE
+ALT TEXT: HuffPost
 
 34. NYT
 https://mobile.nytimes.com/2016/09/29/us/politics/senate-9-11-saudi-arabia.html
@@ -147,23 +148,23 @@ ALT TEXT: Representative Nancy Pelosi of California, who plans to support a veto
 
 35. HPO
 https://www.huffingtonpost.com/entry/mccain-democrats-trump-cancel-putin-summit_us_5b4951b0e4b022fdcc597d9b
-ALT TEXT: IMAGE
+ALT TEXT: HuffPost
 
 36. NYT
 https://www.nytimes.com/2019/01/25/us/politics/roger-stone-trump-mueller.html
-ALT TEXT: VIDEO
+ALT TEXT: Video player loading
 
 37. HPO
 https://www.huffingtonpost.com/2012/12/13/obama-boehner-fiscal-cliff-meeting_n_2296788.html
-ALT TEXT: IMAGE
+ALT TEXT: HuffPost
 
 38. HPO
 https://www.huffingtonpost.com/entry/government-shutdown-trump-asylum-offer_us_5c472b5ce4b0bfa693c75e0e
-ALT TEXT: IMAGE
+ALT TEXT: HuffPost
 
 39. FOX
 http://www.foxnews.com/politics/2018/01/23/schumer-bashed-by-left-over-shutdown-ending-deal.html
-ALT TEXT: IMAGE
+ALT TEXT: Joseph Weber
 CAPTION: Senate passes bill to end shutdown, House to vote soon; reaction and analysis on 'The Five.'
 
 40. FOX
@@ -191,20 +192,21 @@ CAPTION: President Obama has expressed his support for the construction of a Mus
 
 45. NYT
 http://thecaucus.blogs.nytimes.com/2010/12/08/biden-tries-again-to-sell-tax-compromise-to-hill-democrats/
-ALT TEXT: The Caucus - The Politics and Government blog of The New York Times
+ALT TEXT: HTTP Error
+CAPTION: HTTP Error
 
 46. NYT
 https://www.nytimes.com/2019/02/15/us/politics/national-emergency-trump.html
-ALT TEXT: VIDEO
+ALT TEXT: Video player loading
 
 47. HPO
 https://www.huffingtonpost.com/2011/06/17/aarp-social-security_n_878966.html
-ALT TEXT: IMAGE
+ALT TEXT: HuffPost
 
 
 49. HPO
 http://www.huffingtonpost.com/2013/08/29/same-sex-couples-federal-taxes_n_3837444.html
-ALT TEXT: IMAGE
+ALT TEXT: HuffPost
 
 
 51. FOX
@@ -214,19 +216,19 @@ CAPTION: Trump opponents are trying to keep the focus on the Russia investigatio
 
 52. FOX
 https://www.foxnews.com/politics/house-approves-sweeping-dem-election-reform-bill-amid-first-amendment-concerns
-ALT TEXT: IMAGE
+ALT TEXT: Alex Pappas
 
 53. NYT
 http://thelede.blogs.nytimes.com/2012/08/01/chick-fil-a-draws-huge-crowds-for-appreciation-day/
-ALT TEXT: The Lede - The New York Times News Blog
+ALT TEXT: HTTP Error
 
 54. NYT
 https://www.nytimes.com/2017/01/20/us/politics/trump-inauguration-day.html
-ALT TEXT: VIDEO
+ALT TEXT: Video player loading
 
 55. NYT
 https://www.nytimes.com/2016/11/30/us/politics/nancy-pelosi-house-democrats-tim-ryan.html
-ALT TEXT: VIDEO
+ALT TEXT: Video player loading
 
 56. NYT
 https://www.nytimes.com/2017/03/23/us/politics/democrats-filibuster-neil-gorsuch-nomination.html
@@ -234,19 +236,19 @@ ALT TEXT: Judge Neil M. Gorsuch at his Supreme Court confirmation hearing on Cap
 
 57. HPO
 https://www.huffingtonpost.com/2012/04/23/john-boehner-house-majority_n_1446992.html
-ALT TEXT: IMAGE
+ALT TEXT: HuffPost
 
 58. HPO
 https://www.huffingtonpost.com/entry/mail-pipe-bomb-plot-suspect_us_5bd32b4de4b0d38b5882ca62
-ALT TEXT: IMAGE
+ALT TEXT: HuffPost
 
 59. HPO
 https://www.huffingtonpost.com/2013/09/01/mary-cheney-liz-cheney_n_3852411.html
-ALT TEXT: IMAGE
+ALT TEXT: HuffPost
 
 60. HPO
 https://www.huffingtonpost.com/entry/ted-cruz-donald-trump-affair_us_56f57995e4b0143a9b4821b3
-ALT TEXT: IMAGE
+ALT TEXT: HuffPost
 
 61. FOX
 http://www.foxnews.com/politics/2015/02/25/white-house-adviser-rice-says-netanyahu-capitol-hill-address-destructive-to-us.html
@@ -260,7 +262,7 @@ CAPTION: Announces plans to use 23 executive actions
 
 63. NYT
 http://www.nytimes.com/2011/06/02/nyregion/weiner-denies-sending-photo-over-twitter-but-is-less-sure-of-its-origin.html
-ALT TEXT: IMAGE
+ALT TEXT: 
 
 64. NYT
 https://www.nytimes.com/2015/03/06/us/politics/hillary-clinton-asks-state-dept-to-review-emails-for-public-release.html
@@ -268,11 +270,11 @@ ALT TEXT: Hillary Rodham Clinton, then secretary of state, after addressing the 
 
 65. NYT
 https://www.nytimes.com/politics/first-draft/2016/03/25/arguments-get-personal-between-donald-trump-and-ted-cruz/
-ALT TEXT: IMAGE
+ALT TEXT: 
 
 66. NYT
 https://thecaucus.blogs.nytimes.com/2013/08/31/mary-cheney-criticizes-her-sister-on-same-sex-marriage/
-ALT TEXT: The Caucus - The Politics and Government blog of The New York Times
+ALT TEXT: HTTP Error
 
 67. FOX
 http://www.foxnews.com/politics/2015/03/31/benghazi-committee-requests-clinton-submit-to-interview-about-private-deleted.html
@@ -287,27 +289,27 @@ CAPTION:           Republican National Committee Chairman Michael Steele answers
 
 69. HPO
 http://www.huffingtonpost.com/2015/03/05/john-mccain-hillary-clinton_n_6812422.html
-ALT TEXT: IMAGE
+ALT TEXT: HuffPost
 
 70. HPO
 https://www.huffingtonpost.com/2011/06/01/anthony-weiner-twitter-photo_n_869769.html
-ALT TEXT: IMAGE
+ALT TEXT: HuffPost
 
 71. HPO
 https://www.huffpost.com/entry/trump-oath-of-office_n_58823730e4b070d8cad2087f
-ALT TEXT: IMAGE
+ALT TEXT: HuffPost
 
 72. HPO
 https://www.huffingtonpost.com/entry/michele-bachmann-chick-fil-a_n_1730280
-ALT TEXT: IMAGE
+ALT TEXT: HuffPost
 
 73. HPO
 https://www.huffingtonpost.com/entry/neil-gorsuch-supreme-court_us_58d681b5e4b03787d35908d1
-ALT TEXT: IMAGE
+ALT TEXT: HuffPost
 
 74. HPO
 https://www.huffingtonpost.com/entry/nancy-pelosi-house-democratic-leader_us_583ed770e4b0ae0e7cdae8f5
-ALT TEXT: IMAGE
+ALT TEXT: HuffPost
 
 75. NYT
 https://www.nytimes.com/2018/10/26/nyregion/cnn-cory-booker-pipe-bombs-sent.html
@@ -319,7 +321,7 @@ ALT TEXT: The Caucus - The Politics and Government blog of The New York Times
 
 77. FOX
 http://www.foxnews.com/politics/2012/05/09/romney-reaffirms-belief-in-marriage-as-between-man-woman/
-ALT TEXT: IMAGE
+ALT TEXT: 
 
 78. FOX
 http://www.foxnews.com/politics/2012/10/11/biden-ryan-face-off-in-high-stakes-vice-presidential-debate-in-kentucky/
@@ -333,15 +335,16 @@ CAPTION: Calls her the most qualified candidate to run for the presidency
 
 80. FOX
 http://www.foxnews.com/politics/2010/05/18/while-blumenthal-retains-washington-support-republicans-smell-opening-in-ct.html
-ALT TEXT: IMAGE
+ALT TEXT: 
 
 81. NYT
 https://thecaucus.blogs.nytimes.com/2010/12/01/senate-republicans-no-legislation-until-after-tax-cut-extension/
-ALT TEXT: The Caucus - The Politics and Government blog of The New York Times
+ALT TEXT: HTTP Error
+CAPTION: HTTP Error
 
 82. HPO
 https://www.huffingtonpost.com/2014/01/22/kevin-mccarthy-immigration_n_4645358.html
-ALT TEXT: IMAGE
+ALT TEXT: HuffPost
 
 83. NYT
 https://www.nytimes.com/2018/08/13/us/politics/peter-strzok-fired-fbi.html
@@ -349,31 +352,31 @@ ALT TEXT: Peter Strzok, a top F.B.I. counterintelligence agent who was taken off
 
 84. HPO
 https://www.huffingtonpost.com/entry/duncan-hunter-margaret-hunter_us_5b7c83b7e4b0cd327df795f9
-ALT TEXT: IMAGE
+ALT TEXT: HuffPost
 
 85. HPO
 http://www.huffingtonpost.com/2011/11/02/obama-mocks-congress-in-god-we-trust-jobs-bill_n_1072497.html
-ALT TEXT: IMAGE
+ALT TEXT: HuffPost
 
 86. HPO
 http://www.huffingtonpost.com/2010/07/13/naacp-tea-party-racism-re_n_644832.html
-ALT TEXT: IMAGE
+ALT TEXT: 
 
 87. HPO
 https://www.huffingtonpost.com/entry/blake-farenthold-resignation-sexual-harassment_us_5ab17db0e4b054d118dddf24
-ALT TEXT: IMAGE
+ALT TEXT: HuffPost
 
 88. HPO
 https://www.huffingtonpost.com/entry/paul-lepage-media_us_57c6f070e4b0e60d31dc7253
-ALT TEXT: IMAGE
+ALT TEXT: HuffPost
 
 89. NYT
 https://archive.nytimes.com/query.nytimes.com/gst/fullpage-9E03E1D61E3DF936A25755C0A9669D8B63.html
-ALT TEXT: IMAGE
+ALT TEXT: New York Times
 
 90. NYT
 http://thecaucus.blogs.nytimes.com/2011/08/09/newsweeks-bachmann-cover-causes-controversy/
-ALT TEXT: IMAGE
+ALT TEXT:  - 
 
 91. FOX
 http://www.foxnews.com/politics/2014/01/23/federal-prosecutors-subpoena-new-jersey-gov-christie-campaign-gop/
@@ -383,12 +386,12 @@ CAPTION:           Aug 15, 2013: New Jersey Gov. Chris Christie speaks to fellow
 
 92. FOX
 http://www.foxnews.com/politics/2018/01/02/jail-trump-slams-crooked-hillary-aide-huma-calls-on-deep-state-doj-to-act.html
-ALT TEXT: IMAGE
+ALT TEXT: Brooke Singman
 CAPTION: Daily Caller investigative reporter Luke Rosiak explains.
 
 93. NYT
 https://www.nytimes.com/politics/first-draft/2015/07/31/hillary-clinton-releases-8-years-of-tax-returns
-ALT TEXT: IMAGE
+ALT TEXT: 
 
 94. NYT
 http://www.nytimes.com/2013/01/31/us/politics/boston-lawyer-chosen-for-kerrys-senate-seat.html
@@ -407,16 +410,16 @@ CAPTION:           Feb. 20: Glenn Beck delivers keynote address at CPAC.
 
 98. FOX
 http://www.foxnews.com/politics/2013/05/23/irs-official-who-refused-to-testify-facing-more-scrutiny-over-scandal-past/
-ALT TEXT: IMAGE
+ALT TEXT: Doug McKelway
 CAPTION: Doug McKelway reports
 
 99. HPO
 https://www.huffingtonpost.com/2011/08/08/newsweeks-michele-bachman_n_920860.html
-ALT TEXT: IMAGE
+ALT TEXT: HuffPost
 
 100. HPO
 https://www.huffingtonpost.com/2010/06/14/bob-etheridge-attacks-stu_n_610978.html
-ALT TEXT: IMAGE
+ALT TEXT: HuffPost
 
 101. FOX
 http://www.foxnews.com/politics/2013/05/13/benghazi-emails-underscore-state-departments-concern-over-failure-to-act-on/
@@ -425,20 +428,20 @@ CAPTION: Republicans, Democrats go head-to-head
 
 102. FOX
 http://www.foxnews.com/politics/2017/06/15/shooting-spurs-calls-for-new-lawmaker-security-measures.html
-ALT TEXT: IMAGE
+ALT TEXT: Brooke Singman
 CAPTION: Virginia congressman says town halls may need tighter security
 
 103. HPO
 https://www.huffingtonpost.com/2013/01/30/mo-cowan-senate_n_2567798.html
-ALT TEXT: IMAGE
+ALT TEXT: HuffPost
 
 104. HPO
 https://www.huffingtonpost.com/entry/hillary-clinton-tax-returns_us_55bbf7bde4b06363d5a25a38
-ALT TEXT: IMAGE
+ALT TEXT: HuffPost
 
 105. HPO
 https://www.huffingtonpost.com/entry/fbi-peter-strzok-fired_us_5b719e9de4b0ae32af9a1941
-ALT TEXT: IMAGE
+ALT TEXT: HuffPost
 
 106. NYT
 https://www.nytimes.com/2018/08/21/us/politics/duncan-hunter-indicted.html
@@ -446,7 +449,7 @@ ALT TEXT: Representative Duncan Hunter, Republican of California, and his wife a
 
 107. HPO
 https://www.huffingtonpost.com/2010/12/01/senate-gop-bluff-tested-tax-cuts-bills_n_790666.html
-ALT TEXT: IMAGE
+ALT TEXT: HuffPost
 
 
 109. NYT
@@ -455,21 +458,21 @@ ALT TEXT: The Caucus - The Politics and Government blog of The New York Times
 
 110. NYT
 http://thecaucus.blogs.nytimes.com/2011/11/02/obama-taunts-house-for-ignoring-jobs-bill/
-ALT TEXT: IMAGE
+ALT TEXT: HTTP Error
 
 111. FOX
 https://www.foxnews.com/politics/trump-calls-flynn-treatment-unfair-claims-clinton-lied-many-times-with-impunity
-ALT TEXT: IMAGE
+ALT TEXT: Judson Berger
 CAPTION: The president says Hillary Clinton lied 'many times' to the FBI and 'nothing happened to her.'
 
 112. FOX
 http://www.foxnews.com/politics/2018/08/18/trump-says-too-many-voices-are-being-destroyed-by-social-media-censorship.html
-ALT TEXT: IMAGE
+ALT TEXT: Adam Shaw
 CAPTION: A new Vice investigation has exposed apparent shadow bans on conservative accounts on Twitter, while Google-owned YouTube recently removed several videos purely for their political content. #Tucker
 
 113. HPO
 https://www.huffingtonpost.com/entry/donald-trump-jr-wikileaks_us_5a0a1277e4b0bc648a0d431e
-ALT TEXT: IMAGE
+ALT TEXT: HuffPost
 
 114. NYT
 https://mobile.nytimes.com/2017/05/18/us/politics/trump-fbi-director-lieberman.html
@@ -477,7 +480,7 @@ ALT TEXT: Joseph I. Lieberman, the former Democratic senator and vice-presidenti
 
 115. HPO
 https://www.huffingtonpost.com/2014/11/29/elizabeth-lauten-obama-daughters-class_n_6241202.html
-ALT TEXT: IMAGE
+ALT TEXT: HuffPost
 
 116. NYT
 https://mobile.nytimes.com/2017/11/10/us/politics/roy-moore-alabama-republicans.html
@@ -485,11 +488,11 @@ ALT TEXT: Roy S. Moore, the Republican nominee for Senate in Alabama, was accuse
 
 117. HPO
 https://www.huffingtonpost.com/2012/04/24/paul-ryan-challenged-by-georgetown-faculty_n_1449437.html
-ALT TEXT: IMAGE
+ALT TEXT: HuffPost
 
 118. HPO
 https://www.huffingtonpost.com/entry/vicente-fox-donald-trump-mexico-wall_us_56cf5008e4b0bf0dab3132b5
-ALT TEXT: IMAGE
+ALT TEXT: HuffPost
 
 119. NYT
 http://thecaucus.blogs.nytimes.com/2012/08/21/with-abortion-in-the-spotlight-a-challenge-for-romney/
@@ -511,7 +514,7 @@ CAPTION: Which candidate has the clearest plan for our economy?
 
 123. NYT
 http://thecaucus.blogs.nytimes.com/2011/11/29/rick-perry-wins-the-endorsement-of-sheriff-joe-arpaio/
-ALT TEXT: IMAGE
+ALT TEXT:  - 
 
 124. NYT
 http://thecaucus.blogs.nytimes.com/2010/12/12/steele-to-announce-decision-on-r-n-c-run/
@@ -530,7 +533,8 @@ CAPTION: President tweets that the decision is on hold until conservation facts 
 
 127. NYT
 http://thecaucus.blogs.nytimes.com/2011/04/07/trump-plans-meeting-on-arizona-birth-bill/
-ALT TEXT: The Caucus - The Politics and Government blog of The New York Times
+ALT TEXT: HTTP Error
+CAPTION: HTTP Error
 
 128. NYT
 http://www.nytimes.com/2013/02/21/us/politics/jesse-l-jackson-jr-pleads-guilty-to-wire-and-mail-fraud.html
@@ -549,31 +553,31 @@ CAPTION: Brat reacts to 'political earthquake'
 
 131. HPO
 https://www.huffingtonpost.com/entry/adam-schiff-michael-flynn-subpoeans-russia_us_5925a615e4b0650cc020f765
-ALT TEXT: IMAGE
+ALT TEXT: HuffPost
 
 132. HPO
 https://www.huffingtonpost.com/2015/06/14/hillary-clinton-trade-deal_n_7580768.html
-ALT TEXT: IMAGE
+ALT TEXT: HuffPost
 
 133. HPO
 http://www.huffingtonpost.com/2010/12/13/michael-steele-rnc-reelection_n_795723.html
-ALT TEXT: IMAGE
+ALT TEXT: HuffPost
 
 134. HPO
 http://www.huffingtonpost.com/2011/11/29/arizona-sheriff-joe-arpaio-rick-perry_n_1118565.html
-ALT TEXT: IMAGE
+ALT TEXT: HuffPost
 
 135. HPO
 https://www.huffingtonpost.com/2013/02/20/jesse-jackson-jr-guilty_n_2724328.html
-ALT TEXT: IMAGE
+ALT TEXT: HuffPost
 
 136. HPO
 http://www.huffingtonpost.com/2011/04/07/donald-trump-obama-birth-_1_n_845989.html
-ALT TEXT: IMAGE
+ALT TEXT: 
 
 137. FOX
 https://www.foxnews.com/politics/congressional-leaders-meet-at-white-house-as-shutdown-stances-harden
-ALT TEXT: IMAGE
+ALT TEXT: Adam Shaw
 CAPTION: President Trump says discussions will continue about funding for border security after meeting with congressional leaders at the White House.
 
 138. FOX
@@ -583,7 +587,7 @@ CAPTION: Strategy Room: Chuck Rocha and Marjorie Dannenfelser discuss Donald Tru
 
 139. NYT
 https://www.nytimes.com/politics/first-draft/2015/06/14/hillary-clinton-urges-obama-to-listen-to-democrats-on-trade-deal/
-ALT TEXT: IMAGE
+ALT TEXT: 
 
 140. NYT
 https://mobile.nytimes.com/2017/05/24/us/politics/flynn-subpoena-house-intelligence-committee.html
@@ -606,7 +610,7 @@ ALT TEXT: A Republican spokeswoman found fault with the attire of Sasha and Mali
 
 144. HPO
 https://www.huffingtonpost.com/entry/donald-trump-roy-moore-sexual-assault_us_5a04ab12e4b0f76b05c43f87
-ALT TEXT: IMAGE
+ALT TEXT: HuffPost
 
 145. NYT
 https://mobile.nytimes.com/2017/11/13/us/politics/donald-trump-jr-wikileaks-emails-democrats.html
@@ -614,11 +618,11 @@ ALT TEXT: Donald Trump Jr. at the third presidential debate last year.
 
 146. HPO
 https://www.huffingtonpost.com/entry/donald-trump-joe-lieberman-fbi-director_us_591df2bbe4b094cdba52519a
-ALT TEXT: IMAGE
+ALT TEXT: HuffPost
 
 147. FOX
 http://www.foxnews.com/entertainment/2017/05/30/kathy-griffin-apologizes-for-photo-shoot-with-bloodied-trump-mask-says-went-too-far.html
-ALT TEXT: IMAGE
+ALT TEXT: 
 CAPTION: (Courtesy of Tyler Shields)
 
 148. FOX
@@ -629,7 +633,7 @@ CAPTION:           Feb. 18, 2012: Rick Santorum speaks at the Ohio Christian All
 
 149. NYT
 https://www.nytimes.com/politics/first-draft/2016/02/25/2-ex-presidents-of-mexico-say-no-way-theyre-paying-for-donald-trumps-wall/
-ALT TEXT: IMAGE
+ALT TEXT: 
 
 150. NYT
 http://thecaucus.blogs.nytimes.com/2012/04/24/georgetown-faculty-latest-to-chide-ryan/
@@ -637,15 +641,15 @@ ALT TEXT: The Caucus - The Politics and Government blog of The New York Times
 
 151. HPO
 https://www.huffingtonpost.com/entry/trump-executive-order-end-birthright-citizenship_us_5bd82b10e4b07427610ae4f4
-ALT TEXT: IMAGE
+ALT TEXT: HuffPost
 
 152. HPO
 http://www.huffingtonpost.com/2012/08/21/todd-akin-comments_n_1819655.html
-ALT TEXT: IMAGE
+ALT TEXT: HuffPost
 
 153. FOX
 http://www.foxnews.com/politics/2012/09/20/netanyahu-star-new-election-ad-airing-in-florida
-ALT TEXT: IMAGE
+ALT TEXT: Cristina Corbin
 
 154. FOX
 http://www.foxnews.com/politics/2010/05/28/white-house-asked-clinton-urge-sestak-drop-senate-race.html
@@ -668,13 +672,13 @@ CAPTION: Maine governor on reducing state income tax rate, spending
 
 158. FOX
 http://www.foxnews.com/politics/2018/04/06/texas-rep-blake-farenthold-resigns-from-congress.html
-ALT TEXT: IMAGE
+ALT TEXT: Brooke Singman
 CAPTION:           Rep. Blake Farenthold arrives before Deputy U.S. Attorney General Rod Rosenstein testifies to the House Judiciary Committee hearing on oversight of the Justice Department on Capitol Hill in Washington, U.S., December 13, 2017.   REUTERS/Joshua Roberts - RC1CC7E0DBA0
           
 
 159. HPO
 https://www.huffingtonpost.com/entry/trump-justice-department-deep-state_us_5a4b87d8e4b06d1621bacc0a
-ALT TEXT: IMAGE
+ALT TEXT: HuffPost
 
 160. NYT
 http://www.nytimes.com/2013/05/16/us/politics/e-mails-show-jostling-over-benghazi-talking-points.html
@@ -682,15 +686,15 @@ ALT TEXT: The diplomatic post in Benghazi, Libya, after the attack last year tha
 
 161. HPO
 https://www.huffingtonpost.com/2014/01/23/chris-christie-us-attorney_n_4653674.html
-ALT TEXT: IMAGE
+ALT TEXT: HuffPost
 
 162. NYT
 https://mobile.nytimes.com/2017/06/15/us/politics/shooting-brings-rare-comity-to-the-capitol-but-will-it-last.html
-ALT TEXT: VIDEO
+ALT TEXT: Video player loading
 
 163. FOX
 http://www.foxnews.com/politics/2018/08/21/rep-duncan-hunter-wife-indicted-on-corruption-charges-in-california.html
-ALT TEXT: IMAGE
+ALT TEXT: Paulina Dedaj
 CAPTION: Five-term Republican congressman from California Duncan Hunter and his wife Margaret are accused of using campaign funds for personal expenses; William La Jeunesse reports from Los Angeles.
 
 164. FOX
@@ -700,15 +704,15 @@ CAPTION: HTTP Error
 
 165. HPO
 https://www.huffingtonpost.com/2010/05/17/richard-blumenthal-vietnam_n_579656.html
-ALT TEXT: IMAGE
+ALT TEXT: HuffPost
 
 166. HPO
 https://www.huffingtonpost.com/entry/barack-obama-bernie-sanders-meeting_us_575798c3e4b08f74f6c098cb
-ALT TEXT: IMAGE
+ALT TEXT: HuffPost
 
 167. NYT
 https://www.nytimes.com/2017/12/04/us/politics/fbi-michael-flynn-trump.html
-ALT TEXT: VIDEO
+ALT TEXT: Video player loading
 
 168. NYT
 https://www.nytimes.com/2018/08/18/us/politics/trump-social-media-conservatives.html
@@ -722,7 +726,7 @@ CAPTION:           The audience applauds after first lady Michelle Obama speaks 
 
 170. FOX
 http://www.foxnews.com/politics/2011/11/02/obama-in-god-trust-vote-not-creating-jobs/
-ALT TEXT: IMAGE
+ALT TEXT: 
 
 171. FOX
 https://www.foxnews.com/politics/senate-republicans-vow-to-block-dem-legislation-until-tax-cuts-budget-pass
@@ -732,41 +736,41 @@ CAPTION:           In this Nov. 16 photo, Republican Senate Leader Mitch McConne
 
 172. FOX
 http://www.foxnews.com/politics/2018/08/13/fbi-fires-peter-strzok-months-after-anti-trump-texts-revealed.html
-ALT TEXT: IMAGE
+ALT TEXT: Judson Berger
 CAPTION: Strzok's attorney says the FBI's decision is a 'departure from typical bureau practice'; reaction from Rep. Darrell Issa, Republican member of the House Judiciary Committee.
 
 173. NYT
 https://mobile.nytimes.com/2016/06/10/us/politics/bernie-sanders-obama-washington.html
-ALT TEXT: VIDEO
+ALT TEXT: Video player loading
 
 174. NYT
 http://www.nytimes.com/2010/05/18/nyregion/18blumenthal.html
-ALT TEXT: IMAGE
+ALT TEXT: 
 
 175. HPO
 https://www.huffingtonpost.com/entry/donald-trump-social-media-rant-all-sides_us_5b780684e4b05906b4140d07
-ALT TEXT: IMAGE
+ALT TEXT: HuffPost
 
 176. HPO
 https://www.huffingtonpost.com/entry/donald-trump-defends-michael-flynn_us_5a255146e4b03c44072ed3e1
-ALT TEXT: IMAGE
+ALT TEXT: HuffPost
 
 177. FOX
 https://www.foxnews.com/politics/n-c-congressman-apologizes-for-physical-confrontation-with-man-in-washington
-ALT TEXT: IMAGE
+ALT TEXT: 25c5042e-
 CAPTION: An amateur video posted to YouTube shows Rep. Bob Etheridge grabbing the neck of an unidentified man who questioned him on a street in Washington (YouTube).
 
 178. FOX
 http://www.foxnews.com/politics/2011/08/09/bachmann-newsweek-cover-goes-for-insult-but-gets-criticism-in-return/
-ALT TEXT: IMAGE
+ALT TEXT: 
 
 179. HPO
 https://www.huffingtonpost.com/2013/05/21/lois-lerner-irs-scandal_n_3314693.html
-ALT TEXT: IMAGE
+ALT TEXT: HuffPost
 
 180. HPO
 https://www.huffingtonpost.com/2010/02/20/glenn-beck-cpac-2010-spee_n_470356.html
-ALT TEXT: IMAGE
+ALT TEXT: HuffPost
 
 181. FOX
 http://www.foxnews.com/politics/2015/07/31/clintoncamp-to-release-doctor-note-saying-in-excellent-condition.html
@@ -775,12 +779,12 @@ CAPTION: Ongoing email controversy a distraction for Democratic presidential hop
 
 182. FOX
 http://www.foxnews.com/politics/2013/01/30/mass-gov-picks-former-staffer-to-fill-kerry-senate-seat-until-june-election/
-ALT TEXT: IMAGE
+ALT TEXT: 
 
 
 184. HPO
 https://www.huffingtonpost.com/entry/police-shots-ymca-alexandria-virginia_us_5941217fe4b003d5948c43d0
-ALT TEXT: IMAGE
+ALT TEXT: HuffPost
 
 185. NYT
 https://www.nytimes.com/2018/01/02/us/politics/trump-clinton-aide-huma-abedin.html
@@ -788,23 +792,23 @@ ALT TEXT: Hillary Clinton and her longtime aide Huma Abedin on the campaign plan
 
 186. HPO
 https://www.huffingtonpost.com/2013/05/15/white-house-benghazi-emails_n_3280734.html
-ALT TEXT: IMAGE
+ALT TEXT: HuffPost
 
 187. HPO
 https://www.huffingtonpost.com/2014/06/10/dave-brat-primary-win_n_5482714.html
-ALT TEXT: IMAGE
+ALT TEXT: HuffPost
 
 188. HPO
 http://www.huffingtonpost.com/2011/03/29/supreme-court-wal-mart_n_842026.html
-ALT TEXT: IMAGE
+ALT TEXT: 
 
 189. HPO
 https://www.huffingtonpost.com/entry/trump-elephant-trophy-on-hold_us_5a0f83bbe4b045cf437178c6
-ALT TEXT: IMAGE
+ALT TEXT: HuffPost
 
 190. HPO
 https://www.huffingtonpost.com/2013/04/02/nra-school-safety-report_n_2999968.html
-ALT TEXT: IMAGE
+ALT TEXT: HuffPost
 
 191. FOX
 http://www.foxnews.com/politics/2015/06/14/clinton-stays-mum-on-critical-trade-agreement-adviser-says-waiting-for-final.html
@@ -818,7 +822,7 @@ CAPTION: Former national security adviser says he will not provide records to th
 
 193. NYT
 https://www.nytimes.com/2019/01/02/us/politics/trump-congress-shutdown.html
-ALT TEXT: VIDEO
+ALT TEXT: Video player loading
 
 194. NYT
 https://mobile.nytimes.com/2016/09/01/us/politics/vicente-fox-mexico.html
@@ -841,7 +845,8 @@ ALT TEXT: President Trump at an event at the White House on May 12.
 
 198. NYT
 http://thecaucus.blogs.nytimes.com/2012/02/19/santorum-defends-comments-on-obama-and-education/
-ALT TEXT: The Caucus - The Politics and Government blog of The New York Times
+ALT TEXT: HTTP Error
+CAPTION: HTTP Error
 
 199. FOX
 http://www.foxnews.com/politics/2014/11/30/aide-to-gop-lawmaker-apologizes-for-facebook-post-ripping-obama-daughters.html
@@ -851,12 +856,12 @@ CAPTION:           November 26, 2014: President Barack Obama, joined by his daug
 
 200. FOX
 http://www.foxnews.com/politics/2017/11/13/donald-trump-jr-releases-messages-with-wikileaks-from-before-election.html
-ALT TEXT: IMAGE
+ALT TEXT: Brooke Singman
 CAPTION: President Trump's eldest son corresponded with WikiLeaks before the 2016 presidential election; Rep. Ron DeSantis weighs in.
 
 201. NYT
 http://www.nytimes.com/2012/08/15/health/policy/battle-over-medicare-savings-intensifies-between-obama-and-paul-ryan.html
-ALT TEXT: IMAGE
+ALT TEXT: 
 
 202. NYT
 http://thecaucus.blogs.nytimes.com/2011/12/13/trump-wont-go-forward-with-debate/
@@ -868,27 +873,27 @@ ALT TEXT: The Caucus - The Politics and Government blog of The New York Times
 
 204. NYT
 https://thecaucus.blogs.nytimes.com/2010/05/28/white-house-used-bill-clinton-to-ask-sestak-to-drop-out-of-race/
-ALT TEXT: The Caucus - The Politics and Government blog of The New York Times
+ALT TEXT: HTTP Error
 
 205. HPO
 https://www.huffingtonpost.com/entry/trump-orlando-obama-resign_us_575dc769e4b0e39a28adebd3
-ALT TEXT: IMAGE
+ALT TEXT: HuffPost
 
 206. HPO
 http://www.huffingtonpost.com/2015/04/02/asa-hutchinson-arkansas-rfra_n_6995826.html
-ALT TEXT: IMAGE
+ALT TEXT: HuffPost
 
 207. HPO
 http://www.huffingtonpost.com/2012/02/19/santorum-phony-theology_n_1287475.html
-ALT TEXT: IMAGE
+ALT TEXT: HuffPost
 
 208. HPO
 https://www.huffingtonpost.com/entry/so-heres-a-photo-of-kathy-griffin-beheading-donald-trump_us_592dbd5ce4b0c0608e8bdb08
-ALT TEXT: IMAGE
+ALT TEXT: HuffPost
 
 209. FOX
 http://www.foxnews.com/politics/2017/05/18/joe-lieberman-emerges-as-trumps-top-choice-for-fbi-director.print.html
-ALT TEXT: IMAGE
+ALT TEXT: Print
 
 210. FOX
 http://www.foxnews.com/politics/2017/11/09/trump-roy-moore-will-step-aside-if-sexual-misconduct-allegations-are-true.html
@@ -897,19 +902,19 @@ CAPTION: Griff Jenkins reports from Washington, D.C.
 
 211. HPO
 http://www.huffingtonpost.com/2011/12/13/donald-trump-pulling-out-debate_n_1146267.html
-ALT TEXT: IMAGE
+ALT TEXT: HuffPost
 
 212. HPO
 https://www.huffingtonpost.com/2012/08/14/obama-medicare-attack-in-_n_1775537.html
-ALT TEXT: IMAGE
+ALT TEXT: HuffPost
 
 213. HPO
 https://www.huffingtonpost.com/2010/05/28/joe-sestak-bill-clinton-s_n_593299.html
-ALT TEXT: IMAGE
+ALT TEXT: HuffPost
 
 214. HPO
 https://www.huffingtonpost.com/2012/09/20/netanyahu-obama-attack-ad_n_1901109.html
-ALT TEXT: IMAGE
+ALT TEXT: HuffPost
 
 215. NYT
 https://mobile.nytimes.com/2015/04/02/us/arkansas-governors-son-thurst-into-spotlight-over-religious-freedom-bill.html
@@ -917,7 +922,7 @@ ALT TEXT: Seth Hutchinson, a son of Gov. Asa Hutchinson of Arkansas, is a union 
 
 216. NYT
 https://www.nytimes.com/2016/06/13/us/politics/president-obama-expresses-outrage-over-massacre-at-nightclub.html
-ALT TEXT: VIDEO
+ALT TEXT: Video player loading
 
 217. FOX
 http://www.foxnews.com/politics/2012/08/21/rep-akin-appeals-for-forgiveness-in-new-ad-as-pressure-over-rape-comment-builds/
@@ -926,11 +931,11 @@ CAPTION: Steve Centanni reports from Washington, D.C.
 
 218. FOX
 https://www.foxnews.com/politics/trump-promises-birthright-citizenship-will-be-ended-one-way-or-the-other
-ALT TEXT: IMAGE
+ALT TEXT: Adam Shaw
 
 219. NYT
 https://www.nytimes.com/2011/03/30/business/30walmart.html
-ALT TEXT: IMAGE
+ALT TEXT: 
 
 220. NYT
 https://www.nytimes.com/2014/06/11/us/politics/eric-cantor-loses-gop-primary.html
@@ -950,7 +955,7 @@ CAPTION:           Feb. 20, 2013: Former Illinois Rep. Jesse Jackson Jr. arrives
 
 223. NYT
 http://www.nytimes.com/2013/04/03/us/nra-details-plan-for-armed-school-guards.html
-ALT TEXT: VIDEO
+ALT TEXT: Video player loading
 
 224. NYT
 https://www.nytimes.com/2017/11/17/us/politics/trump-elephant-trophy-ban.html
@@ -969,23 +974,23 @@ CAPTION:           RNC Chairman Michael Steele
 
 227. HPO
 https://www.huffingtonpost.com/entry/vicente-fox-enrique-pena-nieto-donald-trump_us_57c6cd8ee4b0e60d31dc3a33
-ALT TEXT: IMAGE
+ALT TEXT: HuffPost
 
 228. HPO
 https://www.huffingtonpost.com/entry/trump-shutdown-no-deal_us_5c2d3767e4b0407e9087d626
-ALT TEXT: IMAGE
+ALT TEXT: HuffPost
 
 229. HPO
 https://www.huffingtonpost.com/2014/08/20/eric-holder-ferguson-shooting_n_5696164.html
-ALT TEXT: IMAGE
+ALT TEXT: HuffPost
 
 230. HPO
 https://www.huffingtonpost.com/2015/06/30/chris-christie-president_n_6480964.html
-ALT TEXT: IMAGE
+ALT TEXT: HuffPost
 
 231. HPO
 https://www.huffingtonpost.com/entry/james-mattis-trump-defense-secretary-retire_us_5b2a4dd8e4b0a4dc9922c6ed
-ALT TEXT: IMAGE
+ALT TEXT: HuffPost
 
 232. NYT
 https://www.nytimes.com/2014/04/26/nyregion/indictment-expected-for-representative-michael-grimm.html
@@ -993,7 +998,7 @@ ALT TEXT: Representative Michael G. Grimm
 
 233. HPO
 http://www.huffingtonpost.com/2011/12/07/rick-perry-iowa-culture-wars_n_1133754.html
-ALT TEXT: IMAGE
+ALT TEXT: HuffPost
 
 234. NYT
 http://www.nytimes.com/2013/01/24/us/testifying-on-benghazi-clinton-cites-new-security-steps.html
@@ -1006,7 +1011,7 @@ CAPTION: Insight from the Wall Street Journal's John Bussey and Fox News senior 
 
 236. FOX
 https://www.foxnews.com/politics/roger-stones-predawn-fbi-arrest-operation-sparks-controversy
-ALT TEXT: IMAGE
+ALT TEXT: Brooke Singman
 
 237. NYT
 https://www.nytimes.com/2014/12/19/us/politics/nebraska-and-oklahoma-sue-colorado-over-marijuana-law.html
@@ -1021,20 +1026,20 @@ CAPTION:           FILE: Oct. 16, 2009: Lawrence Summers, then-White House chief
 
 240. FOX
 https://www.foxnews.com/politics/trump-eyes-8b-border-wall-funding-emergency-declaration
-ALT TEXT: IMAGE
+ALT TEXT: Brooke Singman
 CAPTION: Trump says he will be signing a national emergency declaration to confront the crisis at the southern border.
 
 241. NYT
 https://www.nytimes.com/2019/03/28/us/politics/adam-schiff-resign.html
-ALT TEXT: VIDEO
+ALT TEXT: Video player loading
 
 242. NYT
 https://www.nytimes.com/2010/08/17/us/politics/17mosque.html
-ALT TEXT: IMAGE
+ALT TEXT: 
 
 243. FOX
 https://www.foxnews.com/politics/trump-says-he-appreciates-muellers-statement-disputing-buzzfeed-report
-ALT TEXT: IMAGE
+ALT TEXT: Adam Shaw
 
 244. FOX
 http://www.foxnews.com/politics/2015/05/05/huckabee-announces-2016-white-house-bid.html
@@ -1051,11 +1056,11 @@ ALT TEXT: Supreme Court Justice Ruth Bader Ginsburg in Washington in 2015.
 
 247. HPO
 https://www.huffingtonpost.com/entry/nancy-pelosi-says-rashida-tlaib-motherfucker-comment-no-worse-than-trump_us_5c2f86f0e4b0d468baa44bee
-ALT TEXT: IMAGE
+ALT TEXT: HuffPost
 
 248. HPO
 https://www.huffingtonpost.com/2013/06/07/obama-nsa_n_3403389.html
-ALT TEXT: IMAGE
+ALT TEXT: HuffPost
 
 249. FOX
 http://www.foxnews.com/politics/2015/03/31/seattle-mayor-bans-official-travel-to-indiana-amid-opposition-to-state-new.html
@@ -1069,19 +1074,19 @@ CAPTION: HTTP Error
 
 251. HPO
 https://www.huffingtonpost.com/2010/08/16/reid-mosque-should-be-bui_n_683762.html
-ALT TEXT: IMAGE
+ALT TEXT: HuffPost
 
 252. HPO
 https://www.huffpost.com/entry/house-intelligence-committee-republicans-demand-chairman-adam-schiff-resignation_n_5c9cda34e4b08c450cd2a7d4
-ALT TEXT: IMAGE
+ALT TEXT: HuffPost
 
 253. HPO
 https://www.huffingtonpost.com/entry/ruth-bader-ginsburg-donald-trump_us_5783af3de4b01edea78ea5c8
-ALT TEXT: IMAGE
+ALT TEXT: HuffPost
 
 254. HPO
 https://www.huffingtonpost.com/entry/chuck-schumer-liberals-fume_us_5a6639e1e4b0e56300727401
-ALT TEXT: IMAGE
+ALT TEXT: HuffPost
 
 255. NYT
 http://www.nytimes.com/2013/06/09/us/politics/officials-say-congress-was-fully-briefed-on-surveillance.html
@@ -1104,19 +1109,19 @@ CAPTION:           Sen. Kay Bailey Hutchison visits Wharton, Texas, March 1, 201
 
 259. NYT
 https://www.nytimes.com/2015/07/01/us/politics/chris-christie-presidential-campaign.html
-ALT TEXT: VIDEO
+ALT TEXT: Video player loading
 
 260. NYT
 https://www.nytimes.com/2014/08/21/us/ferguson-missouri-protests.html
-ALT TEXT: IMAGE
+ALT TEXT: 
 
 261. FOX
 https://www.foxnews.com/politics/trump-to-make-announcement-on-partial-government-shutdown-from-rose-garden
-ALT TEXT: IMAGE
+ALT TEXT: Brooke Singman
 
 262. FOX
 http://www.foxnews.com/politics/purpose-behind-congressional-reading-of-constitution-questioned-after-amendments-are-omitted
-ALT TEXT: IMAGE
+ALT TEXT: 
 
 263. NYT
 http://thecaucus.blogs.nytimes.com/2011/12/07/perry-ad-focuses-on-gays-and-christianity/
@@ -1124,7 +1129,7 @@ ALT TEXT: The Caucus - The Politics and Government blog of The New York Times
 
 264. HPO
 https://www.huffingtonpost.com/2013/01/24/clinton-benghazi-hearings_n_2542142.html
-ALT TEXT: IMAGE
+ALT TEXT: HuffPost
 
 265. NYT
 https://www.nytimes.com/2018/12/20/us/politics/jim-mattis-defense-secretary-trump.html
@@ -1132,7 +1137,7 @@ ALT TEXT: Jim Mattis, the secretary of defense, found himself at odds with Presi
 
 266. HPO
 https://www.huffingtonpost.com/2014/04/25/michael-grimm-indicted_n_5215385.html
-ALT TEXT: IMAGE
+ALT TEXT: HuffPost
 
 267. FOX
 http://latino.foxnews.com/latino/politics/2014/06/13/rep-labrador-is-running-against-rep-mccarthy-for-house-majority-leadership/
@@ -1146,7 +1151,7 @@ CAPTION: Former New York City mayor addresses the Democratic National Convention
 
 269. FOX
 https://www.foxnews.com/politics/trumps-immigration-offer-brings-polarized-reactions-from-dems-and-gop.print
-ALT TEXT: IMAGE
+ALT TEXT: Print
 
 270. FOX
 http://www.foxnews.com/politics/2012/12/10/obama-boehner-meet-on-fiscal-crisis-for-first-time-in-weeks/
@@ -1156,7 +1161,7 @@ CAPTION:           Nov. 16, 2012: President Obama and House Speaker John Boehner
 
 271. FOX
 http://www.foxnews.com/politics/2018/07/13/democrats-urge-trump-to-cancel-putin-summit-after-indictment-russian-intel-officers.html
-ALT TEXT: IMAGE
+ALT TEXT: Brooke Singman
 CAPTION: Herald Group Vice President of Public Affairs Sabrina Schaeffer and Daily Caller News Foundation Editor-in-Chief Chris Bedford on the indictments of 12 Russian intelligence officers as part of the Mueller investigation.
 
 272. FOX
@@ -1167,11 +1172,11 @@ CAPTION:           WAUKEE, IA - APRIL 25:  Senator Marco Rubio (R-FL) speaks to 
 
 273. HPO
 https://www.huffingtonpost.com/2014/03/26/bruce-braley-iowa_n_5034847.html
-ALT TEXT: IMAGE
+ALT TEXT: HuffPost
 
 274. HPO
 https://www.huffingtonpost.com/2014/12/18/lawsuit-colorado-marijuana_n_6350162.html
-ALT TEXT: IMAGE
+ALT TEXT: HuffPost
 
 275. NYT
 https://www.nytimes.com/2015/04/01/us/politics/hillary-clinton-email-benghazi-inquiry.html
@@ -1191,27 +1196,27 @@ CAPTION:           FILE - In this July 17, 2013, file photo Liz Cheney campaigns
 
 279. HPO
 https://www.huffingtonpost.com/2013/01/16/obama-gun-control-proposals_n_2486919.html
-ALT TEXT: IMAGE
+ALT TEXT: HuffPost
 
 280. HPO
 https://www.huffingtonpost.com/2015/02/25/susan-rice-netanyahu_n_6751146.html
-ALT TEXT: IMAGE
+ALT TEXT: HuffPost
 
 281. HPO
 https://www.huffpost.com/entry/house-democrats-for-the-people-act_n_5c81d1dae4b0d936162633bf
-ALT TEXT: IMAGE
+ALT TEXT: HuffPost
 
 282. HPO
 https://www.huffpost.com/entry/democrats-immediate-release-mueller-report_n_5c95524ee4b01ebeef0f3b74
-ALT TEXT: IMAGE
+ALT TEXT: HuffPost
 
 283. NYT
 https://www.nytimes.com/2012/05/10/us/politics/romney-reaffirms-opposition-to-marriage-or-similar-for-gay-couples.html
-ALT TEXT: IMAGE
+ALT TEXT: 
 
 284. NYT
 http://www.nytimes.com/2012/10/12/us/politics/biden-takes-off-gloves-in-vice-presidential-debate.html
-ALT TEXT: IMAGE
+ALT TEXT: 
 
 285. FOX
 https://www.foxnews.com/us/suspect-arrested-in-florida-in-connection-with-suspicious-packages-sent-to-democrats
@@ -1225,12 +1230,12 @@ CAPTION: Sneak peek at Bill Hemmer's interview
 
 287. FOX
 http://www.foxnews.com/politics/2012/08/01/chick-fil-appreciation-day-brings-out-supporters-more-protestors
-ALT TEXT: IMAGE
+ALT TEXT: John Roberts
 CAPTION: Former Arkansas Governor Mike Huckabee on turnout
 
 288. FOX
 https://www.foxnews.com/politics/president-trump-takes-office-vowing-to-restore-prosperity-fight-for-country
-ALT TEXT: IMAGE
+ALT TEXT: Judson Berger
 CAPTION: President Trump delivers his inaugural address
 
 289. NYT
@@ -1243,11 +1248,11 @@ ALT TEXT: Speaker Nancy Pelosi and House members spoke on the steps of the Capit
 
 291. HPO
 https://www.huffingtonpost.com/2012/10/12/biden-ryan-debate_n_1960034.html
-ALT TEXT: IMAGE
+ALT TEXT: HuffPost
 
 292. HPO
 https://www.huffingtonpost.com/2012/05/09/mitt-romney-same-sex-marriage-man-woman_n_1504177.html
-ALT TEXT: IMAGE
+ALT TEXT: HuffPost
 
 293. FOX
 http://www.foxnews.com/politics/2016/11/30/house-democrats-set-to-vote-for-leader.html
@@ -1256,20 +1261,20 @@ CAPTION: Minority leader fends off challenge from Rep. Tim Ryan
 
 294. FOX
 http://www.foxnews.com/politics/2017/03/22/republicans-prepare-to-go-nuclear-with-gorsuch-vote-as-dems-seek-new-delay.html
-ALT TEXT: IMAGE
+ALT TEXT: Cody Derespina
 CAPTION: Sen. John Thune reacts to criticism from colleagues
 
 295. HPO
 https://www.huffpost.com/entry/michael-steeles-afghanist_n_633943
-ALT TEXT: IMAGE
+ALT TEXT: HuffPost
 
 296. HPO
 http://www.huffingtonpost.com/2015/03/31/gowdy-requests-interview_n_6977642.html
-ALT TEXT: IMAGE
+ALT TEXT: HuffPost
 
 297. FOX
 http://www.foxnews.com/politics/2011/06/01/rep-weiner-knocks-questions-lewd-photo-says-wont-distracted
-ALT TEXT: IMAGE
+ALT TEXT: 
 
 298. FOX
 http://www.foxnews.com/politics/2015/03/03/hillary-clinton-exclusively-used-private-email-account-while-secretary-state-ny.html
@@ -1278,7 +1283,7 @@ CAPTION: Hillary Clinton's use of her private email exclusively while secretary 
 
 299. NYT
 https://www.nytimes.com/2015/02/26/us/politics/susan-rice-calls-netanyahus-planned-visit-destructive-to-us-israel-ties.html
-ALT TEXT: VIDEO
+ALT TEXT: Video player loading
 
 300. NYT
 http://www.nytimes.com/2013/01/15/us/politics/biden-meets-with-house-democrats-on-gun-violence-proposals.html
