@@ -1,6 +1,6 @@
-###Weekly Meeting Notes
+### Weekly Meeting Notes
 ---
-##Friday, January 17, 2020
+## Friday, January 17, 2020
 
 Progress so far:
 - wrote program to get caption/alt text information for photo/video media (works for Fox News)
