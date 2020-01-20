@@ -1,0 +1,191 @@
+@article{hamborg2019automated,
+  title={Automated identification of media bias in news articles: an interdisciplinary literature review},
+  author={Hamborg, Felix and Donnay, Karsten and Gipp, Bela},
+  journal={International Journal on Digital Libraries},
+  volume={20},
+  number={4},
+  pages={391--415},
+  year={2019},
+  publisher={Springer}
+}
+Link: https://link.springer.com/content/pdf/10.1007%2Fs00799-018-0261-y.pdf
+
+@inproceedings{mihalcea2012towards,
+  title={Towards multimodal deception detection--step 1: building a collection of deceptive videos},
+  author={Mihalcea, Rada and Burzo, Mihai},
+  booktitle={Proceedings of the 14th ACM international conference on Multimodal interaction},
+  pages={189--192},
+  year={2012}
+}
+Link: https://dl.acm.org/doi/pdf/10.1145/2388676.2388714?download=true
+
+
+@inproceedings{abouelenien2014deception,
+  title={Deception detection using a multimodal approach},
+  author={Abouelenien, Mohamed and P{\'e}rez-Rosas, Veronica and Mihalcea, Rada and Burzo, Mihai},
+  booktitle={Proceedings of the 16th International Conference on Multimodal Interaction},
+  pages={58--65},
+  year={2014},
+  organization={ACM}
+}
+Link: https://dl.acm.org/doi/pdf/10.1145/2663204.2663229?download=true
+
+Detecting Lies: Comparing the Performance of Humans and Computers Alone and Together
+Deri, Sharma (Eva), Rappaz, Redi, Aiello, and Quercia
+Link: file:///Users/mirandadayadkins/Downloads/Detecting_Lies__Comparing_the_Performance_of_Humans_and_Computers_Alone_and_Together.pdf
+(emailed to me from Eva)
+
+@article{allcott2017social,
+  title={Social media and fake news in the 2016 election},
+  author={Allcott, Hunt and Gentzkow, Matthew},
+  journal={Journal of economic perspectives},
+  volume={31},
+  number={2},
+  pages={211--36},
+  year={2017}
+}
+Link: https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.31.2.211
+
+@article{bond2006accuracy,
+  title={Accuracy of deception judgments},
+  author={Bond Jr, Charles F and DePaulo, Bella M},
+  journal={Personality and social psychology Review},
+  volume={10},
+  number={3},
+  pages={214--234},
+  year={2006},
+  publisher={Sage Publications Sage CA: Los Angeles, CA}
+}
+Link: https://journals.sagepub.com/doi/pdf/10.1207/s15327957pspr1003_2
+
+@inproceedings{fast2016empath,
+  title={Empath: Understanding topic signals in large-scale text},
+  author={Fast, Ethan and Chen, Binbin and Bernstein, Michael S},
+  booktitle={Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems},
+  pages={4647--4657},
+  year={2016},
+  organization={ACM}
+}
+Link: https://dl.acm.org/doi/pdf/10.1145/2858036.2858535?download=true
+
+@inproceedings{hancock2007truth,
+  title={The truth about lying in online dating profiles},
+  author={Hancock, Jeffrey T and Toma, Catalina and Ellison, Nicole},
+  booktitle={Proceedings of the SIGCHI conference on Human factors in computing systems},
+  pages={449--452},
+  year={2007},
+  organization={ACM}
+}
+Link: https://dl.acm.org/doi/pdf/10.1145/1240624.1240697?download=true
+
+@article{klein2015group,
+  title={Group discussion improves lie detection},
+  author={Klein, Nadav and Epley, Nicholas},
+  journal={Proceedings of the National Academy of Sciences},
+  volume={112},
+  number={24},
+  pages={7460--7465},
+  year={2015},
+  publisher={National Acad Sciences}
+}
+Link: https://www.pnas.org/content/pnas/112/24/7460.full.pdf
+
+@inproceedings{mihalcea2009lie,
+  title={The lie detector: Explorations in the automatic recognition of deceptive language},
+  author={Mihalcea, Rada and Strapparava, Carlo},
+  booktitle={Proceedings of the ACL-IJCNLP 2009 Conference Short Papers},
+  pages={309--312},
+  year={2009},
+  organization={Association for Computational Linguistics}
+}
+Link: https://dl.acm.org/doi/pdf/10.5555/1667583.1667679?download=true
+
+@inproceedings{ott2012estimating,
+  title={Estimating the prevalence of deception in online review communities},
+  author={Ott, Myle and Cardie, Claire and Hancock, Jeff},
+  booktitle={Proceedings of the 21st international conference on World Wide Web},
+  pages={201--210},
+  year={2012},
+  organization={ACM}
+}
+Link: https://dl.acm.org/doi/pdf/10.1145/2187836.2187864?download=true
+
+@inproceedings{ott2011finding,
+  title={Finding deceptive opinion spam by any stretch of the imagination},
+  author={Ott, Myle and Choi, Yejin and Cardie, Claire and Hancock, Jeffrey T},
+  booktitle={Proceedings of the 49th annual meeting of the association for computational linguistics: Human language technologies-volume 1},
+  pages={309--319},
+  year={2011},
+  organization={Association for Computational Linguistics}
+}
+Link: https://dl.acm.org/doi/pdf/10.5555/2002472.2002512?download=true
+
+@inproceedings{perez2015verbal,
+  title={Verbal and nonverbal clues for real-life deception detection},
+  author={P{\'e}rez-Rosas, Ver{\'o}nica and Abouelenien, Mohamed and Mihalcea, Rada and Xiao, Yao and Linton, CJ and Burzo, Mihai},
+  booktitle={Proceedings of the 2015 Conference on Empirical Methods in Natural Language Processing},
+  pages={2336--2346},
+  year={2015}
+}
+Link: https://www.aclweb.org/anthology/D15-1281.pdf
+
+@inproceedings{perez2015experiments,
+  title={Experiments in open domain deception detection},
+  author={P{\'e}rez-Rosas, Ver{\'o}nica and Mihalcea, Rada},
+  booktitle={Proceedings of the 2015 Conference on Empirical Methods in Natural Language Processing},
+  pages={1120--1125},
+  year={2015}
+}
+Link: https://www.aclweb.org/anthology/D15-1133.pdf
+
+@inproceedings{perez2014multimodal,
+  title={A Multimodal Dataset for Deception Detection.},
+  author={P{\'e}rez-Rosas, Ver{\'o}nica and Mihalcea, Rada and Narvaez, Alexis and Burzo, Mihai},
+  booktitle={LREC},
+  pages={3118--3122},
+  year={2014}
+}
+Link: http://www.lrec-conf.org/proceedings/lrec2014/pdf/869_Paper.pdf
+
+@article{ten2016can,
+  title={Can ordinary people detect deception after all?},
+  author={ten Brinke, Leanne and Vohs, Kathleen D and Carney, Dana R},
+  journal={Trends in cognitive sciences},
+  volume={20},
+  number={8},
+  pages={579--588},
+  year={2016},
+  publisher={Elsevier}
+}
+Link: https://reader.elsevier.com/reader/sd/pii/S1364661316300547?token=AA2C2885876D091AAD26D3B824212908DD5BADD16494A1A24C7F98B4F83EB7D8FBE6464648BC495355005D52E7DF2B1B
+
+@article{toma2008separating,
+  title={Separating fact from fiction: An examination of deceptive self-presentation in online dating profiles},
+  author={Toma, Catalina L and Hancock, Jeffrey T and Ellison, Nicole B},
+  journal={Personality and Social Psychology Bulletin},
+  volume={34},
+  number={8},
+  pages={1023--1036},
+  year={2008},
+  publisher={Sage Publications Sage CA: Los Angeles, CA}
+}
+Link: https://journals.sagepub.com/doi/pdf/10.1177/0146167208318067
+
+@incollection{zuckerman1981verbal,
+  title={Verbal and nonverbal communication of deception},
+  author={Zuckerman, Miron and DePaulo, Bella M and Rosenthal, Robert},
+  booktitle={Advances in experimental social psychology},
+  volume={14},
+  pages={1--59},
+  year={1981},
+  publisher={Elsevier}
+}
+Link: https://reader.elsevier.com/reader/sd/pii/S006526010860369X?token=2EB3AF942FD0B2AD0521D9BC3DC04D9FA6A2323D28D7794243EEDB8EE3582162A10BFFBC568D00AF4FCE236978597E81
+
+@article{rashkin2015connotation,
+  title={Connotation frames: A data-driven investigation},
+  author={Rashkin, Hannah and Singh, Sameer and Choi, Yejin},
+  journal={arXiv preprint arXiv:1506.02739},
+  year={2015}
+}
+Link: https://arxiv.org/pdf/1506.02739.pdf
