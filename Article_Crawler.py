@@ -27,10 +27,37 @@ def get_headline(json_file_path: str):
     headline = json_obj["title"]
     return headline
 
+# Determines whether media is an image or video
+def get_media_type(url):
+    req = Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+    try:
+        page_content = urlopen(req).read()
+    except urllib.error.HTTPError:
+        return "HTTP Error"
+    except urllib.error.URLError:
+        return "URL Error"
+    else:
+        soup = BeautifulSoup(page_content, "html.parser")
+        if soup.find('video') is not None:
+            return 'VIDEO'
+        elif soup.find('img') is not None:
+            return 'IMAGE'
 
-# # FOX: Determines whether media is an image or video and returns media link
-# def fox_get_media(url):
-
+# Returns media link (image or video)
+def get_media(url):
+    req = Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+    try:
+        page_content = urlopen(req).read()
+    except urllib.error.HTTPError:
+        return "HTTP Error"
+    except urllib.error.URLError:
+        return "URL Error"
+    else:
+        soup = BeautifulSoup(page_content, "html.parser")
+        if soup.find('video') is not None:
+            return soup.find('video')['src']
+        elif soup.find('img') is not None:
+            return soup.find('img')['src']
 
 # FOX: Gets alt text of first image/video in the article, if it exists
 def fox_get_alt_text(url):
@@ -72,37 +99,6 @@ def fox_get_captions_text(url):
                     else:
                         return cap_text
 
-# NYT: Determines whether media is an image or video
-def nyt_get_media_type(url):
-    req = Request(url, headers={'User-Agent': 'Mozilla/5.0'})
-    try:
-        page_content = urlopen(req).read()
-    except urllib.error.HTTPError:
-        return "HTTP Error"
-    except urllib.error.URLError:
-        return "URL Error"
-    else:
-        soup = BeautifulSoup(page_content, "html.parser")
-        if soup.find('video') is not None:
-            return 'VIDEO'
-        elif soup.find('img') is not None:
-            return 'IMAGE'
-
-# NYT: Returns media link
-def nyt_get_media(url):
-    req = Request(url, headers={'User-Agent': 'Mozilla/5.0'})
-    try:
-        page_content = urlopen(req).read()
-    except urllib.error.HTTPError:
-        return "HTTP Error"
-    except urllib.error.URLError:
-        return "URL Error"
-    else:
-        soup = BeautifulSoup(page_content, "html.parser")
-        if soup.find('video') is not None:
-            return soup.find('video')['src']
-        elif soup.find('img') is not None:
-            return soup.find('img')['src']
 
 # NYT: Gets alt text of first image/video in the article, if it exists
 def nyt_get_alt_text(url):
@@ -133,7 +129,7 @@ def nyt_get_captions_text(url):
         return "URL Error"
     else:
         soup = BeautifulSoup(page_content, "html.parser")
-        captions = soup.find('figcaption', {'itemprop': 'caption description'})
+        captions = soup.find('figcaption')
         if captions is not None:
             cap = captions.find("span")
             if cap is not None:
@@ -147,16 +143,14 @@ def nyt_get_captions_text(url):
 
 # Writes web page details to outfile
 def printText(url, headline, outfile, website, count):
+    media_link = get_media(url)
+    media_type = get_media_type(url)
     if website == "FOX":
         alt_text = (fox_get_alt_text(url))
         caption = fox_get_captions_text(url)
-        media_link = fox_get_media(url)
-        media_type = fox_get_media_type(url)
     elif website == "NYT":
         alt_text = nyt_get_alt_text(url)
         caption = nyt_get_captions_text(url)
-        media_link = nyt_get_media(url)
-        media_type = nyt_get_media_type(url)
     else:
         alt_text = None
         caption = None
@@ -165,7 +159,7 @@ def printText(url, headline, outfile, website, count):
     if media_link is not None:
         outfile.write(media_type + ": " + media_link + "\n")
     else:
-        outfile.write("No media")
+        outfile.write("No media\n")
     if alt_text is not None:
         outfile.write("ALT TEXT: " + alt_text + "\n")
     if caption is not None:
