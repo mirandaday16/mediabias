@@ -1,6 +1,6 @@
-### Weekly Meeting Notes
----
-## Friday, January 17, 2020
+## Weekly Meeting Notes
+
+### Friday, January 17, 2020
 
 Progress so far:
 - wrote program to get caption/alt text information for photo/video media (works for Fox News)
@@ -19,4 +19,11 @@ Post-meeting ACTION ITEMS:
 3. Consider how to store data: website, article title, type of media, link to media, caption text, alt-text, notes about potential bias (see Hamborg paper)
 4. Pause literary review for now (but read Hamborg paper this week)
 
---
+---
+
+###  Mid-Week Updates: Tuesday, January 21, 2020
+
+- Purchased NYT student subscription (first 4 weeks free, then talk to Lu about reimbursement)
+- Updated crawler to capture alt text and captions from NYT articles
+
+---
