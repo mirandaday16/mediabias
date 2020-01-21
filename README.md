@@ -24,6 +24,11 @@ Post-meeting ACTION ITEMS:
 ###  Mid-Week Updates: Tuesday, January 21, 2020
 
 - Purchased NYT student subscription (first 4 weeks free, then talk to Lu about reimbursement)
-- Updated crawler to capture alt text and captions from NYT articles
+- Updated crawler to capture alt text and captions from NYT articles, and media type/link for all articles
+- Updated metadata file with latest crawl
+
+To do:
+- Decide on a method of storing/displaying data more efficiently
+- Begin thinking about guidelines for annotating data manually (notes about potential bias)
 
 ---
