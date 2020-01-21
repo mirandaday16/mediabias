@@ -38,9 +38,9 @@ def get_media_type(url):
         return "URL Error"
     else:
         soup = BeautifulSoup(page_content, "html.parser")
-        if soup.find('video') is not None:
+        if soup.find('div',{'class': 'video-container'}) is not None:
             return 'VIDEO'
-        elif soup.find('img') is not None:
+        elif soup.find('div',{'class': 'm'}) is not None:
             return 'IMAGE'
 
 # Returns media link (image or video)
@@ -70,11 +70,18 @@ def fox_get_alt_text(url):
         return "URL Error"
     else:
         soup = BeautifulSoup(page_content, "html.parser")
-        for div in soup.find_all('div'):
-            img = div.find('img', alt=True)
-            if img is not None:
-                if img['alt'] is not None:
-                    return img['alt']
+        if get_media_type(url) == "IMAGE":
+            for div in soup.find_all('div'):
+                img = div.find('img', alt=True)
+                if img is not None:
+                    if img['alt'] is not None:
+                        return img['alt']
+        elif get_media_type(url) == "VIDEO":
+            for div in soup.find_all('div'):
+                vid = div.find('video', alt=True)
+                if vid is not None:
+                    if vid['alt'] is not None:
+                        return vid['alt']
 
 
 # FOX: Gets caption text for first image or video
@@ -111,11 +118,12 @@ def nyt_get_alt_text(url):
         return "URL Error"
     else:
         soup = BeautifulSoup(page_content, "html.parser")
-        for img in soup.find_all('img'):
-            alt = img.find('img', alt=True)
-            if img is not None:
-                if img['alt'] is not None:
-                    return img['alt']
+        if get_media_type(url) == "IMAGE":
+            for img in soup.find_all('img'):
+                alt = img.find('img', alt=True)
+                if alt is not None:
+                    if alt['alt'] is not None:
+                        return alt['alt']
 
 
 # NYT: Gets caption text for first image or video
@@ -175,7 +183,7 @@ def main():
     count = 1
     for file in os.listdir(directory):
         website = get_website(file)
-        if website != "HPO":
+        if website != "HPO" and website != "NYT":
             url = (get_url(directory + file))
             headline = get_headline(directory + file)
             printText(url, headline, outfile, website, count)
