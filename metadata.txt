@@ -1,19 +1,23 @@
 1. NYT
 HEADLINE: Gay Marriages Get Recognition From the I.R.S.
+http://www.nytimes.com/2013/08/30/us/politics/irs-to-recognize-all-gay-marriages-regardless-of-state.html
 IMAGE: https://static01.nyt.com/images/2013/08/30/us/JP-MARRIAGE-1/JP-MARRIAGE-1-articleLarge.jpg?quality=75&auto=webp&disable=upscale
 CAPTION: In June, supporters of same-sex marriage in West Hollywood, Calif., celebrated the Supreme Court’s ruling striking down the Defense of Marriage Act.
 
 2. NYT
 HEADLINE: AARP Open to Social Security Cuts
+http://www.nytimes.com/2011/06/18/us/18aarp.html
 No media
 
 3. FOX
 HEADLINE: Obama administration defends 2nd mass surveillance project
+http://www.foxnews.com/politics/2013/06/07/intelligence-officials-reportedly-mining-data-from-us-internet-companies/
 VIDEO: https://a57.foxnews.com/a57.foxnews.com/media2.foxnews.com/thumbnails/i/060613/640/360/931/524/060613_fxr_heddridge_640.jpg?ve=1&tl=1
 CAPTION: Fox News confirms agency tapped into online records
 
 4. FOX
 HEADLINE: Ocasio-Cortez defends Tlaib after impeachment remarks: ‘I got your back’
+https://www.foxnews.com/politics/ocasio-cortez-defends-tlaib-after-impeachment-remarks-i-got-your-back.print
 IMAGE: //global.fncstatic.com/static/v/all/img/icon-print.gif
 ALT TEXT: Print
 CAPTION:       Rep. Alexandria Ocasio-Cortez took a stand for fellow House freshman  Rashida Tlaib on Saturday after the latter’s expletive-laced comments in favor of impeaching the president.
@@ -21,35 +25,42 @@ CAPTION:       Rep. Alexandria Ocasio-Cortez took a stand for fellow House fresh
 
 5. NYT
 HEADLINE: Idaho Republican, Appealing to Right, Enters Race to Replace Cantor
+http://mobile.nytimes.com/2014/06/14/us/idaho-republican-appealing-to-right-enters-race-to-replace-cantor.html
 IMAGE: https://static01.nyt.com/images/2014/06/14/us/REPUBS1/REPUBS1-articleLarge.jpg?quality=75&auto=webp&disable=upscale
 CAPTION: Representative Raúl R. Labrador, a Republican of Idaho, has jumped into the race for House majority leader.
 
 6. NYT
 HEADLINE: For Trump and Bloomberg, Cordial Ties Have Soured
+https://www.nytimes.com/2016/07/29/nyregion/for-trump-and-bloomberg-cordial-ties-have-soured.html
 IMAGE: https://static01.nyt.com/images/2016/07/29/nyregion/29BLOOMBERG2/29BLOOMBERG2-articleLarge.jpg?quality=75&auto=webp&disable=upscale
 CAPTION: Former Mayor Michael R. Bloomberg of New York and Donald J. Trump at the Trump National Golf Club, in the city’s northern suburbs, in 2007.
 
 7. FOX
 HEADLINE: Perry TV Ad: I Can Defend Faith from Obama’s “War on Religion
+http://www.foxnews.com/politics/2011/12/07/perry-tv-ad-can-defend-faith-from-obamas-war-on-religion/
 IMAGE: //static.foxnews.com/foxnews.com/content/uploads/2019/08/elections-og-candidate-tracker-3.png
 ALT TEXT: 
 
 8. FOX
 HEADLINE: Defense Secretary James Mattis to leave as of January 1; Trump taps Patrick Shanahan as acting secretary of defense
+https://www.foxnews.com/politics/defense-secretary-james-mattis-to-leave-as-of-january-1-trump-taps-patrick-shanahan-as-acting-secretary-of-defense
 VIDEO: https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/greggre.jpg?ve=1&tl=1
 CAPTION: Former Trump campaign manager Corey Lewandowski and former deputy assistant secretary of state in the Obama administration Joel Rubin debate.
 
 9. NYT
 HEADLINE: Trump Signs Bill Reopening Government for 3 Weeks in Surprise Retreat From Wall
+https://www.nytimes.com/2019/01/25/us/politics/trump-shutdown-deal.html
 VIDEO: https://static01.nyt.com/images/2019/01/26/us/politics/26dc-trump-shutdown/26dc-trump-shutdown-videoSixteenByNine3000.jpg
 CAPTION: President Trump said he would end the partial government shutdown for three weeks while negotiations over the border wall continue. He also indicated that he was open to declaring a national emergency or shutting down the government again if Republicans and Democrats cannot reach an agreement on wall money by the February deadline.
 
 10. NYT
 HEADLINE: House Reading of Constitution Is Not Without Issues
-IMAGE: https://static01.nyt.com/images/blogs_v5/thecaucus/thecaucus_post.png
+https://thecaucus.blogs.nytimes.com/2011/01/06/house-reading-of-the-constitution-is-not-without-issues/
+No media
 
 11. FOX
 HEADLINE: NJ Gov Chris Christie to Throw His Hat in the Ring for White House Run
+http://www.foxnews.com/us/2015/06/30/nj-gov-chris-christie-to-throw-his-hat-in-ring-for-white-house-run.html
 IMAGE: https://a57.foxnews.com/a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/1862/1048/ChristieBlog.jpg?ve=1&tl=1?ve=1&tl=1
 ALT TEXT: New Jersey Gov. Chris Christie signs the state's 2016 budget, Friday, June 26, 2015, in Trenton, N.J. Christie vetoed more than $1.6 billion from the 2016 budget approved by the Democratic-controlled Legislature and signed a roughly $34 billion budget into law. (AP Photo/Julio Cortez)
 CAPTION:           New Jersey Gov. Chris Christie signs the state's 2016 budget, Friday, June 26, 2015, in Trenton, N.J. Christie vetoed more than $1.6 billion from the 2016 budget approved by the Democratic-controlled Legislature and signed a roughly $34 billion budget into law. (AP Photo/Julio Cortez)
@@ -57,30 +68,36 @@ CAPTION:           New Jersey Gov. Chris Christie signs the state's 2016 budget,
 
 12. FOX
 HEADLINE: Holder says he understands mistrust of police as Ferguson protests dwindle
+http://www.foxnews.com/politics/2014/08/21/holder-says-understands-mistrust-police-as-ferguson-protests-dwindle/
 VIDEO: https://a57.foxnews.com/a57.foxnews.com/media2.foxnews.com/thumbnails/i/082114/640/360/931/524/082114_housley_ferguson_640.jpg?ve=1&tl=1
 CAPTION: Adam Housley reports from Missouri
 
 13. NYT
 HEADLINE: Democrats Say Trump Should Cancel Putin Meeting After Indictments
+https://www.nytimes.com/2018/07/13/us/politics/democrats-russia-hacking-indictments.html
 IMAGE: https://static01.nyt.com/images/2018/07/14/us/politics/14dc-cong1/merlin_141048030_6e791359-e5d8-4183-baf5-76b9997aca2b-articleLarge.jpg?quality=75&auto=webp&disable=upscale
 CAPTION: Senator Chuck Schumer of New York, the Democratic leader, said President Trump should cancel his meeting with President Vladimir V. Putin of Russia.
 
 14. NYT
 HEADLINE: Marco Rubio to Outline His Approach to Foreign Policy
+https://www.nytimes.com/politics/first-draft/2015/05/13/marco-rubio-to-outline-his-approach-to-foreign-policy/
 IMAGE: data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDE3LjEuMCwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPgo8IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPgo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IgogICAgIHZpZXdCb3g9IjAgMCAyMiAyOCIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgMjIgMjgiIHhtbDpzcGFjZT0icHJlc2VydmUiPgo8cGF0aCBmaWxsPSIjMjMxRjIwIiBkPSJNMjAuOCwxN0wyMC44LDE3Yy0wLjksMi4xLTIuNCwzLjgtNC43LDQuN1YxN2wyLjYtMi4zbC0yLjYtMi4zVjkuMWMyLjQtMC4xLDQuMi0xLjksNC4yLTQuMQogICAgYzAtMi44LTIuNi0zLjgtNC4yLTMuOGMtMC4zLDAtMC43LDAtMS4yLDAuMXYwLjFjMC4yLDAsMC41LDAsMC42LDBjMSwwLDEuOCwwLjUsMS44LDEuNGMwLDAuNy0wLjYsMS40LTEuNiwxLjQKICAgIGMtMi42LDAtNS42LTIuMS04LjktMi4xYy0yLjksMC01LDIuMi01LDQuNGMwLDIuMiwxLjMsMi45LDIuNiwzLjRsMC0wLjFDNCw5LjgsMy43LDkuMywzLjcsOC42YzAtMSwwLjktMS44LDIuMS0xLjgKICAgIGMyLjgsMCw3LjMsMi4zLDEwLDIuNGgwLjF2My4zbC0yLjYsMi4zbDIuNiwyLjN2NC44Yy0wLjksMC4zLTIsMC41LTMuMiwwLjVjLTEuOSwwLTMuNi0wLjUtNC45LTEuNmw0LjctMi4xVjkuMkw2LDEyLjEKICAgIEM2LjgsOS44LDguNSw4LjUsOS44LDhsMC0wLjFDNSw4LjksMS4yLDEyLjMsMS4yLDE3YzAsNS41LDQuMiw5LjYsMTAuMyw5LjZjNi4zLDAsOS4yLTQuNiw5LjItOS4zVjE3eiBNNy43LDIwLjUKICAgIGMtMS4zLTEuMi0yLjEtMy4xLTIuMS01LjVjMC0xLDAuMS0yLDAuNC0yLjdsMi4yLTF2OUw3LjcsMjAuNXoiLz4KPC9zdmc+Cg==
 CAPTION: Senator Marco Rubio at the Freedom Summit in Greenville, S.C., this month.
 
 15. NYT
 HEADLINE: Trump Offers Temporary Protections for ‘Dreamers’ in Exchange for Wall Funding
+https://www.nytimes.com/2019/01/19/us/politics/trump-proposal-daca-wall.html
 VIDEO: https://static01.nyt.com/images/2019/01/20/business/20TRUMP-sub1/20TRUMP-sub1-videoSixteenByNine3000-v2.jpg
 CAPTION: In a White House address, President Trump announced a plan that would provide temporary protection from deportation for some immigrants in exchange for $5.7 billion in funding for a wall on the U.S.-Mexico border.
 
 16. NYT
 HEADLINE: Obama and Boehner Talk Deficits at the White House
-IMAGE: https://static01.nyt.com/images/blogs_v5/thecaucus/thecaucus_post.png
+http://thecaucus.blogs.nytimes.com/2012/12/09/officials-foresee-progress-on-fiscal-talks/
+No media
 
 17. FOX
 HEADLINE: Federal prosecutors plan to file charges against Rep. Grimm, attorney says
+http://www.foxnews.com/politics/2014/04/25/federal-prosecutors-plan-to-file-charges-against-rep-grimm-attorney-says.html
 IMAGE: https://a57.foxnews.com/a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/1862/1048/grimminternal15121.jpg?ve=1&tl=1?ve=1&tl=1
 ALT TEXT: Jan 2, 2013: Representative Michael Grimm (R-NY) talks to the media. (Reuters)
 CAPTION:           Jan 2, 2013: Representative Michael Grimm (R-NY) talks to the media. (Reuters)
@@ -88,11 +105,13 @@ CAPTION:           Jan 2, 2013: Representative Michael Grimm (R-NY) talks to the
 
 18. FOX
 HEADLINE: Republicans challenge Clinton claims on budget cuts, Benghazi cable
+http://www.foxnews.com/politics/2013/01/24/republicans-challenge-clinton-claims-on-budget-cuts-benghazi-cable/
 VIDEO: https://a57.foxnews.com/a57.foxnews.com/media2.foxnews.com/thumbnails/i/012313/640/360/931/524/012313_sr_panel_640.jpg?ve=1&tl=1
 CAPTION: All-Star panel weighs in
 
 19. FOX
 HEADLINE: Colorado's top cop defends pot law after challenges from neighboring states 
+http://www.foxnews.com/politics/2014/12/19/colorado-top-cop-defends-pot-law-after-challenges-from-neighboring-states.html
 IMAGE: https://a57.foxnews.com/a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/1862/1048/a47d8124-Colorado-Pot-Challenge.jpg?ve=1&tl=1?ve=1&tl=1
 ALT TEXT: ASPEN, CO - APRIL 18:  An array of marijuana samples are seen on a table at the Cannabis Crown 2010 expo in Aspen, Colorado. Colorado, one of 14 states to allow use of medical marijuana, has experienced an explosion in marijuana dispensaries, trade shows and related businesses in the last year as marijuana use becomes more mainstream.  (Photo by Chris Hondros/Getty Images)
 CAPTION:           ASPEN, CO - APRIL 18:  An array of marijuana samples are seen on a table at the Cannabis Crown 2010 expo in Aspen, Colorado. Colorado, one of 14 states to allow use of medical marijuana, has experienced an explosion in marijuana dispensaries, trade shows and related businesses in the last year as marijuana use becomes more mainstream.  (Photo by Chris Hondros/Getty Images)
@@ -100,6 +119,7 @@ CAPTION:           ASPEN, CO - APRIL 18:  An array of marijuana samples are seen
 
 20. FOX
 HEADLINE: Dem running for Senate in Iowa mocks Grassley as farmer 'who never went to law school'
+http://www.foxnews.com/politics/2014/03/25/rep-braley-mocks-sen-grassley-as-just-iowa-farmer-who-never-went-to-law-school/
 IMAGE: https://a57.foxnews.com/a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/1862/1048/braleygrassley.jpg?ve=1&tl=1?ve=1&tl=1
 ALT TEXT: Rep. Bruce Braley, left, and Sen. Chuck Grassley.
 CAPTION:           Rep. Bruce Braley, left, and Sen. Chuck Grassley.
@@ -107,127 +127,153 @@ CAPTION:           Rep. Bruce Braley, left, and Sen. Chuck Grassley.
 
 21. NYT
 HEADLINE: Senate Set to Override Veto on Bill Allowing 9/11 Suits Against Saudi Arabia
+https://mobile.nytimes.com/2016/09/29/us/politics/senate-9-11-saudi-arabia.html
 IMAGE: https://static01.nyt.com/images/2016/09/28/us/28fdnl-pelosi/28fdnl-pelosi-articleLarge.jpg?quality=75&auto=webp&disable=upscale
 CAPTION: Representative Nancy Pelosi of California, who plans to support a veto override effort, tried on Tuesday to play down any split between Democrats and Mr. Obama.
 
 22. NYT
 HEADLINE: Indicting Roger Stone, Mueller Shows Link Between Trump Campaign and WikiLeaks
+https://www.nytimes.com/2019/01/25/us/politics/roger-stone-trump-mueller.html
 VIDEO: https://static01.nyt.com/images/2019/01/26/us/politics/26dc-stone-print/26dc-stone1-videoSixteenByNine3000.jpg
 CAPTION: Roger J. Stone Jr., a longtime Trump adviser, has been charged as part of the investigation by the special counsel, Robert S. Mueller III. He was arrested in a pre-dawn F.B.I. raid in Fort Lauderdale, Fla., and appeared in court on Friday.
 
 23. FOX
 HEADLINE: Schumer bashed by the left over shutdown-ending deal
+http://www.foxnews.com/politics/2018/01/23/schumer-bashed-by-left-over-shutdown-ending-deal.html
 VIDEO: https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/joseph-weber.png?ve=1&tl=1
 CAPTION: Senate passes bill to end shutdown, House to vote soon; reaction and analysis on 'The Five.'
 
 24. FOX
 HEADLINE: Ginsburg under fire from both sides over ‘highly inappropriate’ Trump comments
+http://www.foxnews.com/politics/2016/07/13/ginsburg-under-fire-from-both-sides-over-highly-inappropriate-trump-comments.html
 VIDEO: https://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2016/07/12/931/524/694940094001_5032446103001_12132a0d-2824-4810-b432-8121c9f2dc10.jpg?ve=1&tl=1
 CAPTION: Bias Bash: Ellen Ratner on why the media should be holding Supreme Court Justice Ruth Bader Ginsburg to task for her recent comments on Donald Trump
 
 25. NYT
 HEADLINE: Mueller Statement Disputes Report That Trump Directed Cohen to Lie
+https://www.nytimes.com/2019/01/18/us/politics/buzzfeed-cohen-russia-tower.html
 IMAGE: https://static01.nyt.com/images/2019/01/19/us/19dc-cohen-print/19dc-cohen-articleLarge.jpg?quality=75&auto=webp&disable=upscale
 CAPTION: Michael D. Cohen, President Trump’s longtime lawyer and fixer, was sentenced last month to three years in prison.
 
 26. NYT
 HEADLINE: Mike Huckabee on the Issues
+https://www.nytimes.com/2015/05/06/us/politics/mike-huckabee-on-the-issues.html
 IMAGE: https://static01.nyt.com/images/2015/05/06/us/politics/06ISSUES-HUCKABEE-web/06ISSUES-HUCKABEE-web-articleLarge.jpg?quality=75&auto=webp&disable=upscale
 CAPTION: Mike Huckabee at the National Rifle Association's annual meeting in Nashville last month.
 
 27. FOX
 HEADLINE: Adam Schiff urged to step down as chairman by House Intelligence Committee Republicans
+https://www.foxnews.com/politics/adam-schiff-urged-to-step-down-by-gop-members-on-house-intelligence-committee
 VIDEO: https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1
 CAPTION: The nine Republicans on the House Intelligence Committee present a letter calling for the resignation of Democrat Chair Adam Schiff over his repeated claims of Trump-Russia collusion after the release of the Mueller report.
 
 28. FOX
 HEADLINE: Reid Breaks With Obama Over Proposed Ground Zero Mosque
+http://www.foxnews.com/politics/2010/08/16/white-house-says-politics-factor-decision-enter-mosque-debate/
 IMAGE: https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/931/524/Proposed-Mosque-Site.jpg?ve=1&tl=1
 ALT TEXT: Debate Rages Over Ground Zero Mosque
 CAPTION: President Obama has expressed his support for the construction of a Muslim community center and mosque near the World Trade Center site in downtown Manhattan, as many protest the plan, saying it is wrong to build a mosque so close to the site of the Sept. 11 attacks. 
 
 29. NYT
 HEADLINE: Biden Tries, Again, to Sell Tax Compromise to Hill Democrats
-IMAGE: https://static01.nyt.com/images/blogs_v5/thecaucus/thecaucus_post.png
+http://thecaucus.blogs.nytimes.com/2010/12/08/biden-tries-again-to-sell-tax-compromise-to-hill-democrats/
+No media
 
 30. NYT
 HEADLINE: Trump Declares a National Emergency, and Provokes a Constitutional Clash
+https://www.nytimes.com/2019/02/15/us/politics/national-emergency-trump.html
 VIDEO: https://static01.nyt.com/images/2019/02/16/us/politics/16dc-trump-vid2/16dc-trump-vid2-videoSixteenByNine3000-v3.jpg
 CAPTION: After declaring a national emergency to build a border wall, President Trump said “I want to get it done faster, that’s all.” The move bypasses Congress.
 
 31. NYT
 HEADLINE: Indiana Governor Says Legislators May Clarify Religious Beliefs Law
+https://www.nytimes.com/2015/03/30/us/politics/legislators-in-indiana-may-clarify-beliefs-law.html
 No media
 
 32. NYT
 HEADLINE: Governor of Arizona Is Pressed to Veto Bill
+https://www.nytimes.com/2014/02/25/us/governor-of-arizona-is-pressed-to-veto-bill.html
 No media
 
 33. FOX
 HEADLINE: As Mueller findings released, 2020 Dems demand to see 'whole damn report'
+https://www.foxnews.com/politics/as-mueller-findings-released-2020-dems-demand-whole-report
 VIDEO: https://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2019/03/25/931/524/694940094001_6017716216001_6017715099001-vs.jpg?ve=1&tl=1
 CAPTION: Trump opponents are trying to keep the focus on the Russia investigation as the White House seeks to move on; Peter Doocy reports from Washington.
 
 34. FOX
 HEADLINE: House approves sweeping Dem election reform bill, amid First Amendment concerns
+https://www.foxnews.com/politics/house-approves-sweeping-dem-election-reform-bill-amid-first-amendment-concerns
 VIDEO: https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/09/340/340/fe850e50-download.jpg?ve=1&tl=1
 
 35. NYT
 HEADLINE: Chick-fil-A Draws Huge Crowds for Appreciation Day
+http://thelede.blogs.nytimes.com/2012/08/01/chick-fil-a-draws-huge-crowds-for-appreciation-day/
 IMAGE: https://static01.nyt.com/images/blogs_v5/thelede/thelede_post.png
 
 36. NYT
 HEADLINE: Donald Trump Is Sworn In as President, Capping His Swift Ascent
+https://www.nytimes.com/2017/01/20/us/politics/trump-inauguration-day.html
 VIDEO: https://static01.nyt.com/images/2017/01/21/us/21MEDIA-01p/21inauguration-trump-highlights-videoSixteenByNineJumbo1600-v2.jpg
 CAPTION: “From this day forward, it's going to be only America first, America first,” President Trump declared in a forceful 16-minute Inaugural Address.
 
 37. NYT
 HEADLINE: Nancy Pelosi Beats Back House Democratic Leadership Challenge
+https://www.nytimes.com/2016/11/30/us/politics/nancy-pelosi-house-democrats-tim-ryan.html
 VIDEO: https://static01.nyt.com/images/2016/12/01/us/01dems/01dems-videoSixteenByNineJumbo1600.jpg
 CAPTION: Nancy Pelosi, the House minority leader, was challenged for the position by Representative Tim Ryan of Ohio.
 
 38. NYT
 HEADLINE: Democrats Plan to Filibuster to Thwart Gorsuch Nomination
+https://www.nytimes.com/2017/03/23/us/politics/democrats-filibuster-neil-gorsuch-nomination.html
 IMAGE: https://static01.nyt.com/images/2017/03/24/us/24FILIBUSTER-01/24FILIBUSTER-01-articleLarge.jpg?quality=75&auto=webp&disable=upscale
 CAPTION: Judge Neil M. Gorsuch at his Supreme Court confirmation hearing on Capitol Hill on Wednesday.
 
 39. FOX
 HEADLINE: Susan Rice calls Netanyahu's Capitol Hill speech 'destructive' to US-Israel relations
+http://www.foxnews.com/politics/2015/02/25/white-house-adviser-rice-says-netanyahu-capitol-hill-address-destructive-to-us.html
 VIDEO: https://a57.foxnews.com/a57.foxnews.com/media2.foxnews.com/2015/02/06/640/360/931/524/020615_tf_rice.jpg?ve=1&tl=1
 CAPTION: Obama administration downplays global terrorism
 
 40. FOX
 HEADLINE: Obama urges new restrictions on assault weapons, magazines as part of gun control plan
+http://www.foxnews.com/politics/2013/01/16/obama-urges-new-restrictions-on-assault-weapons-magazines-as-part-gun-control/
 VIDEO: https://a57.foxnews.com/a57.foxnews.com/media2.foxnews.com/thumbnails/i/011613/640/360/931/524/obama_guns_011613.jpg?ve=1&tl=1
 CAPTION: Announces plans to use 23 executive actions
 
 41. NYT
 HEADLINE: Weiner Denies Sending Photo but Is Less Sure About Its Origin
+http://www.nytimes.com/2011/06/02/nyregion/weiner-denies-sending-photo-over-twitter-but-is-less-sure-of-its-origin.html
 IMAGE: https://static01.nyt.com/images/2011/06/02/nyregion/weiner/weiner-jumbo.jpg?quality=75&auto=webp&disable=upscale
 CAPTION: Representative Anthony D. Weiner sat for interviews on Wednesday.
 
 42. NYT
 HEADLINE: Hillary Clinton Asks State Department to Vet Emails for Release
+https://www.nytimes.com/2015/03/06/us/politics/hillary-clinton-asks-state-dept-to-review-emails-for-public-release.html
 IMAGE: https://static01.nyt.com/images/2015/03/06/us/06EMAILS/06EMAILS-articleLarge.jpg?quality=75&auto=webp&disable=upscale
 CAPTION: Hillary Rodham Clinton, then secretary of state, after addressing the United Nations Security Council in 2012.
 
 43. NYT
 HEADLINE: Arguments Get Personal Between Donald Trump and Ted Cruz
-IMAGE: HTTP Error
+https://www.nytimes.com/politics/first-draft/2016/03/25/arguments-get-personal-between-donald-trump-and-ted-cruz/
+IMAGE: data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDE3LjEuMCwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPgo8IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPgo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IgogICAgIHZpZXdCb3g9IjAgMCAyMiAyOCIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgMjIgMjgiIHhtbDpzcGFjZT0icHJlc2VydmUiPgo8cGF0aCBmaWxsPSIjMjMxRjIwIiBkPSJNMjAuOCwxN0wyMC44LDE3Yy0wLjksMi4xLTIuNCwzLjgtNC43LDQuN1YxN2wyLjYtMi4zbC0yLjYtMi4zVjkuMWMyLjQtMC4xLDQuMi0xLjksNC4yLTQuMQogICAgYzAtMi44LTIuNi0zLjgtNC4yLTMuOGMtMC4zLDAtMC43LDAtMS4yLDAuMXYwLjFjMC4yLDAsMC41LDAsMC42LDBjMSwwLDEuOCwwLjUsMS44LDEuNGMwLDAuNy0wLjYsMS40LTEuNiwxLjQKICAgIGMtMi42LDAtNS42LTIuMS04LjktMi4xYy0yLjksMC01LDIuMi01LDQuNGMwLDIuMiwxLjMsMi45LDIuNiwzLjRsMC0wLjFDNCw5LjgsMy43LDkuMywzLjcsOC42YzAtMSwwLjktMS44LDIuMS0xLjgKICAgIGMyLjgsMCw3LjMsMi4zLDEwLDIuNGgwLjF2My4zbC0yLjYsMi4zbDIuNiwyLjN2NC44Yy0wLjksMC4zLTIsMC41LTMuMiwwLjVjLTEuOSwwLTMuNi0wLjUtNC45LTEuNmw0LjctMi4xVjkuMkw2LDEyLjEKICAgIEM2LjgsOS44LDguNSw4LjUsOS44LDhsMC0wLjFDNSw4LjksMS4yLDEyLjMsMS4yLDE3YzAsNS41LDQuMiw5LjYsMTAuMyw5LjZjNi4zLDAsOS4yLTQuNiw5LjItOS4zVjE3eiBNNy43LDIwLjUKICAgIGMtMS4zLTEuMi0yLjEtMy4xLTIuMS01LjVjMC0xLDAuMS0yLDAuNC0yLjdsMi4yLTF2OUw3LjcsMjAuNXoiLz4KPC9zdmc+Cg==
 CAPTION: Donald Trump and Melania Trump in the spin room after the Republican presidential debate at the University of Miami in Coral Gables, Fla., on March 10.
 
 44. NYT
 HEADLINE: Mary Cheney Criticizes Her Sister on Same-Sex Marriage
-IMAGE: https://static01.nyt.com/images/blogs_v5/thecaucus/thecaucus_post.png
+https://thecaucus.blogs.nytimes.com/2013/08/31/mary-cheney-criticizes-her-sister-on-same-sex-marriage/
+No media
 CAPTION: Mary Cheney in 2009.
 
 45. FOX
 HEADLINE: Benghazi committee seeks 'transcribed' interview with Clinton over deleted records
+http://www.foxnews.com/politics/2015/03/31/benghazi-committee-requests-clinton-submit-to-interview-about-private-deleted.html
 VIDEO: https://a57.foxnews.com/a57.foxnews.com/media2.foxnews.com/2015/03/30/640/360/931/524/hannity_hillary_033015.jpg?ve=1&tl=1
 CAPTION: Gowdy: Clinton wiped server clean on 'Hannity'
 
 46. FOX
 HEADLINE: GOP Senators Keep Pressure on Steele Over 'Inaccurate' Afghanistan Comments
+http://www.foxnews.com/politics/2010/07/04/gop-senators-pressure-steele-inaccurate-afghanistan-comments.html
 IMAGE: https://a57.foxnews.com/a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/1862/1048/steele_sf_062410.jpg?ve=1&tl=1?ve=1&tl=1
 ALT TEXT: Republican National Committee Chairman Michael Steele answers questions before speaking to the San Francisco Chamber of Commerce in San Francisco June 24. (AP Photo)
 CAPTION:           Republican National Committee Chairman Michael Steele answers questions before speaking to the San Francisco Chamber of Commerce in San Francisco June 24. (AP Photo)
@@ -235,52 +281,63 @@ CAPTION:           Republican National Committee Chairman Michael Steele answers
 
 47. NYT
 HEADLINE: Pipe Bomb Suspect Arrested in Southern Florida
+https://www.nytimes.com/2018/10/26/nyregion/cnn-cory-booker-pipe-bombs-sent.html
 IMAGE: https://static01.nyt.com/images/2018/10/27/nyregion/27bombs21/27bombs21-articleLarge.jpg?quality=75&auto=webp&disable=upscale
 CAPTION: A package addressed to James R. Clapper Jr., the former director of national intelligence, was meant to be delivered to the New York offices of CNN, but was intercepted at a mail facility in Midtown Manhattan on Friday, police officials said.
 
 48. NYT
 HEADLINE: Boehner Sees One-in-Three Chance G.O.P. Will Lose House
-IMAGE: https://static01.nyt.com/images/blogs_v5/thecaucus/thecaucus_post.png
+http://thecaucus.blogs.nytimes.com/2012/04/23/boehner-offers-g-o-p-a-warning-on-control-of-the-house/
+No media
 
 49. FOX
 HEADLINE: Romney reaffirms belief in marriage as between man, woman
+http://www.foxnews.com/politics/2012/05/09/romney-reaffirms-belief-in-marriage-as-between-man-woman/
 IMAGE: //static.foxnews.com/foxnews.com/content/uploads/2019/08/elections-og-candidate-tracker-3.png
 ALT TEXT: 
 
 50. FOX
 HEADLINE: Sparks fly as Biden, Ryan face off in feisty vice presidential debate
+http://www.foxnews.com/politics/2012/10/11/biden-ryan-face-off-in-high-stakes-vice-presidential-debate-in-kentucky/
 VIDEO: https://a57.foxnews.com/video.foxnews.com/thumbnails/101212/640/360/931/524/101112_han_chaffetz_640.jpg?ve=1&tl=1
 CAPTION: VP Joe Biden or Rep. Paul Ryan?
 
 51. FOX
 HEADLINE: Obama endorses Clinton for president, on heels of Sanders meeting
+http://www.foxnews.com/politics/2016/06/09/obama-endorses-clinton-for-president-on-heels-sanders-meeting.html
 VIDEO: https://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2016/06/09/931/524/694940094001_4933202370001_c6817bf8-f5bc-4cde-bfb1-be39ddb1235d.jpg?ve=1&tl=1
 CAPTION: Calls her the most qualified candidate to run for the presidency
 
 52. FOX
 HEADLINE: While Blumenthal Retains Washington Support, Republicans Smell Opening in CT
+http://www.foxnews.com/politics/2010/05/18/while-blumenthal-retains-washington-support-republicans-smell-opening-in-ct.html
 IMAGE: //static.foxnews.com/foxnews.com/content/uploads/2019/08/elections-og-candidate-tracker-3.png
 ALT TEXT: 
 
 53. NYT
 HEADLINE: Senate Republicans: No Legislation Until After Tax Cut Extension
-IMAGE: https://static01.nyt.com/images/blogs_v5/thecaucus/thecaucus_post.png
+https://thecaucus.blogs.nytimes.com/2010/12/01/senate-republicans-no-legislation-until-after-tax-cut-extension/
+No media
 
 54. NYT
 HEADLINE: F.B.I. Agent Peter Strzok, Who Criticized Trump in Texts, Is Fired
+https://www.nytimes.com/2018/08/13/us/politics/peter-strzok-fired-fbi.html
 IMAGE: https://static01.nyt.com/images/2018/08/14/us/politics/14dc-strzok-print/26dc-fbi-articleLarge.jpg?quality=75&auto=webp&disable=upscale
 CAPTION: Peter Strzok, a top F.B.I. counterintelligence agent who was taken off the special counsel investigation after his disparaging texts about President Trump were uncovered, was fired.
 
 55. NYT
 HEADLINE: Etheridge, Caught on Video, Apologizes 
+https://archive.nytimes.com/query.nytimes.com/gst/fullpage-9E03E1D61E3DF936A25755C0A9669D8B63.html
 IMAGE: https://static01.nyt.com/images/misc/nytlogo152x23.gif
 
 56. NYT
 HEADLINE: Bachmann Cover Controversy Prompts Response From Newsweek
-IMAGE: https://static01.nyt.com/images/blogs_v5/thecaucus/thecaucus_post.png
+http://thecaucus.blogs.nytimes.com/2011/08/09/newsweeks-bachmann-cover-causes-controversy/
+No media
 
 57. FOX
 HEADLINE: Federal prosecutors subpoena Christie's campaign, NJ GOP committee
+http://www.foxnews.com/politics/2014/01/23/federal-prosecutors-subpoena-new-jersey-gov-christie-campaign-gop/
 IMAGE: https://a57.foxnews.com/a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/1862/1048/Christie_081613.jpg?ve=1&tl=1?ve=1&tl=1
 ALT TEXT: Aug 15, 2013: New Jersey Gov. Chris Christie speaks to fellow Republicans during the Republican National Committee summer meeting in Boston.
 CAPTION:           Aug 15, 2013: New Jersey Gov. Chris Christie speaks to fellow Republicans during the Republican National Committee summer meeting in Boston.
@@ -288,30 +345,36 @@ CAPTION:           Aug 15, 2013: New Jersey Gov. Chris Christie speaks to fellow
 
 58. FOX
 HEADLINE: 'Jail!' Trump slams 'crooked' Hillary aide Huma, calls on 'Deep State' DOJ to act
+http://www.foxnews.com/politics/2018/01/02/jail-trump-slams-crooked-hillary-aide-huma-calls-on-deep-state-doj-to-act.html
 VIDEO: https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/10/340/340/img_2751-54438.jpg?ve=1&tl=1
 CAPTION: Daily Caller investigative reporter Luke Rosiak explains.
 
 59. NYT
 HEADLINE: Clintons Report Earnings of $139 Million in Seven Years
+https://www.nytimes.com/politics/first-draft/2015/07/31/hillary-clinton-releases-8-years-of-tax-returns
 IMAGE: data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDE3LjEuMCwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPgo8IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPgo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IgogICAgIHZpZXdCb3g9IjAgMCAyMiAyOCIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgMjIgMjgiIHhtbDpzcGFjZT0icHJlc2VydmUiPgo8cGF0aCBmaWxsPSIjMjMxRjIwIiBkPSJNMjAuOCwxN0wyMC44LDE3Yy0wLjksMi4xLTIuNCwzLjgtNC43LDQuN1YxN2wyLjYtMi4zbC0yLjYtMi4zVjkuMWMyLjQtMC4xLDQuMi0xLjksNC4yLTQuMQogICAgYzAtMi44LTIuNi0zLjgtNC4yLTMuOGMtMC4zLDAtMC43LDAtMS4yLDAuMXYwLjFjMC4yLDAsMC41LDAsMC42LDBjMSwwLDEuOCwwLjUsMS44LDEuNGMwLDAuNy0wLjYsMS40LTEuNiwxLjQKICAgIGMtMi42LDAtNS42LTIuMS04LjktMi4xYy0yLjksMC01LDIuMi01LDQuNGMwLDIuMiwxLjMsMi45LDIuNiwzLjRsMC0wLjFDNCw5LjgsMy43LDkuMywzLjcsOC42YzAtMSwwLjktMS44LDIuMS0xLjgKICAgIGMyLjgsMCw3LjMsMi4zLDEwLDIuNGgwLjF2My4zbC0yLjYsMi4zbDIuNiwyLjN2NC44Yy0wLjksMC4zLTIsMC41LTMuMiwwLjVjLTEuOSwwLTMuNi0wLjUtNC45LTEuNmw0LjctMi4xVjkuMkw2LDEyLjEKICAgIEM2LjgsOS44LDguNSw4LjUsOS44LDhsMC0wLjFDNSw4LjksMS4yLDEyLjMsMS4yLDE3YzAsNS41LDQuMiw5LjYsMTAuMyw5LjZjNi4zLDAsOS4yLTQuNiw5LjItOS4zVjE3eiBNNy43LDIwLjUKICAgIGMtMS4zLTEuMi0yLjEtMy4xLTIuMS01LjVjMC0xLDAuMS0yLDAuNC0yLjdsMi4yLTF2OUw3LjcsMjAuNXoiLz4KPC9zdmc+Cg==
 CAPTION: Hillary Rodham Clinton at a campaign stop in Hopkinton, N.H., on Tuesday.
 
 60. NYT
 HEADLINE: William Cowan Named Interim Senator in Massachusetts
+http://www.nytimes.com/2013/01/31/us/politics/boston-lawyer-chosen-for-kerrys-senate-seat.html
 IMAGE: https://static01.nyt.com/images/2013/01/31/us/jp-MASSACHUSETTS/jp-MASSACHUSETTS-articleLarge.jpg?quality=75&auto=webp&disable=upscale
 CAPTION: From left, Gov. Deval Patrick, William Cowan, Massachusetts' interim senator, and Lt. Gov. Timothy Murray at a news conference on Wednesday.
 
 61. NYT
 HEADLINE: Paul LePage, the Governor of Maine, Now Says He’s Not Quitting
+https://mobile.nytimes.com/2016/09/01/us/paul-lepage-maine-governor.html
 No media
 
 62. NYT
 HEADLINE: Texas Congressman Who Settled Harassment Case With Taxpayer Funds Resigns
+https://mobile.nytimes.com/2018/04/06/us/politics/farenthold-harassment-case-resigns.html
 IMAGE: https://static01.nyt.com/images/2018/04/07/us/politics/07dc-farenthold/merlin_131243010_76c20161-ba7e-41ed-9eb8-e9bd5f196cb4-articleLarge.jpg?quality=75&auto=webp&disable=upscale
 CAPTION: Representative Blake Farenthold, Republican of Texas, in December at the Capitol.
 
 63. FOX
 HEADLINE: Glenn Beck Rips Progressivism at CPAC
+http://www.foxnews.com/politics/2010/02/20/beck-encourages-conservatives
 IMAGE: https://a57.foxnews.com/a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/1862/1048/022010_matt_beck.jpg?ve=1&tl=1?ve=1&tl=1
 ALT TEXT: Feb. 20: Glenn Beck delivers keynote address at CPAC.
 CAPTION:           Feb. 20: Glenn Beck delivers keynote address at CPAC.
@@ -319,85 +382,103 @@ CAPTION:           Feb. 20: Glenn Beck delivers keynote address at CPAC.
 
 64. FOX
 HEADLINE: IRS official who refused to testify facing more scrutiny over scandal, past
+http://www.foxnews.com/politics/2013/05/23/irs-official-who-refused-to-testify-facing-more-scrutiny-over-scandal-past/
 VIDEO: https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/doug-mckelway.png?ve=1&tl=1
 CAPTION: Doug McKelway reports
 
 65. FOX
 HEADLINE: Benghazi emails underscore State Department’s concern over failure to act on warnings
+http://www.foxnews.com/politics/2013/05/13/benghazi-emails-underscore-state-departments-concern-over-failure-to-act-on/
 VIDEO: https://a57.foxnews.com/a57.foxnews.com/media2.foxnews.com/thumbnails/i/051313/640/360/931/524/051313_fff_benghaziclintonlwt_640.jpg?ve=1&tl=1
 CAPTION: Republicans, Democrats go head-to-head
 
 66. FOX
 HEADLINE: Shooting spurs calls for new lawmaker security measures
+http://www.foxnews.com/politics/2017/06/15/shooting-spurs-calls-for-new-lawmaker-security-measures.html
 VIDEO: https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/10/340/340/img_2751-54438.jpg?ve=1&tl=1
 CAPTION: Virginia congressman says town halls may need tighter security
 
 67. NYT
 HEADLINE: Representative Duncan Hunter Is Indicted, Accused of Misusing Campaign Funds
+https://www.nytimes.com/2018/08/21/us/politics/duncan-hunter-indicted.html
 IMAGE: https://static01.nyt.com/images/2018/08/22/us/22hunter-print/22hunter-print-articleLarge-v2.jpg?quality=75&auto=webp&disable=upscale
 CAPTION: Representative Duncan Hunter, Republican of California, and his wife are accused of spending tens of thousands of dollars of campaign funds on personal expenses like family trips and private school tuition.
 
 68. NYT
 HEADLINE: House Republicans to Offer Broad Immigration Plan
+https://www.nytimes.com/2014/01/26/us/politics/house-republicans-to-offer-broad-immigration-plan.html
 No media
 
 69. NYT
 HEADLINE: N.A.A.C.P. Challenges Tea Party on Racism
-IMAGE: https://static01.nyt.com/images/blogs_v5/thecaucus/thecaucus_post.png
+http://thecaucus.blogs.nytimes.com/2010/07/13/n-a-a-c-p-challenges-tea-party-on-racism/
+No media
 
 70. NYT
 HEADLINE: Obama Taunts G.O.P.  for Ignoring Jobs Bill
-IMAGE: https://static01.nyt.com/images/blogs_v5/thecaucus/thecaucus_post.png
+http://thecaucus.blogs.nytimes.com/2011/11/02/obama-taunts-house-for-ignoring-jobs-bill/
+No media
 
 71. FOX
 HEADLINE: Trump calls Flynn treatment 'unfair,' claims Clinton 'lied many times' with impunity
+https://www.foxnews.com/politics/trump-calls-flynn-treatment-unfair-claims-clinton-lied-many-times-with-impunity
 VIDEO: https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/bergerpic2.jpg?ve=1&tl=1
 CAPTION: The president says Hillary Clinton lied 'many times' to the FBI and 'nothing happened to her.'
 
 72. FOX
 HEADLINE: Trump says 'too many voices are being destroyed' by social media censorship
+http://www.foxnews.com/politics/2018/08/18/trump-says-too-many-voices-are-being-destroyed-by-social-media-censorship.html
 VIDEO: https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/i-8dn8554-xl.jpg?ve=1&tl=1
 CAPTION: A new Vice investigation has exposed apparent shadow bans on conservative accounts on Twitter, while Google-owned YouTube recently removed several videos purely for their political content. #Tucker
 
 73. NYT
 HEADLINE: Lieberman Is a Finalist for F.B.I. Director, Trump Says
+https://mobile.nytimes.com/2017/05/18/us/politics/trump-fbi-director-lieberman.html
 IMAGE: https://static01.nyt.com/images/2017/05/19/us/19fbi/19fbi-articleInline.jpg?quality=75&auto=webp&disable=upscale
 CAPTION: Joseph I. Lieberman, the former Democratic senator and vice-presidential nominee, left the White House on Wednesday.
 
 74. NYT
 HEADLINE: Alabama Republicans Defend Roy Moore: ‘It Was 40 Years Ago’
+https://mobile.nytimes.com/2017/11/10/us/politics/roy-moore-alabama-republicans.html
 IMAGE: https://static01.nyt.com/images/2017/11/11/us/11xp-moore/11xp-moore-articleLarge.jpg?quality=75&auto=webp&disable=upscale
 CAPTION: Roy S. Moore, the Republican nominee for Senate in Alabama, was accused of making sexual advances toward teenage girls. A state official said that the women’s claims were “much ado about nothing” and that Mr. Moore had done nothing “immoral or illegal.”
 
 75. NYT
 HEADLINE: With Abortion in the Spotlight, a Challenge for Romney
-IMAGE: https://static01.nyt.com/images/blogs_v5/thecaucus/thecaucus_post.png
+http://thecaucus.blogs.nytimes.com/2012/08/21/with-abortion-in-the-spotlight-a-challenge-for-romney/
+No media
 
 76. NYT
 HEADLINE: President Wants to Use Executive Order to End Birthright Citizenship
+https://www.nytimes.com/2018/10/30/us/politics/trump-birthright-citizenship.html
 IMAGE: https://static01.nyt.com/images/2018/10/31/us/politics/31dc-citizen-sub/merlin_145897215_28f85483-34dd-4b81-b299-62748e52d044-articleLarge.jpg?quality=75&auto=webp&disable=upscale
 CAPTION: President Trump at a political rally last week in Charlotte, N.C.
 
 77. FOX
 HEADLINE: Arkansas governor seeks changes in religious freedom bill
+http://www.foxnews.com/politics/2015/04/01/arkansas-governor-sends-religious-freedom-bill-back-to-legislature-seeks.html
 VIDEO: https://a57.foxnews.com/a57.foxnews.com/media2.foxnews.com/2015/04/01/640/360/931/524/040115_strategyroom_freedom_640.jpg?ve=1&tl=1
 CAPTION: Brad Blakeman and Joe Lestingi on the growing debate over state legislation
 
 78. FOX
 HEADLINE: Trump takes on Obama, Clinton over ‘radical Islam’ as candidates condemn terror
+http://www.foxnews.com/politics/2016/06/13/trump-takes-on-obama-clinton-over-radical-islam-as-candidates-condemn-terror.html
 VIDEO: https://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2016/06/11/931/524/694940094001_4936161797001_879f3c36-c87f-4017-8c24-ac2f92b0f5e3.jpg?ve=1&tl=1
 CAPTION: Which candidate has the clearest plan for our economy?
 
 79. NYT
 HEADLINE: Perry Wins Endorsement of Sheriff Joe 
-IMAGE: https://static01.nyt.com/images/blogs_v5/thecaucus/thecaucus_post.png
+http://thecaucus.blogs.nytimes.com/2011/11/29/rick-perry-wins-the-endorsement-of-sheriff-joe-arpaio/
+No media
 
 80. NYT
 HEADLINE: Steele to Announce Decision on R.N.C. Run
-IMAGE: https://static01.nyt.com/images/blogs_v5/thecaucus/thecaucus_post.png
+http://thecaucus.blogs.nytimes.com/2010/12/12/steele-to-announce-decision-on-r-n-c-run/
+No media
 
 81. FOX
 HEADLINE: NRA urges states to allow more armed officers in schools
+http://www.foxnews.com/politics/2013/04/02/nra-urges-states-to-allow-more-armed-officers-in-schools/
 IMAGE: https://a57.foxnews.com/a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/1862/1048/013aa046-nra_lapierre_122112.jpg?ve=1&tl=1?ve=1&tl=1
 ALT TEXT: FILE: Dec. 21, 2012: National Rifle Association CEO Wayne LaPierre pauses as he makes a statement during a news conference in Washington.
 CAPTION:           FILE: Dec. 21, 2012: National Rifle Association CEO Wayne LaPierre pauses as he makes a statement during a news conference in Washington.
@@ -405,20 +486,24 @@ CAPTION:           FILE: Dec. 21, 2012: National Rifle Association CEO Wayne LaP
 
 82. FOX
 HEADLINE: Trump holds off reversing ban on elephant trophy imports
+http://www.foxnews.com/politics/2017/11/17/trump-holds-off-reversing-ban-on-elephant-trophy-imports.html
 VIDEO: https://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2017/11/19/931/524/694940094001_5651877902001_5651868712001-vs.jpg?ve=1&tl=1
 CAPTION: President tweets that the decision is on hold until conservation facts are reviewed.
 
 83. NYT
 HEADLINE: Trump Plans Meeting on Arizona Birth Bill 
-IMAGE: https://static01.nyt.com/images/blogs_v5/thecaucus/thecaucus_post.png
+http://thecaucus.blogs.nytimes.com/2011/04/07/trump-plans-meeting-on-arizona-birth-bill/
+No media
 
 84. NYT
 HEADLINE: Jesse Jackson Jr. Pleads Guilty in Campaign Money Case
+http://www.nytimes.com/2013/02/21/us/politics/jesse-l-jackson-jr-pleads-guilty-to-wire-and-mail-fraud.html
 IMAGE: https://static01.nyt.com/images/2013/02/21/us/21jackson_3/21jackson_3-articleLarge.jpg?quality=75&auto=webp&disable=upscale
 CAPTION: Jesse L. Jackson Jr. entering court in Washington on Wednesday morning.
 
 85. FOX
 HEADLINE: Supreme Court Questions Claims in Sex Bias Suit Against Wal-Mart
+http://www.foxnews.com/politics/2011/03/29/supreme-court-questions-claims-sex-bias-suit-wal-mart/
 IMAGE: https://a57.foxnews.com/a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/1862/1048/scotus_walmart_032911.jpg?ve=1&tl=1?ve=1&tl=1
 ALT TEXT: People line up outside the Supreme Court in Washington March 29 to attend a hearing on women employees against Wal-Mart.
 CAPTION:           People line up outside the Supreme Court in Washington March 29 to attend a hearing on women employees against Wal-Mart.
@@ -426,36 +511,43 @@ CAPTION:           People line up outside the Supreme Court in Washington March 
 
 86. FOX
 HEADLINE: Who is Dave Brat?
+http://www.foxnews.com/politics/2014/06/10/who-is-dave-brat-political-novice-who-beat-house-majority-leader-eric-cantor/
 VIDEO: https://a57.foxnews.com/a57.foxnews.com/media2.foxnews.com/thumbnails/i/061014/640/360/931/524/061014_hannity_interview_640.jpg?ve=1&tl=1
 CAPTION: Brat reacts to 'political earthquake'
 
 87. FOX
 HEADLINE: Trump warns shutdown could last 'years,' says he may declare 'national emergency' to build border wall
+https://www.foxnews.com/politics/congressional-leaders-meet-at-white-house-as-shutdown-stances-harden
 VIDEO: https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/i-8dn8554-xl.jpg?ve=1&tl=1
 CAPTION: President Trump says discussions will continue about funding for border security after meeting with congressional leaders at the White House.
 
 88. FOX
 HEADLINE: Trump gets into Twitter feud with former Mexican president
+http://www.foxnews.com/politics/2016/08/31/trump-gets-into-twitter-feud-with-former-mexican-president.html
 VIDEO: https://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2016/08/31/931/524/694940094001_5106571880001_0b4bc2b6-db26-483b-b728-d7627b2ac61d.jpg?ve=1&tl=1
 CAPTION: Strategy Room: Chuck Rocha and Marjorie Dannenfelser discuss Donald Trump's meeting with the President of Mexico today and how it might affect his speech tonight in Arizona 
 
 89. NYT
 HEADLINE: Hillary Clinton Urges Obama to Listen to Democrats on Trade Deal
+https://www.nytimes.com/politics/first-draft/2015/06/14/hillary-clinton-urges-obama-to-listen-to-democrats-on-trade-deal/
 IMAGE: data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDE3LjEuMCwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPgo8IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPgo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IgogICAgIHZpZXdCb3g9IjAgMCAyMiAyOCIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgMjIgMjgiIHhtbDpzcGFjZT0icHJlc2VydmUiPgo8cGF0aCBmaWxsPSIjMjMxRjIwIiBkPSJNMjAuOCwxN0wyMC44LDE3Yy0wLjksMi4xLTIuNCwzLjgtNC43LDQuN1YxN2wyLjYtMi4zbC0yLjYtMi4zVjkuMWMyLjQtMC4xLDQuMi0xLjksNC4yLTQuMQogICAgYzAtMi44LTIuNi0zLjgtNC4yLTMuOGMtMC4zLDAtMC43LDAtMS4yLDAuMXYwLjFjMC4yLDAsMC41LDAsMC42LDBjMSwwLDEuOCwwLjUsMS44LDEuNGMwLDAuNy0wLjYsMS40LTEuNiwxLjQKICAgIGMtMi42LDAtNS42LTIuMS04LjktMi4xYy0yLjksMC01LDIuMi01LDQuNGMwLDIuMiwxLjMsMi45LDIuNiwzLjRsMC0wLjFDNCw5LjgsMy43LDkuMywzLjcsOC42YzAtMSwwLjktMS44LDIuMS0xLjgKICAgIGMyLjgsMCw3LjMsMi4zLDEwLDIuNGgwLjF2My4zbC0yLjYsMi4zbDIuNiwyLjN2NC44Yy0wLjksMC4zLTIsMC41LTMuMiwwLjVjLTEuOSwwLTMuNi0wLjUtNC45LTEuNmw0LjctMi4xVjkuMkw2LDEyLjEKICAgIEM2LjgsOS44LDguNSw4LjUsOS44LDhsMC0wLjFDNSw4LjksMS4yLDEyLjMsMS4yLDE3YzAsNS41LDQuMiw5LjYsMTAuMyw5LjZjNi4zLDAsOS4yLTQuNiw5LjItOS4zVjE3eiBNNy43LDIwLjUKICAgIGMtMS4zLTEuMi0yLjEtMy4xLTIuMS01LjVjMC0xLDAuMS0yLDAuNC0yLjdsMi4yLTF2OUw3LjcsMjAuNXoiLz4KPC9zdmc+Cg==
 CAPTION: Hillary Rodham Clinton on Sunday urged President Obama to make changes to the Trans-Pacific Partnership trade deal during a speech in Des Moines.
 
 90. NYT
 HEADLINE: House Intelligence Committee Will Subpoena Flynn, Schiff Says
+https://mobile.nytimes.com/2017/05/24/us/politics/flynn-subpoena-house-intelligence-committee.html
 IMAGE: https://static01.nyt.com/images/2017/05/25/us/25flynn/merlin-to-scoop-122159054-774128-articleLarge.jpg?quality=75&auto=webp&disable=upscale
 CAPTION: Michael T. Flynn, President Trump’s former national security adviser, at Trump Tower in Manhattan in December.
 
 91. FOX
 HEADLINE: Ryan goes on offense over Medicare, accuses Obama of treating program like 'piggy bank'
+http://www.foxnews.com/politics/2012/08/14/ryan-defends-gop-record-on-medicare-says-party-has-plan-to-save-program/
 VIDEO: https://a57.foxnews.com/video.foxnews.com/thumbnails/081412/640/360/931/524/081412_sr_ryanfull_640.jpg?ve=1&tl=1
 CAPTION: Exclusive: Republican vice presidential candidate sits down with Brit Hume for first solo interview since VP announcement
 
 92. FOX
 HEADLINE: Trump Bows Out as Moderator of GOP Debate, Reserves Right to Run for President
+http://www.foxnews.com/politics/2011/12/13/trump-bows-out-as-moderator-gop-debate-reserves-right-to-run-for-president/
 IMAGE: https://a57.foxnews.com/a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/1862/1048/trump_ny_120511.jpg?ve=1&tl=1?ve=1&tl=1
 ALT TEXT: Dec. 5, 2011: Donald Trump speaks in New York.
 CAPTION:           Dec. 5, 2011: Donald Trump speaks in New York.
@@ -463,22 +555,26 @@ CAPTION:           Dec. 5, 2011: Donald Trump speaks in New York.
 
 93. NYT
 HEADLINE: G.O.P. Aide Quits After Ridiculing Obama’s Daughters, Sasha and Malia
+https://www.nytimes.com/2014/12/02/us/gop-aide-quits-after-ridiculing-obamas-daughters.html
 IMAGE: https://static01.nyt.com/images/2014/12/02/us/DAUGHTERS/DAUGHTERS-articleLarge.jpg?quality=75&auto=webp&disable=upscale
 CAPTION: A Republican spokeswoman found fault with the attire of Sasha and Malia Obama at the presidential turkey pardon.
 
 94. NYT
 HEADLINE: Donald Trump Jr. Communicated With WikiLeaks During Campaign
+https://mobile.nytimes.com/2017/11/13/us/politics/donald-trump-jr-wikileaks-emails-democrats.html
 IMAGE: https://static01.nyt.com/images/2017/11/14/us/politics/14dc-wikileaks1/14dc-wikileaks1-articleLarge.jpg?quality=75&auto=webp&disable=upscale
 CAPTION: Donald Trump Jr. at the third presidential debate last year.
 
 95. FOX
 HEADLINE: Kathy Griffin apologizes for photo shoot with bloodied Trump mask, says she 'went too far'
+http://www.foxnews.com/entertainment/2017/05/30/kathy-griffin-apologizes-for-photo-shoot-with-bloodied-trump-mask-says-went-too-far.html
 IMAGE: https://a57.foxnews.com/a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/1862/1048/Kathy-griffin-trump_TylerShields.jpg?ve=1&tl=1?ve=1&tl=1
 ALT TEXT: 
 CAPTION: (Courtesy of Tyler Shields)
 
 96. FOX
 HEADLINE: Santorum: 'Phony theology' comment was about energy policy, not Christian faith
+http://www.foxnews.com/politics/2012/02/19/santorum-talks-economy-with-phony-theology-comment-but-social-debate-ensues/
 IMAGE: https://a57.foxnews.com/a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/1862/1048/santorum_rick_021812.jpg?ve=1&tl=1?ve=1&tl=1
 ALT TEXT: Feb. 18, 2012: Rick Santorum speaks at the Ohio Christian Alliance conference in Columbus.
 CAPTION:           Feb. 18, 2012: Rick Santorum speaks at the Ohio Christian Alliance conference in Columbus.
@@ -486,20 +582,24 @@ CAPTION:           Feb. 18, 2012: Rick Santorum speaks at the Ohio Christian All
 
 97. NYT
 HEADLINE: Vicente Fox and Felipe Calderón, 2 Ex-Presidents of Mexico, Say No Way Country Is Paying for Donald Trump's Wall
+https://www.nytimes.com/politics/first-draft/2016/02/25/2-ex-presidents-of-mexico-say-no-way-theyre-paying-for-donald-trumps-wall/
 IMAGE: data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDE3LjEuMCwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPgo8IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPgo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IgogICAgIHZpZXdCb3g9IjAgMCAyMiAyOCIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgMjIgMjgiIHhtbDpzcGFjZT0icHJlc2VydmUiPgo8cGF0aCBmaWxsPSIjMjMxRjIwIiBkPSJNMjAuOCwxN0wyMC44LDE3Yy0wLjksMi4xLTIuNCwzLjgtNC43LDQuN1YxN2wyLjYtMi4zbC0yLjYtMi4zVjkuMWMyLjQtMC4xLDQuMi0xLjksNC4yLTQuMQogICAgYzAtMi44LTIuNi0zLjgtNC4yLTMuOGMtMC4zLDAtMC43LDAtMS4yLDAuMXYwLjFjMC4yLDAsMC41LDAsMC42LDBjMSwwLDEuOCwwLjUsMS44LDEuNGMwLDAuNy0wLjYsMS40LTEuNiwxLjQKICAgIGMtMi42LDAtNS42LTIuMS04LjktMi4xYy0yLjksMC01LDIuMi01LDQuNGMwLDIuMiwxLjMsMi45LDIuNiwzLjRsMC0wLjFDNCw5LjgsMy43LDkuMywzLjcsOC42YzAtMSwwLjktMS44LDIuMS0xLjgKICAgIGMyLjgsMCw3LjMsMi4zLDEwLDIuNGgwLjF2My4zbC0yLjYsMi4zbDIuNiwyLjN2NC44Yy0wLjksMC4zLTIsMC41LTMuMiwwLjVjLTEuOSwwLTMuNi0wLjUtNC45LTEuNmw0LjctMi4xVjkuMkw2LDEyLjEKICAgIEM2LjgsOS44LDguNSw4LjUsOS44LDhsMC0wLjFDNSw4LjksMS4yLDEyLjMsMS4yLDE3YzAsNS41LDQuMiw5LjYsMTAuMyw5LjZjNi4zLDAsOS4yLTQuNiw5LjItOS4zVjE3eiBNNy43LDIwLjUKICAgIGMtMS4zLTEuMi0yLjEtMy4xLTIuMS01LjVjMC0xLDAuMS0yLDAuNC0yLjdsMi4yLTF2OUw3LjcsMjAuNXoiLz4KPC9zdmc+Cg==
 CAPTION: Vicente Fox, the former president of Mexico, in 2014.
 
 98. NYT
 HEADLINE: Georgetown Faculty Latest to Chide Ryan 
-IMAGE: https://static01.nyt.com/images/blogs_v5/thecaucus/thecaucus_post.png
+http://thecaucus.blogs.nytimes.com/2012/04/24/georgetown-faculty-latest-to-chide-ryan/
+No media
 
 99. FOX
 HEADLINE: Netanyahu appears in conservative political ad airing in Florida
+http://www.foxnews.com/politics/2012/09/20/netanyahu-star-new-election-ad-airing-in-florida
 IMAGE: https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/cristinacorbinfox.jpg?ve=1&tl=1
 ALT TEXT: Cristina Corbin
 
 100. FOX
 HEADLINE: White House Asked Bill Clinton to Urge Sestak to Drop Out of Senate Race
+http://www.foxnews.com/politics/2010/05/28/white-house-asked-clinton-urge-sestak-drop-senate-race.html
 IMAGE: https://a57.foxnews.com/a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/1862/1048/clinton_sestak.jpg?ve=1&tl=1?ve=1&tl=1
 ALT TEXT: Former President Bill Clinton denies a White House account that he urged Rep. Joe Sestak to drop out of a Senate primary. (AP)
 CAPTION:           Former President Bill Clinton denies a White House account that he urged Rep. Joe Sestak to drop out of a Senate primary. (AP)
@@ -507,20 +607,24 @@ CAPTION:           Former President Bill Clinton denies a White House account th
 
 101. NYT
 HEADLINE: Beck Wows the CPAC Crowd
-IMAGE: https://static01.nyt.com/images/blogs_v5/thecaucus/thecaucus_post.png
+https://thecaucus.blogs.nytimes.com/2010/02/20/beck-wows-the-cpac-crowd/
+No media
 
 102. NYT
 HEADLINE: I.R.S. Official Invokes 5th Amendment at Hearing
+http://www.nytimes.com/2013/05/23/us/politics/irs-official-denies-misleading-congress.html
 IMAGE: https://static01.nyt.com/images/2013/05/23/us/23irs/23irs-articleLarge.jpg?quality=75&auto=webp&disable=upscale
 CAPTION: Lois Lerner of the Internal Revenue Service leaving a House hearing on Wednesday on the agency’s focus on conservative groups.
 
 103. FOX
 HEADLINE: Maine Gov. LePage opens door to early exit
+http://www.foxnews.com/politics/2016/08/30/maine-gov-lepage-opens-door-to-early-exit.html
 VIDEO: https://a57.foxnews.com/video.foxnews.com/thumbnails/071811/640/360/931/524/071811_cav_lepage_640.jpg?ve=1&tl=1
 CAPTION: Maine governor on reducing state income tax rate, spending
 
 104. FOX
 HEADLINE: Texas Rep. Blake Farenthold resigns from Congress
+http://www.foxnews.com/politics/2018/04/06/texas-rep-blake-farenthold-resigns-from-congress.html
 IMAGE: https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/10/340/340/img_2751-54438.jpg?ve=1&tl=1
 ALT TEXT: Brooke Singman
 CAPTION:           Rep. Blake Farenthold arrives before Deputy U.S. Attorney General Rod Rosenstein testifies to the House Judiciary Committee hearing on oversight of the Justice Department on Capitol Hill in Washington, U.S., December 13, 2017.   REUTERS/Joshua Roberts - RC1CC7E0DBA0
@@ -528,37 +632,44 @@ CAPTION:           Rep. Blake Farenthold arrives before Deputy U.S. Attorney Gen
 
 105. NYT
 HEADLINE: E-Mails Show Jostling Over Benghazi ‘Talking Points’
+http://www.nytimes.com/2013/05/16/us/politics/e-mails-show-jostling-over-benghazi-talking-points.html
 IMAGE: https://static01.nyt.com/images/2013/05/16/us/16benghazi1/16benghazi1-articleLarge.jpg?quality=75&auto=webp&disable=upscale
 CAPTION: The diplomatic post in Benghazi, Libya, after the attack last year that killed four Americans.
 
 106. NYT
 HEADLINE: Shooting Brings Rare Comity to the Capital, but Will It Last?
+https://mobile.nytimes.com/2017/06/15/us/politics/shooting-brings-rare-comity-to-the-capitol-but-will-it-last.html
 VIDEO: https://static01.nyt.com/images/2017/06/16/us/16dc-baseball2/16dc-baseball2-videoSixteenByNine3000-v2.jpg
 CAPTION: The day after a shooting at a baseball practice left four injured, including Steve Scalise, the majority whip of the House of Representatives, the bipartisan congressional baseball game played on.
 
 107. FOX
 HEADLINE: Rep. Duncan Hunter, wife indicted on corruption charges in California
+http://www.foxnews.com/politics/2018/08/21/rep-duncan-hunter-wife-indicted-on-corruption-charges-in-california.html
 VIDEO: https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/9e278b6e-headshot2.jpg?ve=1&tl=1
 CAPTION: Five-term Republican congressman from California Duncan Hunter and his wife Margaret are accused of using campaign funds for personal expenses; William La Jeunesse reports from Los Angeles.
 
 108. FOX
 HEADLINE: Third-Highest Ranking Republican In U.S. House Calls For Legalizing Undocumented Immigrants
+http://latino.foxnews.com/latino/politics/2014/01/23/third-highest-ranking-republican-in-us-house-calls-for-legalizing-undocumented/
 HTTP Error: HTTP Error
 ALT TEXT: HTTP Error
 CAPTION: HTTP Error
 
 109. NYT
 HEADLINE: F.B.I. 'Destroyed' Flynn’s Life for Lying, Trump Says, but 'Nothing Happened' to Clinton
+https://www.nytimes.com/2017/12/04/us/politics/fbi-michael-flynn-trump.html
 VIDEO: https://static01.nyt.com/images/2017/12/05/us/politics/05dc-trump1/05dc-trump1-videoSixteenByNine3000.jpg
 CAPTION: President Trump spoke on Monday about Michael T. Flynn, his former national security adviser who admitted lying to the F.B.I.
 
 110. NYT
 HEADLINE: Trump Accuses Social Media Firms of Discrimination Against Conservatives
+https://www.nytimes.com/2018/08/18/us/politics/trump-social-media-conservatives.html
 IMAGE: https://static01.nyt.com/images/2018/08/19/us/19dc-trump/merlin_142469394_ae1e671d-0e22-4331-8bd2-00b490a32271-articleLarge.jpg?quality=75&auto=webp&disable=upscale
 CAPTION: President Trump hinted that he might take action against social media companies that remove content from conservatives.
 
 111. FOX
 HEADLINE: NAACP Resolution Calls on Tea Party to Repudiate 'Racist Elements' in Movement
+http://www.foxnews.com/politics/2010/07/13/tea-party-preempts-racist-resolution-condemns-bigoted-naacp/
 IMAGE: https://a57.foxnews.com/a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/1862/1048/naacp_071210.jpg?ve=1&tl=1?ve=1&tl=1
 ALT TEXT: The audience applauds after first lady Michelle Obama speaks at the annual NAACP convention July 12 in Kansas City, Mo. (AP Photo)
 CAPTION:           The audience applauds after first lady Michelle Obama speaks at the annual NAACP convention July 12 in Kansas City, Mo. (AP Photo)
@@ -566,11 +677,13 @@ CAPTION:           The audience applauds after first lady Michelle Obama speaks 
 
 112. FOX
 HEADLINE: Obama: ‘In God We Trust' Vote Not Creating Jobs
+http://www.foxnews.com/politics/2011/11/02/obama-in-god-trust-vote-not-creating-jobs/
 IMAGE: //static.foxnews.com/foxnews.com/content/uploads/2019/08/elections-og-candidate-tracker-3.png
 ALT TEXT: 
 
 113. FOX
 HEADLINE: Senate Republicans Vow to Block Dem Legislation Until Tax Cuts, Budget Pass
+https://www.foxnews.com/politics/senate-republicans-vow-to-block-dem-legislation-until-tax-cuts-budget-pass
 IMAGE: https://a57.foxnews.com/a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/1862/1048/mconnell_mitch_111610.jpg?ve=1&tl=1?ve=1&tl=1
 ALT TEXT: In this Nov. 16 photo, Republican Senate Leader Mitch McConnell, left, accompanied by Sen. Lamar Alexander, R-Tenn., center, and Sen. John Cornyn, R-Texas, speaks at a news conference on Capitol Hill. (AP Photo)
 CAPTION:           In this Nov. 16 photo, Republican Senate Leader Mitch McConnell, left, accompanied by Sen. Lamar Alexander, R-Tenn., center, and Sen. John Cornyn, R-Texas, speaks at a news conference on Capitol Hill. (AP Photo)
@@ -578,77 +691,92 @@ CAPTION:           In this Nov. 16 photo, Republican Senate Leader Mitch McConne
 
 114. FOX
 HEADLINE: FBI fires Peter Strzok, months after anti-Trump texts revealed
+http://www.foxnews.com/politics/2018/08/13/fbi-fires-peter-strzok-months-after-anti-trump-texts-revealed.html
 VIDEO: https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/bergerpic2.jpg?ve=1&tl=1
 CAPTION: Strzok's attorney says the FBI's decision is a 'departure from typical bureau practice'; reaction from Rep. Darrell Issa, Republican member of the House Judiciary Committee.
 
 115. NYT
 HEADLINE: Bernie Sanders Meets President Obama and Pledges to Work to Defeat Donald Trump
+https://mobile.nytimes.com/2016/06/10/us/politics/bernie-sanders-obama-washington.html
 VIDEO: https://static01.nyt.com/images/2016/06/10/us/10fdsanders-sub/10fdsanders-sub-videoSixteenByNineJumbo1600-v2.jpg
 CAPTION: The Democratic presidential candidate Bernie Sanders announced that he will talk with Hillary Clinton soon about making sure Donald J. Trump does not become president.
 
 116. NYT
 HEADLINE: Richard Blumenthal's Words on Vietnam Service Differ From History
+http://www.nytimes.com/2010/05/18/nyregion/18blumenthal.html
 IMAGE: https://static01.nyt.com/images/2010/05/18/nyregion/18blumenthal_CA0/18blumenthal_CA0-articleLarge.jpg?quality=75&auto=webp&disable=upscale
 CAPTION: Attorney General Richard Blumenthal of Connecticut is running for a seat in the Senate.
 
 117. FOX
 HEADLINE: N.C. Congressman Apologizes for Physical Confrontation With Man in Washington
+https://www.foxnews.com/politics/n-c-congressman-apologizes-for-physical-confrontation-with-man-in-washington
 IMAGE: https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/918/516/061410_Etheridge1-1.jpg?ve=1&tl=1
 ALT TEXT: 25c5042e-
 CAPTION: An amateur video posted to YouTube shows Rep. Bob Etheridge grabbing the neck of an unidentified man who questioned him on a street in Washington (YouTube).
 
 118. FOX
 HEADLINE: Bachmann Newsweek Cover Goes for Insult But Gets Criticism in Return
+http://www.foxnews.com/politics/2011/08/09/bachmann-newsweek-cover-goes-for-insult-but-gets-criticism-in-return/
 IMAGE: https://a57.foxnews.com/a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/1862/1048/newsweekbachmann.jpg?ve=1&tl=1?ve=1&tl=1
 ALT TEXT: 
 
 119. FOX
 HEADLINE: Clinton camp releases candidate's clean bill of health, tax returns
+http://www.foxnews.com/politics/2015/07/31/clintoncamp-to-release-doctor-note-saying-in-excellent-condition.html
 VIDEO: https://a57.foxnews.com/a57.foxnews.com/media2.foxnews.com/2015/07/31/640/360/931/524/073115_hn_trail.jpg?ve=1&tl=1
 CAPTION: Ongoing email controversy a distraction for Democratic presidential hopeful's campaign
 
 120. FOX
 HEADLINE: Massachusetts Gov. Deval Patrick  picks former staffer to fill Kerry's Senate seat
+http://www.foxnews.com/politics/2013/01/30/mass-gov-picks-former-staffer-to-fill-kerry-senate-seat-until-june-election/
 IMAGE: //static.foxnews.com/foxnews.com/content/uploads/2019/08/elections-og-candidate-tracker-3.png
 ALT TEXT: 
 
 121. NYT
 HEADLINE: U.S. Attorney Subpoenas Christie’s Campaign and New Jersey G.O.P.
+https://mobile.nytimes.com/2014/01/24/nyregion/us-attorney-issues-subpoena-to-christies-re-election-campaign.html
 No media
 
 122. NYT
 HEADLINE: Trump Accuses Former Clinton Aide of Failing to Follow Security Protocols
+https://www.nytimes.com/2018/01/02/us/politics/trump-clinton-aide-huma-abedin.html
 IMAGE: https://static01.nyt.com/images/2018/01/03/us/03dc-clinton1/03dc-clinton1-articleLarge.jpg?quality=75&auto=webp&disable=upscale
 CAPTION: Hillary Clinton and her longtime aide Huma Abedin on the campaign plane in October 2016 in White Plains, N.Y., during her bid for the presidency.
 
 123. FOX
 HEADLINE: Clinton, advisers have lots to say on key trade legislation, except where candidate stands
+http://www.foxnews.com/politics/2015/06/14/clinton-stays-mum-on-critical-trade-agreement-adviser-says-waiting-for-final.html
 VIDEO: https://a57.foxnews.com/a57.foxnews.com/media2.foxnews.com/2015/06/12/640/360/931/524/kelly_clinton_061215.jpg?ve=1&tl=1
 CAPTION: New questions over Clinton campaign strategy on 'The Kelly File'
 
 124. FOX
 HEADLINE: Senate intel panel subpoenas two Flynn businesses in Russia probe
+http://www.foxnews.com/politics/2017/05/23/senate-intel-panel-subpoenas-two-flynn-businesses-in-russia-probe.html
 VIDEO: https://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2017/05/22/931/524/694940094001_5444196513001_5444182080001-vs.jpg?ve=1&tl=1
 CAPTION: Former national security adviser says he will not provide records to the Senate Intelligence Committee; chief intelligence correspondent Catherine Herridge reports from Washington
 
 125. NYT
 HEADLINE: Trump says he could keep shutdown going for months or years
+https://www.nytimes.com/2019/01/02/us/politics/trump-congress-shutdown.html
 VIDEO: https://static01.nyt.com/images/2019/01/03/us/politics/03dc-shutdown1-sub/03dc-shutdown1-sub-videoSixteenByNine3000.jpg
 CAPTION: Congressional leaders, including Representative Nancy Pelosi and Senator Chuck Schumer, met with President Trump to discuss border security. Ms. Pelosi said Democrats will put forth legislation to end the shutdown.
 
 126. NYT
 HEADLINE: Vicente Fox, Ex-President of Mexico, Scoffs at Donald Trump’s Visit
+https://mobile.nytimes.com/2016/09/01/us/politics/vicente-fox-mexico.html
 IMAGE: https://static01.nyt.com/images/2016/09/01/us/01fd-fox/01fd-fox-articleInline.jpg?quality=75&auto=webp&disable=upscale
 CAPTION: Former President Vicente Fox met with international reporters at a Mexico City hotel in September 2014.
 
 127. FOX
 HEADLINE: Former Mexican President Fox to Trump: We won't pay for 'that f***ing wall!'
+http://latino.foxnews.com/latino/politics/2016/02/25/former-mexican-president-fox-to-trump-wont-pay-for-that-fing-wall/
 HTTP Error: HTTP Error
 ALT TEXT: HTTP Error
 CAPTION: HTTP Error
 
 128. FOX
 HEADLINE: Ryan facing Catholic prof complaints over budget comments ahead of Georgetown speech
+http://www.foxnews.com/politics/2012/04/25/gop-ryan-set-for-georgetown-speech-says-budget-addresses-poor-needs
 IMAGE: https://a57.foxnews.com/a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/1862/1048/02a02fdb-012511_ryan.jpg?ve=1&tl=1?ve=1&tl=1
 ALT TEXT: April 15, 2010: Rep. Paul Ryan, R-Wis., chairman of the House Budget Committee, speaks on Capitol Hill.
 CAPTION:           April 15, 2010: Rep. Paul Ryan, R-Wis., chairman of the House Budget Committee, speaks on Capitol Hill.
@@ -656,15 +784,18 @@ CAPTION:           April 15, 2010: Rep. Paul Ryan, R-Wis., chairman of the House
 
 129. NYT
 HEADLINE: Trump Lashes Out at Kathy Griffin and Democrats
+https://mobile.nytimes.com/2017/05/31/us/politics/trump-kathy-griffin-comedian-democrats.html
 IMAGE: https://static01.nyt.com/images/2017/05/31/us/01TRUMP/01TRUMP-articleInline.jpg?quality=75&auto=webp&disable=upscale
 CAPTION: President Trump at an event at the White House on May 12.
 
 130. NYT
 HEADLINE: Santorum Defends Comments on Obama and Education
-IMAGE: https://static01.nyt.com/images/blogs_v5/thecaucus/thecaucus_post.png
+http://thecaucus.blogs.nytimes.com/2012/02/19/santorum-defends-comments-on-obama-and-education/
+No media
 
 131. FOX
 HEADLINE: Aide to GOP lawmaker apologizes for Facebook post ripping Obama daughters
+http://www.foxnews.com/politics/2014/11/30/aide-to-gop-lawmaker-apologizes-for-facebook-post-ripping-obama-daughters.html
 IMAGE: https://a57.foxnews.com/a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/1862/1048/Obama-Turkey-Pardon_Cham640360113014.jpg?ve=1&tl=1?ve=1&tl=1
 ALT TEXT: November 26, 2014: President Barack Obama, joined by his daughters Malia, right, and Sasha, center, speaks during the presidential turkey pardon ceremony at the White House. (AP Photo/Jacquelyn Martin)
 CAPTION:           November 26, 2014: President Barack Obama, joined by his daughters Malia, right, and Sasha, center, speaks during the presidential turkey pardon ceremony at the White House. (AP Photo/Jacquelyn Martin)
@@ -672,66 +803,80 @@ CAPTION:           November 26, 2014: President Barack Obama, joined by his daug
 
 132. FOX
 HEADLINE: Donald Trump Jr. releases messages with WikiLeaks from before election
+http://www.foxnews.com/politics/2017/11/13/donald-trump-jr-releases-messages-with-wikileaks-from-before-election.html
 VIDEO: https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/10/340/340/img_2751-54438.jpg?ve=1&tl=1
 CAPTION: President Trump's eldest son corresponded with WikiLeaks before the 2016 presidential election; Rep. Ron DeSantis weighs in.
 
 133. NYT
 HEADLINE: Battle Over Medicare Savings Intensifies Between Obama and Paul Ryan
+http://www.nytimes.com/2012/08/15/health/policy/battle-over-medicare-savings-intensifies-between-obama-and-paul-ryan.html
 IMAGE: https://static01.nyt.com/images/2012/08/15/us/15medicare/15medicare-articleLarge.jpg?quality=75&auto=webp&disable=upscale
 CAPTION: Representative Paul D. Ryan, at a campaign stop Tuesday in Colorado, says Medicare is “a debate we want to have.”
 
 134. NYT
 HEADLINE: Trump Won't Go Forward With Debate
-IMAGE: https://static01.nyt.com/images/blogs_v5/thecaucus/thecaucus_post.png
+http://thecaucus.blogs.nytimes.com/2011/12/13/trump-wont-go-forward-with-debate/
+No media
 
 135. NYT
 HEADLINE: Netanyahu Appears in Conservative Group's Ad 
-IMAGE: https://static01.nyt.com/images/blogs_v5/thecaucus/thecaucus_post.png
+http://thecaucus.blogs.nytimes.com/2012/09/20/netanyahu-appears-in-conservative-groups-ad/
+No media
 
 136. NYT
 HEADLINE: White House Used Bill Clinton to Ask Sestak to Drop Out of Race
-IMAGE: https://static01.nyt.com/images/blogs_v5/thecaucus/thecaucus_post.png
+https://thecaucus.blogs.nytimes.com/2010/05/28/white-house-used-bill-clinton-to-ask-sestak-to-drop-out-of-race/
+No media
 
 137. FOX
 HEADLINE: Joe Lieberman emerges as Trump's top choice for FBI director
+http://www.foxnews.com/politics/2017/05/18/joe-lieberman-emerges-as-trumps-top-choice-for-fbi-director.print.html
 No media
 
 138. FOX
 HEADLINE: Trump: Roy Moore will 'step aside' if sexual misconduct allegations are true
+http://www.foxnews.com/politics/2017/11/09/trump-roy-moore-will-step-aside-if-sexual-misconduct-allegations-are-true.html
 VIDEO: https://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2017/11/10/931/524/694940094001_5641676354001_5641670753001-vs.jpg?ve=1&tl=1
 CAPTION: Griff Jenkins reports from Washington, D.C.
 
 139. NYT
 HEADLINE: Arkansas Governor’s Son Thrust Into Spotlight Over Religious Exception Bill
+https://mobile.nytimes.com/2015/04/02/us/arkansas-governors-son-thurst-into-spotlight-over-religious-freedom-bill.html
 IMAGE: https://static01.nyt.com/images/2015/04/02/us/02SETHWEB/02SETHWEB-jumbo.jpg?quality=75&auto=webp&disable=upscale
 CAPTION: Seth Hutchinson, a son of Gov. Asa Hutchinson of Arkansas, is a union organizer.
 
 140. NYT
 HEADLINE: After Nightclub Massacre, Obama Expresses Outrage and a Familiar Lament
+https://www.nytimes.com/2016/06/13/us/politics/president-obama-expresses-outrage-over-massacre-at-nightclub.html
 VIDEO: https://static01.nyt.com/images/2016/06/13/us/13obama-hp/13obama-hp-videoSixteenByNine3000.jpg
 CAPTION: The president described the mass shooting at a Florida nightclub on Sunday as an “act of terror.”
 
 141. FOX
 HEADLINE: Romney calls on Rep. Akin to drop Senate bid over 'rape' comments
+http://www.foxnews.com/politics/2012/08/21/rep-akin-appeals-for-forgiveness-in-new-ad-as-pressure-over-rape-comment-builds/
 VIDEO: https://a57.foxnews.com/video.foxnews.com/thumbnails/082112/640/360/931/524/082112_centanni_akin_640.jpg?ve=1&tl=1
 CAPTION: Steve Centanni reports from Washington, D.C.
 
 142. FOX
 HEADLINE: Trump vows birthright citizenship ‘will be ended one way or the other,’ as Hill debate rages
+https://www.foxnews.com/politics/trump-promises-birthright-citizenship-will-be-ended-one-way-or-the-other
 VIDEO: https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/i-8dn8554-xl.jpg?ve=1&tl=1
 
 143. NYT
 HEADLINE: Justices Take Up Crucial Issue in Wal-Mart Suit
+https://www.nytimes.com/2011/03/30/business/30walmart.html
 IMAGE: https://static01.nyt.com/images/2011/03/30/us/30walmart_cnd/30walmart_cnd-articleLarge.jpg?quality=75&auto=webp&disable=upscale
 CAPTION: Demonstrators gathered in front of the Supreme Court in Washington to show their support for female workers suing Wal-Mart Stores for alleged workplace discrimination in March.
 
 144. NYT
 HEADLINE: Eric Cantor Defeated by David Brat, Tea Party Challenger, in G.O.P. Primary Upset
+https://www.nytimes.com/2014/06/11/us/politics/eric-cantor-loses-gop-primary.html
 IMAGE: https://static01.nyt.com/images/2014/06/11/us/11CANTOR-hp2/11CANTOR-hp2-articleLarge-v3.jpg?quality=75&auto=webp&disable=upscale
 CAPTION: Eric Cantor, a Republican, gave a concession speech in Richmond, Va.
 
 145. FOX
 HEADLINE: Trump Sends Investigators to Hawaii, Gains in GOP Presidential Primary Poll
+http://www.foxnews.com/politics/2011/04/07/trump-sends-investigators-hawaii-gains-gop-presidential-primary-poll/
 IMAGE: https://a57.foxnews.com/a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/1862/1048/trump_donald_melania.jpg?ve=1&tl=1?ve=1&tl=1
 ALT TEXT: If Donald Trump became president, Melania Trump would become the first foreign-born first lady since Louisa Adams, wife of John Quincy Adams, the sixth U.S. president who served from 1825-1829.
 CAPTION:           If Donald Trump became president, Melania Trump would become the first foreign-born first lady since Louisa Adams, wife of John Quincy Adams, the sixth U.S. president who served from 1825-1829.
@@ -739,6 +884,7 @@ CAPTION:           If Donald Trump became president, Melania Trump would become 
 
 146. FOX
 HEADLINE: Jackson pleads guilty over illegal campaign spending spree
+http://www.foxnews.com/politics/2013/02/20/jackson-pleads-guilty-to-misuse-campaign-funds/
 IMAGE: https://a57.foxnews.com/a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/1862/1048/jackson_court_022013.jpg?ve=1&tl=1?ve=1&tl=1
 ALT TEXT: Feb. 20, 2013: Former Illinois Rep. Jesse Jackson Jr. arrives at the E. Barrett Prettyman Federal Courthouse in Washington.
 CAPTION:           Feb. 20, 2013: Former Illinois Rep. Jesse Jackson Jr. arrives at the E. Barrett Prettyman Federal Courthouse in Washington.
@@ -746,22 +892,26 @@ CAPTION:           Feb. 20, 2013: Former Illinois Rep. Jesse Jackson Jr. arrives
 
 147. NYT
 HEADLINE: N.R.A. Details Plan for Armed School Guards
+http://www.nytimes.com/2013/04/03/us/nra-details-plan-for-armed-school-guards.html
 VIDEO: https://static01.nyt.com/images/2013/04/02/us/video-tc-130402-schoolguards/video-tc-130402-schoolguards-videoSmall.jpg
 CAPTION: The Times’s Sheryl Gay Stolberg discusses a new proposal commissioned by the National Rifle Association to place trained guards in American schools.
 
 148. NYT
 HEADLINE: For Now, Trump to Keep Ban on Importing Elephant Trophies
+https://www.nytimes.com/2017/11/17/us/politics/trump-elephant-trophy-ban.html
 IMAGE: https://static01.nyt.com/images/2017/11/18/business/18dc-elephant1-sub/18dc-elephant1-sub-articleLarge.jpg?quality=75&auto=webp&disable=upscale
 CAPTION: An elephant in Zimbabwe in 2012. “Put big game trophy decision on hold until such time as I review all conservation facts,” President Trump tweeted on Friday night.
 
 149. FOX
 HEADLINE: Arizona Sheriff Joe Arpaio Endorses Rick Perry
+http://latino.foxnews.com/latino/politics/2011/11/29/arizona-sheriff-joe-arpaio-endorses-rick-perry/
 HTTP Error: HTTP Error
 ALT TEXT: HTTP Error
 CAPTION: HTTP Error
 
 150. FOX
 HEADLINE: RNC Chairman Steele to Announce Intentions on a Second Term
+http://www.foxnews.com/politics/2010/12/12/rnc-chairman-michael-steele-expected-resign.html
 IMAGE: https://a57.foxnews.com/a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/1862/1048/9e5823f9-steele.jpg?ve=1&tl=1?ve=1&tl=1
 ALT TEXT: RNC Chairman Michael Steele
 CAPTION:           RNC Chairman Michael Steele
@@ -769,35 +919,42 @@ CAPTION:           RNC Chairman Michael Steele
 
 151. NYT
 HEADLINE: Indictment Expected for Grimm, Staten Island Congressman
+https://www.nytimes.com/2014/04/26/nyregion/indictment-expected-for-representative-michael-grimm.html
 IMAGE: https://static01.nyt.com/images/2014/04/26/nyregion/26grimm/26grimm-articleLarge.jpg?quality=75&auto=webp&disable=upscale
 CAPTION: Representative Michael G. Grimm
 
 152. NYT
 HEADLINE: Facing Congress, Clinton Defends Her Actions Before and After Libya Attack
+http://www.nytimes.com/2013/01/24/us/testifying-on-benghazi-clinton-cites-new-security-steps.html
 IMAGE: https://static01.nyt.com/images/2013/01/24/us/Clinton/Clinton-articleLarge-v2.jpg?quality=75&auto=webp&disable=upscale
 CAPTION: Secretary of State Hillary Rodham Clinton faced tough questions over the attack on an American mission.
 
 153. FOX
 HEADLINE: Congress rejects Obama veto of 9/11 bill, in first override of presidency
+http://www.foxnews.com/politics/2016/09/29/congress-rejects-obama-veto-911-bill-in-first-override-presidency.html
 VIDEO: https://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2016/09/28/931/524/694940094001_5145750545001_Legal--political-fallout-from-veto-override-of-911-bill.jpg?ve=1&tl=1
 CAPTION: Insight from the Wall Street Journal's John Bussey and Fox News senior judicial analyst Judge Andrew Napolitano
 
 154. FOX
 HEADLINE: FBI's show of force in Roger Stone arrest spurs criticism of Mueller tactics
+https://www.foxnews.com/politics/roger-stones-predawn-fbi-arrest-operation-sparks-controversy
 VIDEO: https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/10/340/340/img_2751-54438.jpg?ve=1&tl=1
 
 155. NYT
 HEADLINE: Nebraska and Oklahoma Sue Colorado Over Marijuana Law
+https://www.nytimes.com/2014/12/19/us/politics/nebraska-and-oklahoma-sue-colorado-over-marijuana-law.html
 IMAGE: https://static01.nyt.com/images/2014/12/19/us/POT/POT-articleLarge.jpg?quality=75&auto=webp&disable=upscale
 CAPTION: Cultivating marijuana near Colorado Springs in February. A suit argues that an influx of marijuana has taxed law enforcement in other states.
 
 156. NYT
 HEADLINE: Representative Apologizes for Criticizing Iowa Senator
+https://www.nytimes.com/2014/03/26/us/politics/representative-apologizes-for-criticizing-iowa-senator.html
 No media
 CAPTION: America Rising posted video of Representative Bruce Braley talking about Senator Charles E. Grassley.
 
 157. FOX
 HEADLINE: Double-Dip Recession Possible Without Tax Deal, Obama's Top Economic Aide Warns
+http://www.foxnews.com/politics/2010/12/08/double-dip-recession-possible-tax-deal-obamas-economic-aide-warns/
 IMAGE: https://a57.foxnews.com/a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/1862/1048/Lawrence-Summers.jpg?ve=1&tl=1?ve=1&tl=1
 ALT TEXT: FILE: Oct. 16, 2009: Lawrence Summers, then-White House chief economic adviser, speaks at the Buttonwood Gathering in New York.
 CAPTION:           FILE: Oct. 16, 2009: Lawrence Summers, then-White House chief economic adviser, speaks at the Buttonwood Gathering in New York.
@@ -805,66 +962,79 @@ CAPTION:           FILE: Oct. 16, 2009: Lawrence Summers, then-White House chief
 
 158. FOX
 HEADLINE: Trump declares emergency on border, eyes $8B for wall as he signs spending package
+https://www.foxnews.com/politics/trump-eyes-8b-border-wall-funding-emergency-declaration
 VIDEO: https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/10/340/340/img_2751-54438.jpg?ve=1&tl=1
 CAPTION: Trump says he will be signing a national emergency declaration to confront the crisis at the southern border.
 
 159. NYT
 HEADLINE: Demands for Adam Schiff's Head Highlight Chasm That Only Widened With Mueller's Conclusion
+https://www.nytimes.com/2019/03/28/us/politics/adam-schiff-resign.html
 VIDEO: https://static01.nyt.com/images/2019/03/28/us/politics/28dc-intel1/28dc-intel1-videoSixteenByNine3000.jpg
 CAPTION: Republicans in the House Intelligence Committee called for the chairman, Representative Adam Schiff, to step down.
 
 160. NYT
 HEADLINE: G.O.P. Seizes on Mosque Issue Ahead of Elections
+https://www.nytimes.com/2010/08/17/us/politics/17mosque.html
 IMAGE: https://static01.nyt.com/images/2010/08/17/us/MOSQUE/MOSQUE-jumbo.jpg?quality=75&auto=webp&disable=upscale
 CAPTION: Senator Harry Reid of Nevada.
 
 161. FOX
 HEADLINE: Trump says he appreciates Mueller’s statement disputing BuzzFeed report
+https://www.foxnews.com/politics/trump-says-he-appreciates-muellers-statement-disputing-buzzfeed-report
 VIDEO: https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/i-8dn8554-xl.jpg?ve=1&tl=1
 
 162. FOX
 HEADLINE: Huckabee announces 2016 White House bid, with focus on economy and security | Fox News
+http://www.foxnews.com/politics/2015/05/05/huckabee-announces-2016-white-house-bid.html
 VIDEO: https://a57.foxnews.com/a57.foxnews.com/media2.foxnews.com/2015/05/05/640/360/931/524/050515_root_huck_640.jpg?ve=1&tl=1
 CAPTION: Former Arkansas governor joins race for the White House
 
 163. NYT
 HEADLINE: Senate Democrats’ Vote to End Shutdown Infuriates Some on the Left
+https://www.nytimes.com/2018/01/22/us/politics/liberal-activists-democrats-betrayal-shutdown.html
 IMAGE: https://static01.nyt.com/images/2018/01/23/us/politics/23dc-dems/merlin_132727436_bdae13f2-23a0-44af-a5f8-91a65f272091-articleLarge.jpg?quality=75&auto=webp&disable=upscale
 CAPTION: Recipients of the Deferred Action for Childhood Arrivals program and their supporters protested Monday in Anaheim, Calif.
 
 164. NYT
 HEADLINE: Donald Trump Rebukes Ruth Bader Ginsburg for Deriding His Candidacy
+https://www.nytimes.com/2016/07/13/us/politics/ruth-bader-ginsburg-donald-trump.html
 IMAGE: https://static01.nyt.com/images/2016/07/13/us/13fd-ginsburg/13fd-ginsburg-articleLarge.jpg?quality=75&auto=webp&disable=upscale
 CAPTION: Supreme Court Justice Ruth Bader Ginsburg in Washington in 2015.
 
 165. FOX
 HEADLINE: Washington gov, Seattle mayor ban official travel to Indiana in wake of 'religious freedom' law
+http://www.foxnews.com/politics/2015/03/31/seattle-mayor-bans-official-travel-to-indiana-amid-opposition-to-state-new.html
 VIDEO: https://a57.foxnews.com/a57.foxnews.com/media2.foxnews.com/2015/03/30/640/360/931/524/033015_an_indiana_640.jpg?ve=1&tl=1
 CAPTION: Gov. Mike Pence defends the law saying it's designed to protect people from being forced to do something that goes against their beliefs
 
 166. FOX
 HEADLINE: Prominent Republicans call for Ariz. Gov. Jan Brewer to veto bill allowing denial of service to gays
+http://www.foxnews.com/us/2014/02/26/arizona-gov-jan-brewer-jets-home-amid-furor-over-bill-allowing-denial-service/print
 HTTP Error: HTTP Error
 ALT TEXT: HTTP Error
 CAPTION: HTTP Error
 
 167. NYT
 HEADLINE: White House Plays Down Data Program
+http://www.nytimes.com/2013/06/09/us/politics/officials-say-congress-was-fully-briefed-on-surveillance.html
 IMAGE: https://static01.nyt.com/images/2013/06/09/world/PRISM-WEICH/PRISM-WEICH-articleLarge.jpg?quality=75&auto=webp&disable=upscale
 CAPTION: From left, Assistant Attorney General Ronald Weich and Senators Ron Wyden, Mark Udall and Richard J. Durbin. Mr. Wyden and Mr. Udall have criticized techniques that Mr. Weich defends.
 
 168. NYT
 HEADLINE: Rashida Tlaib's Expletive-Laden Cry to Impeach Trump Upends Democrats' Talking Points
+https://www.nytimes.com/2019/01/04/us/politics/tlaib-impeach-trump.html
 IMAGE: https://static01.nyt.com/images/2019/01/05/us/politics/05dc-impeach/05dc-impeach-articleLarge.jpg?quality=75&auto=webp&disable=upscale
 CAPTION: Representative Rashida Tlaib, Democrat of Michigan, made no apologies for the remarks she made hours after being sworn in on Thursday.
 
 169. FOX
 HEADLINE: IRS extends tax benefits to married gay couples
+http://www.foxnews.com/politics/2013/08/29/irs-issues-tax-rules-for-married-gay-couples/
 VIDEO: https://a57.foxnews.com/a57.foxnews.com/media2.foxnews.com/thumbnails/i/083013/640/360/931/524/083013_edge_IRSgaymarriage_640.jpg?ve=1&tl=1
 CAPTION: Full benefits will now be available to all couples
 
 170. FOX
 HEADLINE: AARP Pushes Back on Claim About Social Security Concessions as Lawmakers Push Reform
+http://www.foxnews.com/politics/2011/06/17/stage-set-for-social-security-talks-lawmakers-push-reform-aarp-reportedly-open
 IMAGE: https://a57.foxnews.com/a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/1862/1048/hutchison_030110.jpg?ve=1&tl=1?ve=1&tl=1
 ALT TEXT: Sen. Kay Bailey Hutchison visits Wharton, Texas, March 1, 2010.
 CAPTION:           Sen. Kay Bailey Hutchison visits Wharton, Texas, March 1, 2010.
@@ -872,50 +1042,59 @@ CAPTION:           Sen. Kay Bailey Hutchison visits Wharton, Texas, March 1, 201
 
 171. NYT
 HEADLINE: Chris Christie Announces Run, Pledging ‘Truth’ About Nation’s Woes
+https://www.nytimes.com/2015/07/01/us/politics/chris-christie-presidential-campaign.html
 VIDEO: https://static01.nyt.com/images/2015/07/01/us/01announce1/01announce1-videoSixteenByNine1050-v2.jpg
 CAPTION: Gov. Chris Christie of New Jersey told supporters on Tuesday in Livingston, N.J., that he was joining the 2016 presidential race.
 
 172. NYT
 HEADLINE: As Tension Eases on Ferguson's Streets, Focus Turns to Investigation
+https://www.nytimes.com/2014/08/21/us/ferguson-missouri-protests.html
 VIDEO: https://static01.nyt.com/images/2014/08/20/us/20missouri-slide-9V2O/20missouri-slide-9V2O-videoLarge-v2.jpg
 CAPTION: Confrontations between protesters and law enforcement continued overnight on Tuesday in Ferguson, Mo.
 
 173. FOX
 HEADLINE: Trump announces deal to end partial government shutdown
+https://www.foxnews.com/politics/trump-to-make-announcement-on-partial-government-shutdown-from-rose-garden
 VIDEO: https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/10/340/340/img_2751-54438.jpg?ve=1&tl=1
 
 174. FOX
 HEADLINE: Purpose Behind Congressional Reading of Constitution Questioned After Amendments Are Omitted
+http://www.foxnews.com/politics/purpose-behind-congressional-reading-of-constitution-questioned-after-amendments-are-omitted
 IMAGE: //static.foxnews.com/foxnews.com/content/uploads/2019/08/elections-og-candidate-tracker-3.png
 ALT TEXT: 
 
 175. NYT
 HEADLINE: Perry Ad Focuses on Gays and Christianity
-IMAGE: HTTP Error
-ALT TEXT: HTTP Error
+http://thecaucus.blogs.nytimes.com/2011/12/07/perry-ad-focuses-on-gays-and-christianity/
+No media
 
 176. NYT
 HEADLINE: Jim Mattis, Defense Secretary, Resigns in Rebuke of Trump’s Worldview
+https://www.nytimes.com/2018/12/20/us/politics/jim-mattis-defense-secretary-trump.html
 IMAGE: https://static01.nyt.com/images/2018/12/21/us/politics/21dc-mattis-promo/21dc-mattis-promo-articleLarge-v3.jpg?quality=75&auto=webp&disable=upscale
 CAPTION: Jim Mattis, the secretary of defense, found himself at odds with President Trump on several issues, including NATO policy and a military parade.
 
 177. FOX
 HEADLINE: GOP Smackdown: Rep. Labrador Enters The Race For House Majority Leadership
+http://latino.foxnews.com/latino/politics/2014/06/13/rep-labrador-is-running-against-rep-mccarthy-for-house-majority-leadership/
 HTTP Error: HTTP Error
 ALT TEXT: HTTP Error
 CAPTION: HTTP Error
 
 178. FOX
 HEADLINE: Bloomberg says Trump a 'dangerous demagogue,' endorses Clinton at DNC
+http://www.foxnews.com/politics/2016/07/27/bloomberg-says-trump-dangerous-demagogue-endorses-clinton-at-dnc.html
 VIDEO: https://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2016/07/27/931/524/694940094001_5056093017001_de60368e-7f0d-4125-8a1f-e73c62d39d37.jpg?ve=1&tl=1
 CAPTION: Former New York City mayor addresses the Democratic National Convention
 
 179. FOX
 HEADLINE: Trump’s immigration offer brings sharp reactions from Dems and GOP
+https://www.foxnews.com/politics/trumps-immigration-offer-brings-polarized-reactions-from-dems-and-gop.print
 No media
 
 180. FOX
 HEADLINE: Obama, Boehner meet on fiscal crisis for first time in weeks
+http://www.foxnews.com/politics/2012/12/10/obama-boehner-meet-on-fiscal-crisis-for-first-time-in-weeks/
 IMAGE: https://a57.foxnews.com/a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/1862/1048/550e2625-obama_fiscalboehner_111612.jpg?ve=1&tl=1?ve=1&tl=1
 ALT TEXT: Nov. 16, 2012: President Obama and House Speaker John Boehner meet at the White House.
 CAPTION:           Nov. 16, 2012: President Obama and House Speaker John Boehner meet at the White House.
@@ -923,11 +1102,13 @@ CAPTION:           Nov. 16, 2012: President Obama and House Speaker John Boehner
 
 181. FOX
 HEADLINE: Democrats urge Trump to cancel Putin summit, after indictment of Russian intel officers
+http://www.foxnews.com/politics/2018/07/13/democrats-urge-trump-to-cancel-putin-summit-after-indictment-russian-intel-officers.html
 VIDEO: https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/10/340/340/img_2751-54438.jpg?ve=1&tl=1
 CAPTION: Herald Group Vice President of Public Affairs Sabrina Schaeffer and Daily Caller News Foundation Editor-in-Chief Chris Bedford on the indictments of 12 Russian intelligence officers as part of the Mueller investigation.
 
 182. FOX
 HEADLINE: In first foreign policy speech, candidate Rubio pushes stronger U.S. leadership
+http://www.foxnews.com/politics/2015/05/13/in-first-foreign-policy-speech-candidate-marco-rubio-pushes-stronger-us.html
 IMAGE: https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/lizphotocrop.jpeg?ve=1&tl=1
 ALT TEXT: Elizabeth Llorente
 CAPTION:           WAUKEE, IA - APRIL 25:  Senator Marco Rubio (R-FL) speaks to guests gathered at the Point of Grace Church for the Iowa Faith and Freedom Coalition 2015 Spring Kickoff on April 25, 2015 in Waukee, Iowa. The Iowa Faith &amp; Freedom Coalition, a conservative Christian organization, hosted 9 potential contenders for the 2016 Republican presidential nominations at the event.  (Photo by Scott Olson/Getty Images)
@@ -935,21 +1116,25 @@ CAPTION:           WAUKEE, IA - APRIL 25:  Senator Marco Rubio (R-FL) speaks to 
 
 183. NYT
 HEADLINE: House Panel Seeks Private Talk With Hillary Clinton About Email
+https://www.nytimes.com/2015/04/01/us/politics/hillary-clinton-email-benghazi-inquiry.html
 IMAGE: https://static01.nyt.com/images/2015/04/01/nyregion/01LEFT/01LEFT-articleLarge.jpg?quality=75&auto=webp&disable=upscale
 CAPTION: Hillary Rodham Clinton has been asked by a congressman to privately discuss email from her time as the secretary of state.
 
 184. NYT
 HEADLINE: Michael Steele Criticized for Afghanistan Comments
+http://www.nytimes.com/2010/07/03/us/politics/03steele.html
 No media
 
 185. FOX
 HEADLINE: Cruz blames Trump for affair story, hints he wouldn't support him in general election
+http://latino.foxnews.com/latino/politics/2016/03/25/cruz-blames-trump-for-affair-report-hints-wouldnt-support-him-in-general/
 HTTP Error: HTTP Error
 ALT TEXT: HTTP Error
 CAPTION: HTTP Error
 
 186. FOX
 HEADLINE: Elizabeth Cheney blasted by older sister over gay-marriage stance
+http://www.foxnews.com/politics/2013/09/01/elizabeth-cheney-blasted-by-older-sister-over-gay-marriage-stance/
 IMAGE: https://a57.foxnews.com/a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/1862/1048/Senate-Family-Ties_Cala.jpg?ve=1&tl=1?ve=1&tl=1
 ALT TEXT: FILE - In this July 17, 2013, file photo Liz Cheney campaigns in Casper, Wyoming, after announcing the day before her GOP primary challenge to Wyoming's senior U.S. incumbent Sen. Mike Enzi. Liz, former Vice President Dick Cheney's eldest daughter has galvanized the state's political scene by seeking the seat of Sen. Mike Enzi, a Republican favored by his party's establishment. Family does matter in the runup to next fall's Senate elections: Candidates are wielding famous political pedigrees in a number of races that could determine whether Democrats maintain control in the 2014 elections. (AP Photo/Matt Young, File)
 CAPTION:           FILE - In this July 17, 2013, file photo Liz Cheney campaigns in Casper, Wyoming, after announcing the day before her GOP primary challenge to Wyoming's senior U.S. incumbent Sen. Mike Enzi. Liz, former Vice President Dick Cheney's eldest daughter has galvanized the state's political scene by seeking the seat of Sen. Mike Enzi, a Republican favored by his party's establishment. Family does matter in the runup to next fall's Senate elections: Candidates are wielding famous political pedigrees in a number of races that could determine whether Democrats maintain control in the 2014 elections. (AP Photo/Matt Young, File)
@@ -957,72 +1142,85 @@ CAPTION:           FILE - In this July 17, 2013, file photo Liz Cheney campaigns
 
 187. NYT
 HEADLINE: Romney Reaffirms Opposition to Marriage, or Unions, for Gay Couples
+https://www.nytimes.com/2012/05/10/us/politics/romney-reaffirms-opposition-to-marriage-or-similar-for-gay-couples.html
 IMAGE: https://static01.nyt.com/images/2012/05/10/us/10romney/10romney-articleLarge.jpg?quality=75&auto=webp&disable=upscale
 CAPTION: Mitt Romney campaigning Wednesday in Fort Lupton, Colo. He has said he favors some rights for same-sex couples, but not rights tantamount to marriage.
 
 188. NYT
 HEADLINE: Biden Takes Off Gloves in Vice-Presidential Debate
+http://www.nytimes.com/2012/10/12/us/politics/biden-takes-off-gloves-in-vice-presidential-debate.html
 VIDEO: https://static01.nyt.com/images/2012/10/12/us/politics/video-vp-debate-highlights-v2/video-vp-debate-highlights-v2-videoSmall.jpg
 CAPTION: October 11, 2012 — Highlights from the vice-presidential debate.
 
 189. FOX
 HEADLINE: Suspect arrested in Florida in connection with suspicious packages sent to Democrats
+https://www.foxnews.com/us/suspect-arrested-in-florida-in-connection-with-suspicious-packages-sent-to-democrats
 VIDEO: https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/barnini-chakraborty.png?ve=1&tl=1
 CAPTION: Attorney General Jeff Sessions and FBI Director Christopher Wray hold a news conference at the Justice Department on the arrest of Cesar Sayoc, who was identified using DNA and fingerprint evidence and stands charged with five crimes, including illegal mailing of explosives.
 
 190. FOX
 HEADLINE: Boehner: '1-in-3 chance' Republicans could lose House in November
+http://www.foxnews.com/politics/2012/04/23/boehner-1-in-3-chance-gop-could-lose-house/
 VIDEO: https://a57.foxnews.com/video.foxnews.com/thumbnails/042312/640/360/931/524/042312_sr_preview.jpg?ve=1&tl=1
 CAPTION: Sneak peek at Bill Hemmer's interview
 
 191. FOX
 HEADLINE: Chick-fil-A Appreciation Day brings out supporters, protesters
+http://www.foxnews.com/politics/2012/08/01/chick-fil-appreciation-day-brings-out-supporters-more-protestors
 VIDEO: https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/john-roberts.png?ve=1&tl=1
 CAPTION: Former Arkansas Governor Mike Huckabee on turnout
 
 192. FOX
 HEADLINE: President Trump takes office vowing to restore prosperity, ‘fight’ for country
+https://www.foxnews.com/politics/president-trump-takes-office-vowing-to-restore-prosperity-fight-for-country
 VIDEO: https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/bergerpic2.jpg?ve=1&tl=1
-ALT TEXT: URL Error
 CAPTION: President Trump delivers his inaugural address
 
 193. NYT
 HEADLINE: 2020 Candidates Demand Full and Immediate Release of Mueller Report
+https://www.nytimes.com/2019/03/22/us/politics/mueller-report-2020-candidates.html
 IMAGE: https://static01.nyt.com/images/2019/03/22/watching/22Candidates/22Candidates-articleLarge.jpg?quality=75&auto=webp&disable=upscale
 CAPTION: Senator Cory Booker was among the Democratic presidential candidates urging the swift public release for the Mueller report. 
 
 194. NYT
 HEADLINE: House Passes Democrats’ Centerpiece Anti-Corruption and Voting Rights Bill
+https://www.nytimes.com/2019/03/08/us/politics/house-democrats-anticorruption-voting-rights.html
 IMAGE: https://static01.nyt.com/images/2019/03/08/us/politics/08dc-house/merlin_151784448_07692fab-639b-4164-acdc-295e1863b3a1-articleLarge.jpg?quality=75&auto=webp&disable=upscale
 CAPTION: Speaker Nancy Pelosi and House members spoke on the steps of the Capitol on Friday about the For the People Act.
 
 195. FOX
 HEADLINE: Pelosi wins another term as House Democratic leader; Ryan’s dynamic challenge falls short
+http://www.foxnews.com/politics/2016/11/30/house-democrats-set-to-vote-for-leader.html
 VIDEO: https://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2016/11/30/931/524/694940094001_5229664024001_House-Democrats-re-elect-Nancy-Pelosi.jpg?ve=1&tl=1
 CAPTION: Minority leader fends off challenge from Rep. Tim Ryan
 
 196. FOX
 HEADLINE: Republicans prepare to go nuclear with Gorsuch vote as Dems seek new delay
+http://www.foxnews.com/politics/2017/03/22/republicans-prepare-to-go-nuclear-with-gorsuch-vote-as-dems-seek-new-delay.html
 VIDEO: https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/cody-derespina.png?ve=1&tl=1
 CAPTION: Sen. John Thune reacts to criticism from colleagues
 
 197. FOX
 HEADLINE: Rep. Weiner Denies Sending Lewd Photo, Can't Say Whether Image Is Him
+http://www.foxnews.com/politics/2011/06/01/rep-weiner-knocks-questions-lewd-photo-says-wont-distracted
 IMAGE: //static.foxnews.com/foxnews.com/content/uploads/2019/08/elections-og-candidate-tracker-3.png
 ALT TEXT: 
 
 198. FOX
 HEADLINE: Hillary Clinton's use of private email address while secretary of state draws scrutiny
+http://www.foxnews.com/politics/2015/03/03/hillary-clinton-exclusively-used-private-email-account-while-secretary-state-ny.html
 VIDEO: https://a57.foxnews.com/a57.foxnews.com/media2.foxnews.com/2015/03/03/640/360/931/524/030315_otr_email.jpg?ve=1&tl=1
 CAPTION: Hillary Clinton's use of her private email exclusively while secretary of state just the latest question to dog her potential 2016 White House run
 
 199. NYT
 HEADLINE: Obama Aide Calls Netanyahu’s Planned Visit ‘Destructive’ to U.S.-Israel Ties
+https://www.nytimes.com/2015/02/26/us/politics/susan-rice-calls-netanyahus-planned-visit-destructive-to-us-israel-ties.html
 IMAGE: https://static01.nyt.com/images/2015/02/25/multimedia/susan-rice-destructive/susan-rice-destructive-superJumbo.jpg
 CAPTION: Susan E. Rice, President Obama’s national security adviser, said that Prime Minister Benjamin Netanyahu’s planned speech to Congress posed a problem for the Israeli-American relationship.
 
 200. NYT
 HEADLINE: Obama Poised to Back Comprehensive Plan to Curb Gun Violence
+http://www.nytimes.com/2013/01/15/us/politics/biden-meets-with-house-democrats-on-gun-violence-proposals.html
 IMAGE: https://static01.nyt.com/images/2013/01/15/us/GUNS/GUNS-articleLarge.jpg?quality=75&auto=webp&disable=upscale
 CAPTION: Vice President Joseph R. Biden Jr., who is leading a task force to address gun violence, at a White House meeting last week with members of victims’ groups and gun safety organizations.
 

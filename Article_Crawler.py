@@ -62,7 +62,9 @@ def get_media(url):
         if soup.find('video') is not None:
             return soup.find('video')['src']
         elif soup.find('img') is not None:
-            return soup.find('img')['src']
+            # Accounts for The Caucus header image, which is not useful
+            if soup.find('img')['src'] != "https://static01.nyt.com/images/blogs_v5/thecaucus/thecaucus_post.png":
+                return soup.find('img')['src']
 
 
 # FOX: Determines whether media is an image or video
@@ -206,7 +208,7 @@ def printText(url, headline, outfile, website, count):
         caption = None
         media_type = None
     outfile.write(str(count) + ". " + website + "\n" + "HEADLINE: " + headline +
-                  "\n")
+                  "\n" + url + "\n")
     if media_link is not None and media_type is not None:
         outfile.write(media_type + ": " + media_link + "\n")
     else:
