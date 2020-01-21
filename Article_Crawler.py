@@ -22,10 +22,15 @@ def get_url(json_file_path: str):
     print("URL: " + url)
     return url
 
+def get_headline(json_file_path: str):
+    json_obj = json.load(open(json_file_path))
+    headline = json_obj["title"]
+    return headline
 
-# Gets alt text of first image/video in the article, if it exists
+
+# FOX: Gets alt text of first image/video in the article, if it exists
 # TODO: Differentiate between images and videos
-def get_alt_text(url):
+def fox_get_alt_text(url):
     req = Request(url, headers={'User-Agent': 'Mozilla/5.0'})
     try:
         page_content = urlopen(req).read()
@@ -42,8 +47,8 @@ def get_alt_text(url):
                     return img['alt']
 
 
-# Gets caption text for first image or video
-def get_captions_text(url):
+# FOX: Gets caption text for first image or video
+def fox_get_captions_text(url):
     req = Request(url, headers={'User-Agent': 'Mozilla/5.0'})
     try:
         page_content = urlopen(req).read()
@@ -65,13 +70,63 @@ def get_captions_text(url):
                         return cap_text
 
 
+# NYT: Gets alt text of first image/video in the article, if it exists
+# TODO: Differentiate between images and videos
+def nyt_get_alt_text(url):
+    req = Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+    try:
+        page_content = urlopen(req).read()
+    except urllib.error.HTTPError:
+        return "HTTP Error"
+    except urllib.error.URLError:
+        return "URL Error"
+    else:
+        soup = BeautifulSoup(page_content, "html.parser")
+        for img in soup.find_all('img'):
+            alt = img.find('img', alt=True)
+            if alt is not None:
+                if alt['alt'] is not None:
+                    return alt['alt']
+
+
+# NYT: Gets caption text for first image or video
+def nyt_get_captions_text(url):
+    req = Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+    try:
+        page_content = urlopen(req).read()
+    except urllib.error.HTTPError:
+        return "HTTP Error"
+    except urllib.error.URLError:
+        return "URL Error"
+    else:
+        soup = BeautifulSoup(page_content, "html.parser")
+        captions = soup.find('figcaption', {'itemprop': 'caption description'})
+        if captions is not None:
+            cap = captions.find("span")
+            if cap is not None:
+                cap_text = str(cap.getText())
+                if cap_text != "":
+                    if cap_text[0] == "\n":
+                        return cap_text[1:]
+                    else:
+                        return cap_text
+
+
 # Writes web page details to outfile
-def printText(url, outfile, website, count):
-    alt_text = (get_alt_text(url))
-    caption = get_captions_text(url)
+def printText(url, headline, outfile, website, count):
+    if website == "FOX":
+        alt_text = (fox_get_alt_text(url))
+        caption = fox_get_captions_text(url)
+    elif website == "NYT":
+        alt_text = nyt_get_alt_text(url)
+        caption = nyt_get_captions_text(url)
+    else:
+        alt_text = None
+        caption = None
+    outfile.write(str(count) + ". " + website + "\n" + "HEADLINE: " + headline +
+                  "\n")
     if alt_text is not None:
-        outfile.write(str(count) + ". " + website + "\n" + url +
-                      "\n" + "ALT TEXT: " + alt_text + "\n")
+        outfile.write("ALT TEXT: " + alt_text + "\n")
     if caption is not None:
         outfile.write("CAPTION: " + caption)
         outfile.write("\n\n")
@@ -85,9 +140,11 @@ def main():
     count = 1
     for file in os.listdir(directory):
         website = get_website(file)
-        url = (get_url(directory + file))
-        printText(url, outfile, website, count)
-        count += 1
+        if website != "HPO":
+            url = (get_url(directory + file))
+            headline = get_headline(directory + file)
+            printText(url, headline, outfile, website, count)
+            count += 1
     outfile.close()
 
 
