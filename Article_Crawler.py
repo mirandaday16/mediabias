@@ -17,6 +17,7 @@ def get_website(filename: str):
 def get_url(json_file_path: str):
     json_obj = json.load(open(json_file_path))
     url = json_obj['url'].split("?")[0]
+    # These print statements help keep track of articles in real time as they are being analyzed
     print("FILENAME: " + json_file_path)
     print("TITLE: " + json_obj["title"])
     print("URL: " + url)
@@ -203,9 +204,10 @@ def printText(url, headline, outfile, website, count):
     else:
         alt_text = None
         caption = None
+        media_type = None
     outfile.write(str(count) + ". " + website + "\n" + "HEADLINE: " + headline +
                   "\n")
-    if media_link is not None:
+    if media_link is not None and media_type is not None:
         outfile.write(media_type + ": " + media_link + "\n")
     else:
         outfile.write("No media\n")
