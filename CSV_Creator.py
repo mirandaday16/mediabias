@@ -9,12 +9,12 @@ def main():
     with open('metadata.csv', mode='w') as metadata_table:
         metadata_writer = csv.writer(metadata_table, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
         # Write header rows
-        metadata_writer.writerow(['Headline', 'URL', 'Media Type', 'Media Link', 'Alt Text', 'Caption Text'])
-        for file in os.listdir(Article_Crawler_Functions.directory):
+        metadata_writer.writerow(['Website', 'Headline', 'URL', 'Media Type', 'Media Link', 'Alt Text', 'Caption Text'])
+        for file in sorted(os.listdir(Article_Crawler_Functions.directory)):
+            # Assign metadata for each article
             website = Article_Crawler_Functions.get_website(file)
             headline = Article_Crawler_Functions.get_headline(Article_Crawler_Functions.directory + file)
             url = (Article_Crawler_Functions.get_url(Article_Crawler_Functions.directory + file))
-
             if Article_Crawler_Functions.get_media(url) is not None:
                 media_link = Article_Crawler_Functions.get_media(url)
             else:
@@ -33,7 +33,7 @@ def main():
                 media_type = ''
             # Write metadata to file for FOX and NYT articles
             if website != "HPO":
-                metadata_writer.writerow([headline, url, media_type, media_link, alt_text, caption])
+                metadata_writer.writerow([website, headline, url, media_type, media_link, alt_text, caption])
 
 
 main()

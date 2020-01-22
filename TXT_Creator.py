@@ -36,7 +36,7 @@ def write_text_list(url, headline, outfile, website, count):
 def main():
     outfile = open("metadata.txt", 'w')
     count = 1
-    for file in os.listdir(Article_Crawler_Functions.directory):
+    for file in sorted(os.listdir(Article_Crawler_Functions.directory)):
         website = Article_Crawler_Functions.get_website(file)
         if website != "HPO":
             url = (Article_Crawler_Functions.get_url(Article_Crawler_Functions.directory + file))
