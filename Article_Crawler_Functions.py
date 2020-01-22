@@ -1,4 +1,3 @@
-import os
 import json
 import urllib
 from urllib.request import Request, urlopen
@@ -191,49 +190,3 @@ def nyt_get_captions_text(url):
                     else:
                         return cap_text
 
-
-# Writes web page details to outfile
-def printText(url, headline, outfile, website, count):
-    media_link = get_media(url)
-    if website == "FOX":
-        alt_text = (fox_get_alt_text(url))
-        caption = fox_get_captions_text(url)
-        media_type = fox_get_media_type(url)
-    elif website == "NYT":
-        alt_text = nyt_get_alt_text(url)
-        caption = nyt_get_captions_text(url)
-        media_type = nyt_get_media_type(url)
-    else:
-        alt_text = None
-        caption = None
-        media_type = None
-    outfile.write(str(count) + ". " + website + "\n" + "HEADLINE: " + headline +
-                  "\n" + url + "\n")
-    if media_link is not None and media_type is not None:
-        outfile.write(media_type + ": " + media_link + "\n")
-    else:
-        outfile.write("No media\n")
-    if alt_text is not None:
-        outfile.write("ALT TEXT: " + alt_text + "\n")
-    if caption is not None:
-        outfile.write("CAPTION: " + caption)
-        outfile.write("\n\n")
-    else:
-        outfile.write("\n")
-
-
-# Iterates through all files and writes alt text/caption from each article to a new file
-def main():
-    outfile = open("metadata.txt", 'w')
-    count = 1
-    for file in os.listdir(directory):
-        website = get_website(file)
-        if website != "HPO":
-            url = (get_url(directory + file))
-            headline = get_headline(directory + file)
-            printText(url, headline, outfile, website, count)
-            count += 1
-    outfile.close()
-
-
-main()
