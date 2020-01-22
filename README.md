@@ -7,6 +7,7 @@
 **[Literature](Literature/)**
 - running list of related works with bibtex links
 - some PDF files of useful works
+- notes on major takeaways from articles
 
 **[Meetings](Meetings/)**
 - notes for weekly meetings
