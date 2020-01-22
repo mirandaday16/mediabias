@@ -35,6 +35,6 @@ To do:
 ### Mid-Week Updates: Wednesday, January 22, 2020
 
 - Possible replacement for HuffPost: The Atlantic (more center-left compared to HuffPo and NYT, media seems to have alt text/caption/both based on cursory search).
-- Related: rating of overall bias of online news outlets: https://www.allsides.com/media-bias/media-bias-ratings
+    - Related: rating of overall bias of online news outlets: https://www.allsides.com/media-bias/media-bias-ratings
 
 ---
