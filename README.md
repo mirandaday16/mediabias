@@ -14,10 +14,10 @@ Potential issues to discuss:
 - Computer vision?
 
 Post-meeting ACTION ITEMS:
-1. Gather alt-text and captions for NYT sources
-2. Consider replacement sources for HuffPost (does not have captions)
-3. Consider how to store data: website, article title, type of media, link to media, caption text, alt-text, notes about potential bias (see Hamborg paper)
-4. Pause literary review for now (but read Hamborg paper this week)
+- [x] Gather alt-text and captions for NYT sources
+- [x] Consider replacement sources for HuffPost (does not have captions)
+- [ ] Consider how to store data: website, article title, type of media, link to media, caption text, alt-text, notes about potential bias (see Hamborg paper)
+- [ ] Pause literary review for now (but read Hamborg paper this week)
 
 ---
 
