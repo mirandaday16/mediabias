@@ -15,5 +15,6 @@ To do:
     - Related: rating of overall bias of online news outlets: https://www.allsides.com/media-bias/media-bias-ratings
 - Created updated .txt and .csv files containing article media metadata. .csv file will be especially useful in visualization/comparison. Can possibly also be expanded to include annotation notes.
     - Note: The articles in both files are now sorted by file name, so articles on the same topic will be next to each other
+- Reorganized repo to be more easily navigable
 
 ---
