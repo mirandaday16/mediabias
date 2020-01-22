@@ -5,6 +5,7 @@
 Progress so far:
 - wrote program to get caption/alt text information for photo/video media (works for Fox News)
 - began literature review, gathering papers based on recommendations from Eva and Ian/Xinyu (current focus)
+
 Currently:
 - reading literature related to media bias, multi-modal deception detection, and journalistic practices
 - attempting to narrow the scope of the project and determine next steps
