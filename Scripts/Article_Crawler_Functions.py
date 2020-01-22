@@ -4,7 +4,7 @@ from urllib.request import Request, urlopen
 from bs4 import BeautifulSoup
 
 # Our current directory
-directory = "./emnlp19_BASIL/data/"
+directory = "../Data/JSON files/emnlp19_BASIL/data/"
 
 
 # Returns source website: either HPO, FOX, or NYT
