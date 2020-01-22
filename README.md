@@ -16,7 +16,7 @@ Potential issues to discuss:
 Post-meeting ACTION ITEMS:
 - [x] Gather alt-text and captions for NYT sources
 - [x] Consider replacement sources for HuffPost (does not have captions)
-- [ ] Consider how to store data: website, article title, type of media, link to media, caption text, alt-text, notes about potential bias (see Hamborg paper)
+- [x] Consider how to store data: website, article title, type of media, link to media, caption text, alt-text, notes about potential bias (see Hamborg paper)
 - [ ] Pause literary review for now (but read Hamborg paper this week)
 
 ---
@@ -36,5 +36,7 @@ To do:
 
 - Possible replacement for HuffPost: The Atlantic (more center-left compared to HuffPo and NYT, media seems to have alt text/caption/both based on cursory search).
     - Related: rating of overall bias of online news outlets: https://www.allsides.com/media-bias/media-bias-ratings
+- Created updated .txt and .csv files containing article media metadata. .csv file will be especially useful in visualization/comparison. Can possibly also be expanded to include annotation notes.
+    - Note: The articles in both files are now sorted by file name, so articles on the same topic will be next to each other
 
 ---
