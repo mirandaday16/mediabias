@@ -18,7 +18,7 @@ Post-meeting ACTION ITEMS:
 - [x] Gather alt-text and captions for NYT sources
 - [x] Consider replacement sources for HuffPost (does not have captions)
 - [x] Consider how to store data: website, article title, type of media, link to media, caption text, alt-text, notes about potential bias (see Hamborg paper)
-- [ ] Pause literary review for now (but read Hamborg paper this week)
+- [x] Pause literary review for now (but read Hamborg paper this week)
 
 ---
 
