@@ -22,3 +22,14 @@ Post-meeting ACTION ITEMS:
 
 ---
 
+### Friday, January 24, 2020
+
+Progress this past week:
+- Crawled for and collected the following metadata from FOX and NYT sources: headline, url, media type, media link, alt text, and caption
+    - Note that not all articles contain photo/video media, and not all media have both alt text and a caption. NYT especially does not seem to use alt text, but they use captions consistently
+    - Created scripts to produce metadata files: [.txt](../Data/processed_data/metadata.txt) and [.csv](../Data/processed_data/metadata.csv)
+- Read Hamborg paper recommended by Lu and left key takeaways in [Literature Notes](../Literature/README.md)
+    - Next step: consider ways to **quantitatively compare** bias in media across aligned articles
+- Brainstormed replacement news outlets for HuffPost. I checked The Atlantic, which skews more center-left than HPO and NYT, and they seem to use alt-text and/or captions fairly consistently.
+    - Next step: find articles aligned by topic with those from FOX and NYT in the initial dataset
+    - Regarding the above, I wrote a script to produce a [.csv spreadsheet](../Data/processed_data/article_topics_edited.csv) to track the article topics and dates in the initial FOX and NYT articles, which will help me to search for appropriate articles in the Atlantic (or another/more source(s) in the future)
