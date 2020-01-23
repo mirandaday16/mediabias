@@ -95,8 +95,6 @@ CAPTION: HTTP Error
 HEADLINE: Perry Wins Endorsement of Sheriff Joe 
 http://thecaucus.blogs.nytimes.com/2011/11/29/rick-perry-wins-the-endorsement-of-sheriff-joe-arpaio/
 No media
-ALT TEXT: HTTP Error
-CAPTION: HTTP Error
 
 17. FOX
 HEADLINE: RNC Chairman Steele to Announce Intentions on a Second Term

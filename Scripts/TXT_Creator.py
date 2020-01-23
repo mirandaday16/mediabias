@@ -34,7 +34,7 @@ def write_text_list(url, headline, outfile, website, count):
 
 # Iterates through all files and writes alt text/caption from each article to a new file, if it doesn't yet exist
 def main():
-    outfile = open("../Data/Processed_Metadata/metadata.txt", 'w')
+    outfile = open("../Data/processed_data/metadata.txt", 'w')
     count = 1
     for file in sorted(os.listdir(Article_Crawler_Functions.directory)):
         website = Article_Crawler_Functions.get_website(file)
