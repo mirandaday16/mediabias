@@ -6,7 +6,7 @@ import os
 
 def main():
     # Create or open metadata csv file
-    with open('metadata.csv', mode='w') as metadata_table:
+    with open('../Data/Processed_Metadata/metadata.csv', mode='w') as metadata_table:
         metadata_writer = csv.writer(metadata_table, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
         # Write header rows
         metadata_writer.writerow(['Website', 'Headline', 'URL', 'Media Type', 'Media Link', 'Alt Text', 'Caption Text'])
