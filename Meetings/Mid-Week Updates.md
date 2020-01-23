@@ -18,3 +18,10 @@ To do:
 - Reorganized repo to be more easily navigable
 
 ---
+### Mid-Week Updates: Thursday, January 23, 2020
+
+- Created a script which writes a spreadsheet (.csv file) that can be used to help find relevant aligned articles from another news source(s), such as The Atlantic
+- Finished reading Hamborg article, made some notes and highlighted most important sections (see [Literature notes](../Literature/README.md) )
+- Currently thinking about best ways to **quantify**, or at least accurately compare, bias in photos and videos
+
+---
