@@ -33,3 +33,17 @@ Progress this past week:
 - Brainstormed replacement news outlets for HuffPost. I checked The Atlantic, which skews more center-left than HPO and NYT, and they seem to use alt-text and/or captions fairly consistently.
     - Next step: find articles aligned by topic with those from FOX and NYT in the initial dataset
     - Regarding the above, I wrote a script to produce a [.csv spreadsheet](../Data/processed_data/article_topics_edited.csv) to track the article topics and dates in the initial FOX and NYT articles, which will help me to search for appropriate articles in the Atlantic (or another/more source(s) in the future)
+    
+Post-meeting ACTION ITEMS:
+- [ ] Manually find metadata for HTTP Error articles
+- [ ] Manually double-check Caucus links
+- [ ] Manually check "No Media" articles and make sure they really don't have media
+- [ ] Does caption/media contain main figures? Compare to json files. If not, why?
+- [ ] How many captions are detailed/not?
+- [ ] Check out Marshall's annotation tool -- email him if you can't find
+- [ ] Annotate captions as subjective or not. Refer to Jurafsky's textbook for guidelines on subjectivity (Chapter 21). Label using binary.
+- [ ] Write down hypotheses/thoughts somewhere specific in repo.
+
+Questions:
+- Does the caption correctly reflect the content? Are there opinions inserted into the caption?
+- Which is more helpful: alt text or caption? What is the difference? When there is a difference, why? Is alt text more objective?
