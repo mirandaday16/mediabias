@@ -35,7 +35,7 @@ Progress this past week:
     - Regarding the above, I wrote a script to produce a [.csv spreadsheet](../Data/processed_data/article_topics_edited.csv) to track the article topics and dates in the initial FOX and NYT articles, which will help me to search for appropriate articles in the Atlantic (or another/more source(s) in the future)
     
 Post-meeting ACTION ITEMS:
-- [ ] Manually find metadata for HTTP Error articles
+- [x] Manually find metadata for HTTP Error articles
 - [ ] Manually double-check Caucus links
 - [ ] Manually check "No Media" articles and make sure they really don't have media
 - [ ] Does caption/media contain main figures? Compare to json files. If not, why? (edit by Lu: for each caption, we should also label all the entities mentioned in it, then compare with the main figures in article.)
