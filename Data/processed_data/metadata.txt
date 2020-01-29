@@ -95,7 +95,9 @@ CAPTION: PHOENIX, AZ - APRIL 17:   Inmates walk as they are moved after being or
 16. NYT
 HEADLINE: Perry Wins Endorsement of Sheriff Joe 
 http://thecaucus.blogs.nytimes.com/2011/11/29/rick-perry-wins-the-endorsement-of-sheriff-joe-arpaio/
-No media
+IMAGE: https://static01.nyt.com/images/2011/11/29/us/politics/29perry/29perry-blog480.jpg
+ALT TEXT: Texas Gov. Rick Perry on Tuesday received the endorsement of Sheriff Joe Arpaio of Maricopa County, Ariz., who is well known for his campaign against illegal immigration.
+CAPTION: Texas Gov. Rick Perry on Tuesday received the endorsement of Sheriff Joe Arpaio of Maricopa County, Ariz., who is well known for his campaign against illegal immigration.
 
 17. FOX
 HEADLINE: RNC Chairman Steele to Announce Intentions on a Second Term
