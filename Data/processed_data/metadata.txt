@@ -1199,10 +1199,12 @@ No media
 
 195. FOX
 HEADLINE: Third-Highest Ranking Republican In U.S. House Calls For Legalizing Undocumented Immigrants
-http://latino.foxnews.com/latino/politics/2014/01/23/third-highest-ranking-republican-in-us-house-calls-for-legalizing-undocumented/
-HTTP Error: HTTP Error
-ALT TEXT: HTTP Error
-CAPTION: HTTP Error
+https://www.foxnews.com/politics/third-highest-ranking-republican-in-u-s-house-calls-for-legalizing-undocumented-immigrants
+IMAGE: https://a57.foxnews.com/a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/1862/1048/mccarthy_kevin_071911-1.jpg?ve=1&tl=1?ve=1&tl=1
+ALT TEXT: FILE: UNDATED: House Majority Leader Kevin McCarthy, center, talks on Capitol Hill about the debt ceiling, Washington, D.C.
+CAPTION: 
+          FILE: UNDATED: House Majority Leader Kevin McCarthy, center, talks on Capitol Hill about the debt ceiling, Washington, D.C.
+          
 
 196. NYT
 HEADLINE: House Republicans to Offer Broad Immigration Plan
