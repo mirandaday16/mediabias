@@ -25,3 +25,6 @@ To do:
 - Currently thinking about best ways to **quantify**, or at least accurately compare, bias in photos and videos
 
 ---
+### Mid-Week Updates: Wednesday, January 29, 2020
+
+- Manually fixed URLs and gathered metadata for "HTTP Error" articles
