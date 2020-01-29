@@ -308,7 +308,8 @@ No media
 
 51. FOX
 HEADLINE: Cruz blames Trump for affair story, hints he wouldn't support him in general election
-https://www.foxnews.com/politics/cruz-blames-trump-for-affair-story-hints-he-wouldnt-support-him-in-general-electionHTTP IMAGE: https://a57.foxnews.com/a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/1862/1048/Cruza-Utah-Win.jpg?ve=1&tl=1?ve=1&tl=1
+https://www.foxnews.com/politics/cruz-blames-trump-for-affair-story-hints-he-wouldnt-support-him-in-general-election
+IMAGE: https://a57.foxnews.com/a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/1862/1048/Cruza-Utah-Win.jpg?ve=1&tl=1?ve=1&tl=1
 ALT TEXT: WASHINGTON, DC - MARCH 22:  Republican presidential candidate Sen. Ted Cruz (R-TX) arrives to address the bombings in Brussels during remarks March 22, 2016 in Washington, DC. Reports indicate at least 34 people have died and scores more injured in the bombings at the airport and Metro.  (Photo by Win McNamee/Getty Images)
 CAPTION: 
           WASHINGTON, DC - MARCH 22:  Republican presidential candidate Sen. Ted Cruz (R-TX) arrives to address the bombings in Brussels during remarks March 22, 2016 in Washington, DC. Reports indicate at least 34 people have died and scores more injured in the bombings at the airport and Metro.  (Photo by Win McNamee/Getty Images)
@@ -617,10 +618,12 @@ No media
 
 101. FOX
 HEADLINE: Former Mexican President Fox to Trump: We won't pay for 'that f***ing wall!'
-http://latino.foxnews.com/latino/politics/2016/02/25/former-mexican-president-fox-to-trump-wont-pay-for-that-fing-wall/
-HTTP Error: HTTP Error
-ALT TEXT: HTTP Error
-CAPTION: HTTP Error
+https://www.foxnews.com/politics/former-mexican-president-fox-to-trump-we-wont-pay-for-that-fing-wall
+IMAGE: https://a57.foxnews.com/a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/1862/1048/Vicente-Fox-Trump.jpg?ve=1&tl=1?ve=1&tl=1
+ALT TEXT: NEW YORK - OCTOBER 9:  Former Mexican President Vicente Fox speaks before signing copies of his memoir "Revolution of Hope" in the Barnes &amp; Noble Union Square store October 9, 2007 in New York City. Fox openly writes in the book about major world personalities including U.S. President George W. Bush.  (Photo by Mario Tama/Getty Images) *** Local Caption *** Vicente Fox
+CAPTION: 
+          NEW YORK - OCTOBER 9:  Former Mexican President Vicente Fox speaks before signing copies of his memoir "Revolution of Hope" in the Barnes &amp; Noble Union Square store October 9, 2007 in New York City. Fox openly writes in the book about major world personalities including U.S. President George W. Bush.  (Photo by Mario Tama/Getty Images) *** Local Caption *** Vicente Fox
+          
 
 102. NYT
 HEADLINE: Vicente Fox and Felipe Calderón, 2 Ex-Presidents of Mexico, Say No Way Country Is Paying for Donald Trump's Wall
