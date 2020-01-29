@@ -1063,10 +1063,12 @@ No media
 
 173. FOX
 HEADLINE: Prominent Republicans call for Ariz. Gov. Jan Brewer to veto bill allowing denial of service to gays
-http://www.foxnews.com/us/2014/02/26/arizona-gov-jan-brewer-jets-home-amid-furor-over-bill-allowing-denial-service/print
-HTTP Error: HTTP Error
-ALT TEXT: HTTP Error
-CAPTION: HTTP Error
+https://www.foxnews.com/us/prominent-republicans-call-for-ariz-gov-jan-brewer-to-veto-bill-allowing-denial-of-service-to-gays
+IMAGE: https://a57.foxnews.com/a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/1862/1048/e10b2d37e6a9da074c0f6a70670018ba.jpg?ve=1&tl=1?ve=1&tl=1
+ALT TEXT: Jan. 13, 2014: Arizona Gov. Jan Brewer speaks during her State of the State address at the Arizona Capitol in Phoenix.
+CAPTION: 
+          Jan. 13, 2014: Arizona Gov. Jan Brewer speaks during her State of the State address at the Arizona Capitol in Phoenix.
+          
 
 174. NYT
 HEADLINE: Governor of Arizona Is Pressed to Veto Bill
