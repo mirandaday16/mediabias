@@ -998,10 +998,12 @@ CAPTION: Former Mayor Michael R. Bloomberg of New York and Donald J. Trump at th
 
 163. FOX
 HEADLINE: GOP Smackdown: Rep. Labrador Enters The Race For House Majority Leadership
-http://latino.foxnews.com/latino/politics/2014/06/13/rep-labrador-is-running-against-rep-mccarthy-for-house-majority-leadership/
-HTTP Error: HTTP Error
-ALT TEXT: HTTP Error
-CAPTION: HTTP Error
+https://www.foxnews.com/politics/gop-smackdown-rep-labrador-enters-the-race-for-house-majority-leadership
+IMAGE: https://a57.foxnews.com/a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/1862/1048/6e8f63e7-labardor-cropped.jpg?ve=1&tl=1?ve=1&tl=1
+ALT TEXT: WASHINGTON, DC - FEBRUARY 10:  Rep. Raul Labrador (R-ID), speaks at the Conservative Political Action conference (CPAC), on February 10, 2011 in Washington, DC. The CPAC annual gathering is a project of the American Conservative Union.  (Photo by Mark Wilson/Getty Images) *** Local Caption *** Raul Labrador
+CAPTION: 
+          WASHINGTON, DC - FEBRUARY 10:  Rep. Raul Labrador (R-ID), speaks at the Conservative Political Action conference (CPAC), on February 10, 2011 in Washington, DC. The CPAC annual gathering is a project of the American Conservative Union.  (Photo by Mark Wilson/Getty Images) *** Local Caption *** Raul Labrador
+          
 
 164. NYT
 HEADLINE: Idaho Republican, Appealing to Right, Enters Race to Replace Cantor
