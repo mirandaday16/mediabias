@@ -308,10 +308,11 @@ No media
 
 51. FOX
 HEADLINE: Cruz blames Trump for affair story, hints he wouldn't support him in general election
-http://latino.foxnews.com/latino/politics/2016/03/25/cruz-blames-trump-for-affair-report-hints-wouldnt-support-him-in-general/
-HTTP Error: HTTP Error
-ALT TEXT: HTTP Error
-CAPTION: HTTP Error
+https://www.foxnews.com/politics/cruz-blames-trump-for-affair-story-hints-he-wouldnt-support-him-in-general-electionHTTP IMAGE: https://a57.foxnews.com/a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/1862/1048/Cruza-Utah-Win.jpg?ve=1&tl=1?ve=1&tl=1
+ALT TEXT: WASHINGTON, DC - MARCH 22:  Republican presidential candidate Sen. Ted Cruz (R-TX) arrives to address the bombings in Brussels during remarks March 22, 2016 in Washington, DC. Reports indicate at least 34 people have died and scores more injured in the bombings at the airport and Metro.  (Photo by Win McNamee/Getty Images)
+CAPTION: 
+          WASHINGTON, DC - MARCH 22:  Republican presidential candidate Sen. Ted Cruz (R-TX) arrives to address the bombings in Brussels during remarks March 22, 2016 in Washington, DC. Reports indicate at least 34 people have died and scores more injured in the bombings at the airport and Metro.  (Photo by Win McNamee/Getty Images)
+          
 
 52. NYT
 HEADLINE: Arguments Get Personal Between Donald Trump and Ted Cruz
