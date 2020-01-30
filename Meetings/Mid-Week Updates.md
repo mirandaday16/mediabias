@@ -41,3 +41,4 @@ To do:
 
 - Manually filled in caption main entities, match rate, and other entity data ([spreadsheet here](../Data/processed_data/caption_main_figures_edited.csv))
 - Created separate folders for main entity analysis in [Scripts](../Scripts/Main_Entities/) and [Data](../Data/processed_data/Main_Entities/)
+- Analyzed and plotted the match rate of main entities in captions v. their articles, [comparing NYT to FOX](../Scripts/Main_Entities/README.md)
