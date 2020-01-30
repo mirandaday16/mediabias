@@ -37,3 +37,6 @@ To do:
 - Other caption analysis: detailed/not, subjective/not (read Jurafsky for this)
 
 ---
+### Mid-Week Updates: Thursday, January 30, 2020
+
+- Manually filled in caption main entities, match rate, and other entity data ([spreadsheet here](../Data/processed_data/caption_main_figures_edited.csv))
