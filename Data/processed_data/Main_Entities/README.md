@@ -1,8 +1,3 @@
-### Current Hypotheses:
-- NYT captions tend to better encapsulate the article as a whole, since they have a higher rate of mentioning main entities from the article.
-- FOX captions may be slightly more likely to add nuanced or more-detailed information in their captions, as their frequency of naming extra entities in captions which are NOT main entities of the article is alightly higher (though very similar to the rate of NYT captions).
----
-
 ![Average Entity Match Plot](https://github.com/mirandaday16/mediabias/blob/master/Data/processed_data/Main_Entities/avg_match_rate.png)
 
 This figure shows the average number of main entities **from the article** that appear in the caption, separated by news outlet. We can see that NYT captions tend to be somewhat more thorough in mentioning main entities (65%) than FOX captions (52%). Note that these percentages only include articles which contain media **with captions**.
