@@ -39,15 +39,9 @@ def main():
             url = (Article_Crawler_Functions.get_url(Article_Crawler_Functions.directory + file))
             article_entities = get_main_entities(Article_Crawler_Functions.directory + file)
             captions = get_updated_captions()
-            if website == "FOX":
-                caption = Article_Crawler_Functions.fox_get_captions_text(url)
-            elif website == "NYT":
-                caption = Article_Crawler_Functions.nyt_get_captions_text(url)
-            else:
-                caption = ''
             # Write metadata to file for FOX and NYT articles
             if website != "HPO":
-                metadata_writer.writerow([website, headline, url, caption, captions[count], article_entities, ""])
+                metadata_writer.writerow([website, headline, url, captions[count], '', article_entities, ""])
                 count += 1
 
 
