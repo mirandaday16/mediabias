@@ -20,7 +20,10 @@ def get_updated_captions():
     with open("../Data/processed_data/metadata.csv", 'rt')as file:
         data = csv.reader(file)
         for row in data:
-            captions.append(row[6])
+            if row[6] != "":
+                captions.append(row[6])
+            else:
+                captions.append("NONE")
     return captions
 
 
