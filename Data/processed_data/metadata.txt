@@ -162,7 +162,7 @@ CAPTION:           Rep. Bruce Braley, left, and Sen. Chuck Grassley.
 26. NYT
 HEADLINE: Representative Apologizes for Criticizing Iowa Senator
 https://www.nytimes.com/2014/03/26/us/politics/representative-apologizes-for-criticizing-iowa-senator.html
-No media
+VIDEO: https://www.youtube.com/embed/QH51LNpqZ94
 CAPTION: America Rising posted video of Representative Bruce Braley talking about Senator Charles E. Grassley.
 
 27. FOX
@@ -253,8 +253,10 @@ CAPTION: Former President Vicente Fox met with international reporters at a Mexi
 
 41. FOX
 HEADLINE: Joe Lieberman emerges as Trump's top choice for FBI director
-http://www.foxnews.com/politics/2017/05/18/joe-lieberman-emerges-as-trumps-top-choice-for-fbi-director.print.html
-No media
+https://www.foxnews.com/politics/joe-lieberman-emerges-as-trumps-top-choice-for-fbi-director
+VIDEO: http://video.foxnews.com/v/5438251787001
+ALT TEXT: Joe Lieberman a bipartisan pick for FBI director?
+CAPTION: Joe Lieberman a bipartisan pick for FBI director? Radio hosts Leslie Marshall and Chris Plante react 
 
 42. NYT
 HEADLINE: Lieberman Is a Finalist for F.B.I. Director, Trump Says
@@ -366,8 +368,8 @@ CAPTION: Maine governor on reducing state income tax rate, spending
 
 58. NYT
 HEADLINE: Paul LePage, the Governor of Maine, Now Says He’s Not Quitting
-https://mobile.nytimes.com/2016/09/01/us/paul-lepage-maine-governor.html
-No media
+https://www.nytimes.com/2016/09/01/us/paul-lepage-maine-governor.html
+No media (confirmed)
 
 59. FOX
 HEADLINE: Benghazi committee seeks 'transcribed' interview with Clinton over deleted records
@@ -392,7 +394,7 @@ CAPTION:           Republican National Committee Chairman Michael Steele answers
 62. NYT
 HEADLINE: Michael Steele Criticized for Afghanistan Comments
 http://www.nytimes.com/2010/07/03/us/politics/03steele.html
-No media
+No media (confirmed)
 
 63. FOX
 HEADLINE: Pelosi wins another term as House Democratic leader; Ryan’s dynamic challenge falls short
@@ -667,8 +669,10 @@ CAPTION: Supreme Court Justice Ruth Bader Ginsburg in Washington in 2015.
 
 107. FOX
 HEADLINE: Trump’s immigration offer brings sharp reactions from Dems and GOP
-https://www.foxnews.com/politics/trumps-immigration-offer-brings-polarized-reactions-from-dems-and-gop.print
-No media
+https://www.foxnews.com/politics/trumps-immigration-offer-brings-polarized-reactions-from-dems-and-gop
+VIDEO: http://video.foxnews.com/v/5991477635001
+ALT TEXT: President Trump outlines new border security proposal to break logjam over partial government shutdown
+CAPTION: President Trump outlines new border security proposal to break logjam over partial government shutdown
 
 108. NYT
 HEADLINE: Trump Offers Temporary Protections for ‘Dreamers’ in Exchange for Wall Funding
@@ -796,7 +800,7 @@ CAPTION:           Sen. Kay Bailey Hutchison visits Wharton, Texas, March 1, 201
 128. NYT
 HEADLINE: AARP Open to Social Security Cuts
 http://www.nytimes.com/2011/06/18/us/18aarp.html
-No media
+No media (confirmed)
 
 129. FOX
 HEADLINE: Federal prosecutors plan to file charges against Rep. Grimm, attorney says
@@ -1083,7 +1087,7 @@ CAPTION:
 174. NYT
 HEADLINE: Governor of Arizona Is Pressed to Veto Bill
 https://www.nytimes.com/2014/02/25/us/governor-of-arizona-is-pressed-to-veto-bill.html
-No media
+No media (confirmed)
 
 175. FOX
 HEADLINE: Washington gov, Seattle mayor ban official travel to Indiana in wake of 'religious freedom' law
@@ -1094,7 +1098,7 @@ CAPTION: Gov. Mike Pence defends the law saying it's designed to protect people 
 176. NYT
 HEADLINE: Indiana Governor Says Legislators May Clarify Religious Beliefs Law
 https://www.nytimes.com/2015/03/30/us/politics/legislators-in-indiana-may-clarify-beliefs-law.html
-No media
+No media (confirmed)
 
 177. FOX
 HEADLINE: In first foreign policy speech, candidate Rubio pushes stronger U.S. leadership
@@ -1207,7 +1211,7 @@ CAPTION:           Aug 15, 2013: New Jersey Gov. Chris Christie speaks to fellow
 194. NYT
 HEADLINE: U.S. Attorney Subpoenas Christie’s Campaign and New Jersey G.O.P.
 https://mobile.nytimes.com/2014/01/24/nyregion/us-attorney-issues-subpoena-to-christies-re-election-campaign.html
-No media
+No media (confirmed)
 
 195. FOX
 HEADLINE: Third-Highest Ranking Republican In U.S. House Calls For Legalizing Undocumented Immigrants
@@ -1221,7 +1225,7 @@ CAPTION:
 196. NYT
 HEADLINE: House Republicans to Offer Broad Immigration Plan
 https://www.nytimes.com/2014/01/26/us/politics/house-republicans-to-offer-broad-immigration-plan.html
-No media
+No media (confirmed)
 
 197. FOX
 HEADLINE: Rep. Duncan Hunter, wife indicted on corruption charges in California
