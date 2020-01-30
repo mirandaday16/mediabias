@@ -13,8 +13,7 @@ CAPTION: Representative Paul D. Ryan, at a campaign stop Tuesday in Colorado, sa
 3. FOX
 HEADLINE: Purpose Behind Congressional Reading of Constitution Questioned After Amendments Are Omitted
 http://www.foxnews.com/politics/purpose-behind-congressional-reading-of-constitution-questioned-after-amendments-are-omitted
-IMAGE: //static.foxnews.com/foxnews.com/content/uploads/2019/08/elections-og-candidate-tracker-3.png
-ALT TEXT: 
+No media (confirmed)
 
 4. NYT
 HEADLINE: House Reading of Constitution Is Not Without Issues
