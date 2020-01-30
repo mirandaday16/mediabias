@@ -58,7 +58,7 @@ Questions:
 - Manually fixed all broken links and missing data
 - Conducted analysis on main entities of articles (based on json file data) compared to entities in captions.
     - You can see the data plotted [here](../Data/processed_data/Main_Entities/README.md)
-- Based on above analysis, added a dedicated section for current hyptheses [here](../Data/processed_data/README.md)
+- Based on above analysis, added a dedicated section for current hypotheses [here](../Data/processed_data/README.md)
 
 **Next steps**:
 - Other caption analysis: relationship to media, detailed v. not, subjective v. not
