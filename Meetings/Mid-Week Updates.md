@@ -29,3 +29,11 @@ To do:
 
 - Manually fixed URLs and gathered metadata for "HTTP Error" articles
 - Manually double-checked and fixed Caucus article metadata and articles labelled as "no media", and fixed erroneous media links
+- Wrote script to create .csv file for comparing main figures in captions vs their articles (using data from json files)
+
+To do:
+- Manually fill in caption main entities and match rate
+- Compare caption main entities to media main entities
+- Other caption analysis: detailed/not, subjective/not (read Jurafsky for this)
+
+---
