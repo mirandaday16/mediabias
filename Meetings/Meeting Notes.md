@@ -37,7 +37,7 @@ Progress this past week:
 Post-meeting ACTION ITEMS:
 - [x] Manually find metadata for HTTP Error articles
 - [x] Manually double-check Caucus links
-- [ ] Manually check "No Media" articles and make sure they really don't have media
+- [x] Manually check "No Media" articles and make sure they really don't have media
 - [ ] Does caption/media contain main figures? Compare to json files. If not, why? (edit by Lu: for each caption, we should also label all the entities mentioned in it, then compare with the main figures in article.)
 - [ ] Check whether captions reflect the content in the multimedia (added by Lu: I think we discussed this too?)
 - [ ] How many captions are detailed/not?
