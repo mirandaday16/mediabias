@@ -1,6 +1,7 @@
 ## Contents:
 
 **[Data](Data/)**
+- current hypotheses
 - source data from previous bias work (json files)
 - data analysis
 
@@ -16,3 +17,4 @@
 **[Scripts](Scripts/)**
 - article crawling script
 - scripts for writing metadata files based on analysis on source data
+- scripts for conducting analysis and creating matplotlibs
