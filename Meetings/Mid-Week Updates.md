@@ -28,3 +28,4 @@ To do:
 ### Mid-Week Updates: Wednesday, January 29, 2020
 
 - Manually fixed URLs and gathered metadata for "HTTP Error" articles
+- Manually double-checked and fixed Caucus article metadata and articles labelled as "no media", and fixed erroneous media links
