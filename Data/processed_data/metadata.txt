@@ -19,7 +19,7 @@ ALT TEXT:
 4. NYT
 HEADLINE: House Reading of Constitution Is Not Without Issues
 https://thecaucus.blogs.nytimes.com/2011/01/06/house-reading-of-the-constitution-is-not-without-issues/
-No media
+No media (confirmed)
 
 5. FOX
 HEADLINE: Trump announces deal to end partial government shutdown
@@ -110,7 +110,7 @@ CAPTION:           RNC Chairman Michael Steele
 18. NYT
 HEADLINE: Steele to Announce Decision on R.N.C. Run
 http://thecaucus.blogs.nytimes.com/2010/12/12/steele-to-announce-decision-on-r-n-c-run/
-No media
+No media (confirmed)
 
 19. FOX
 HEADLINE: Netanyahu appears in conservative political ad airing in Florida
@@ -121,7 +121,7 @@ ALT TEXT: Cristina Corbin
 20. NYT
 HEADLINE: Netanyahu Appears in Conservative Group's Ad 
 http://thecaucus.blogs.nytimes.com/2012/09/20/netanyahu-appears-in-conservative-groups-ad/
-No media
+VIDEO: https://www.youtube.com/watch?v=rJdH-PgmeK8
 
 21. FOX
 HEADLINE: White House Asked Bill Clinton to Urge Sestak to Drop Out of Senate Race
@@ -134,7 +134,9 @@ CAPTION:           Former President Bill Clinton denies a White House account th
 22. NYT
 HEADLINE: White House Used Bill Clinton to Ask Sestak to Drop Out of Race
 https://thecaucus.blogs.nytimes.com/2010/05/28/white-house-used-bill-clinton-to-ask-sestak-to-drop-out-of-race/
-No media
+IMAGE: https://static01.nyt.com/images/2010/05/29/us/29sestak-cnd/29sestak-cnd-blogSpan.jpg
+ALT TEXT: President Bill Clinton with Joe Sestak, and his wife, Susan, in 2006 when Mr. Sestak was running for the House of Representatives.
+CAPTION: President Bill Clinton with Joe Sestak, and his wife, Susan, in 2006, when Mr. Sestak was running for the House of Representatives.
 
 23. FOX
 HEADLINE: Trump Bows Out as Moderator of GOP Debate, Reserves Right to Run for President
@@ -147,7 +149,7 @@ CAPTION:           Dec. 5, 2011: Donald Trump speaks in New York.
 24. NYT
 HEADLINE: Trump Won't Go Forward With Debate
 http://thecaucus.blogs.nytimes.com/2011/12/13/trump-wont-go-forward-with-debate/
-No media
+No media (confirmed)
 
 25. FOX
 HEADLINE: Dem running for Senate in Iowa mocks Grassley as farmer 'who never went to law school'
@@ -186,7 +188,8 @@ CAPTION: New questions over Clinton campaign strategy on 'The Kelly File'
 30. NYT
 HEADLINE: Hillary Clinton Urges Obama to Listen to Democrats on Trade Deal
 https://www.nytimes.com/politics/first-draft/2015/06/14/hillary-clinton-urges-obama-to-listen-to-democrats-on-trade-deal/
-IMAGE: data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDE3LjEuMCwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPgo8IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPgo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IgogICAgIHZpZXdCb3g9IjAgMCAyMiAyOCIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgMjIgMjgiIHhtbDpzcGFjZT0icHJlc2VydmUiPgo8cGF0aCBmaWxsPSIjMjMxRjIwIiBkPSJNMjAuOCwxN0wyMC44LDE3Yy0wLjksMi4xLTIuNCwzLjgtNC43LDQuN1YxN2wyLjYtMi4zbC0yLjYtMi4zVjkuMWMyLjQtMC4xLDQuMi0xLjksNC4yLTQuMQogICAgYzAtMi44LTIuNi0zLjgtNC4yLTMuOGMtMC4zLDAtMC43LDAtMS4yLDAuMXYwLjFjMC4yLDAsMC41LDAsMC42LDBjMSwwLDEuOCwwLjUsMS44LDEuNGMwLDAuNy0wLjYsMS40LTEuNiwxLjQKICAgIGMtMi42LDAtNS42LTIuMS04LjktMi4xYy0yLjksMC01LDIuMi01LDQuNGMwLDIuMiwxLjMsMi45LDIuNiwzLjRsMC0wLjFDNCw5LjgsMy43LDkuMywzLjcsOC42YzAtMSwwLjktMS44LDIuMS0xLjgKICAgIGMyLjgsMCw3LjMsMi4zLDEwLDIuNGgwLjF2My4zbC0yLjYsMi4zbDIuNiwyLjN2NC44Yy0wLjksMC4zLTIsMC41LTMuMiwwLjVjLTEuOSwwLTMuNi0wLjUtNC45LTEuNmw0LjctMi4xVjkuMkw2LDEyLjEKICAgIEM2LjgsOS44LDguNSw4LjUsOS44LDhsMC0wLjFDNSw4LjksMS4yLDEyLjMsMS4yLDE3YzAsNS41LDQuMiw5LjYsMTAuMyw5LjZjNi4zLDAsOS4yLTQuNiw5LjItOS4zVjE3eiBNNy43LDIwLjUKICAgIGMtMS4zLTEuMi0yLjEtMy4xLTIuMS01LjVjMC0xLDAuMS0yLDAuNC0yLjdsMi4yLTF2OUw3LjcsMjAuNXoiLz4KPC9zdmc+Cg==
+IMAGE: https://static01.nyt.com/images/2015/06/14/us/14hillary-firstdraft/14hillary-firstdraft-tmagArticle.jpg
+ALT TEXT: Hillary Rodham Clinton on Sunday urged President Obama to make changes to the Trans-Pacific Partnership trade deal during a speech in Des Moines.
 CAPTION: Hillary Rodham Clinton on Sunday urged President Obama to make changes to the Trans-Pacific Partnership trade deal during a speech in Des Moines.
 
 31. FOX
@@ -306,7 +309,9 @@ CAPTION:           Feb. 20: Glenn Beck delivers keynote address at CPAC.
 50. NYT
 HEADLINE: Beck Wows the CPAC Crowd
 https://thecaucus.blogs.nytimes.com/2010/02/20/beck-wows-the-cpac-crowd/
-No media
+IMAGE: https://static01.nyt.com/images/2010/02/21/us/21cpac_beck01/21cpac_beck01-blogSpan.jpg
+ALT TEXT: Glenn Beck at CPAC
+CAPTION: Glenn Beck speaking at the Conservative Political Action Conference on Saturday.
 
 51. FOX
 HEADLINE: Cruz blames Trump for affair story, hints he wouldn't support him in general election
@@ -320,7 +325,8 @@ CAPTION:
 52. NYT
 HEADLINE: Arguments Get Personal Between Donald Trump and Ted Cruz
 https://www.nytimes.com/politics/first-draft/2016/03/25/arguments-get-personal-between-donald-trump-and-ted-cruz/
-IMAGE: data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDE3LjEuMCwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPgo8IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPgo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IgogICAgIHZpZXdCb3g9IjAgMCAyMiAyOCIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgMjIgMjgiIHhtbDpzcGFjZT0icHJlc2VydmUiPgo8cGF0aCBmaWxsPSIjMjMxRjIwIiBkPSJNMjAuOCwxN0wyMC44LDE3Yy0wLjksMi4xLTIuNCwzLjgtNC43LDQuN1YxN2wyLjYtMi4zbC0yLjYtMi4zVjkuMWMyLjQtMC4xLDQuMi0xLjksNC4yLTQuMQogICAgYzAtMi44LTIuNi0zLjgtNC4yLTMuOGMtMC4zLDAtMC43LDAtMS4yLDAuMXYwLjFjMC4yLDAsMC41LDAsMC42LDBjMSwwLDEuOCwwLjUsMS44LDEuNGMwLDAuNy0wLjYsMS40LTEuNiwxLjQKICAgIGMtMi42LDAtNS42LTIuMS04LjktMi4xYy0yLjksMC01LDIuMi01LDQuNGMwLDIuMiwxLjMsMi45LDIuNiwzLjRsMC0wLjFDNCw5LjgsMy43LDkuMywzLjcsOC42YzAtMSwwLjktMS44LDIuMS0xLjgKICAgIGMyLjgsMCw3LjMsMi4zLDEwLDIuNGgwLjF2My4zbC0yLjYsMi4zbDIuNiwyLjN2NC44Yy0wLjksMC4zLTIsMC41LTMuMiwwLjVjLTEuOSwwLTMuNi0wLjUtNC45LTEuNmw0LjctMi4xVjkuMkw2LDEyLjEKICAgIEM2LjgsOS44LDguNSw4LjUsOS44LDhsMC0wLjFDNSw4LjksMS4yLDEyLjMsMS4yLDE3YzAsNS41LDQuMiw5LjYsMTAuMyw5LjZjNi4zLDAsOS4yLTQuNiw5LjItOS4zVjE3eiBNNy43LDIwLjUKICAgIGMtMS4zLTEuMi0yLjEtMy4xLTIuMS01LjVjMC0xLDAuMS0yLDAuNC0yLjdsMi4yLTF2OUw3LjcsMjAuNXoiLz4KPC9zdmc+Cg==
+IMAGE: https://static01.nyt.com/images/2016/03/24/us/24firstdraftnl-lede/24firstdraftnl-lede-tmagArticle.jpg
+ALT TEXT: Donald Trump and Melania Trump in the spin room after the Republican presidential debate at the University of Miami in Coral Gables, Fla., on March 10.
 CAPTION: Donald Trump and Melania Trump in the spin room after the Republican presidential debate at the University of Miami in Coral Gables, Fla., on March 10.
 
 53. FOX
@@ -334,7 +340,8 @@ CAPTION:           FILE - In this July 17, 2013, file photo Liz Cheney campaigns
 54. NYT
 HEADLINE: Mary Cheney Criticizes Her Sister on Same-Sex Marriage
 https://thecaucus.blogs.nytimes.com/2013/08/31/mary-cheney-criticizes-her-sister-on-same-sex-marriage/
-No media
+IMAGE: https://static01.nyt.com/images/2013/09/01/us/01cheney_blog/01cheney_blog-articleInline.jpg
+ALT TEXT: Mary Cheney in 2009.
 CAPTION: Mary Cheney in 2009.
 
 55. FOX
@@ -422,7 +429,7 @@ CAPTION:           FILE: Oct. 16, 2009: Lawrence Summers, then-White House chief
 68. NYT
 HEADLINE: Biden Tries, Again, to Sell Tax Compromise to Hill Democrats
 http://thecaucus.blogs.nytimes.com/2010/12/08/biden-tries-again-to-sell-tax-compromise-to-hill-democrats/
-No media
+No media (confirmed)
 
 69. FOX
 HEADLINE: Sparks fly as Biden, Ryan face off in feisty vice presidential debate
@@ -459,7 +466,7 @@ CAPTION:           The audience applauds after first lady Michelle Obama speaks 
 74. NYT
 HEADLINE: N.A.A.C.P. Challenges Tea Party on Racism
 http://thecaucus.blogs.nytimes.com/2010/07/13/n-a-a-c-p-challenges-tea-party-on-racism/
-No media
+No media (confirmed)
 
 75. FOX
 HEADLINE: Obama: ‘In God We Trust' Vote Not Creating Jobs
@@ -470,7 +477,7 @@ ALT TEXT:
 76. NYT
 HEADLINE: Obama Taunts G.O.P.  for Ignoring Jobs Bill
 http://thecaucus.blogs.nytimes.com/2011/11/02/obama-taunts-house-for-ignoring-jobs-bill/
-No media
+No media (confirmed)
 
 77. FOX
 HEADLINE: Boehner: '1-in-3 chance' Republicans could lose House in November
@@ -481,7 +488,7 @@ CAPTION: Sneak peek at Bill Hemmer's interview
 78. NYT
 HEADLINE: Boehner Sees One-in-Three Chance G.O.P. Will Lose House
 http://thecaucus.blogs.nytimes.com/2012/04/23/boehner-offers-g-o-p-a-warning-on-control-of-the-house/
-No media
+No media (confirmed)
 
 79. FOX
 HEADLINE: Suspect arrested in Florida in connection with suspicious packages sent to Democrats
@@ -540,7 +547,7 @@ ALT TEXT:
 88. NYT
 HEADLINE: Bachmann Cover Controversy Prompts Response From Newsweek
 http://thecaucus.blogs.nytimes.com/2011/08/09/newsweeks-bachmann-cover-causes-controversy/
-No media
+No media (confirmed)
 
 89. FOX
 HEADLINE: Aide to GOP lawmaker apologizes for Facebook post ripping Obama daughters
@@ -567,7 +574,7 @@ CAPTION:           Feb. 18, 2012: Rick Santorum speaks at the Ohio Christian All
 92. NYT
 HEADLINE: Santorum Defends Comments on Obama and Education
 http://thecaucus.blogs.nytimes.com/2012/02/19/santorum-defends-comments-on-obama-and-education/
-No media
+No media (confirmed)
 
 93. FOX
 HEADLINE: Kathy Griffin apologizes for photo shoot with bloodied Trump mask, says she 'went too far'
@@ -616,7 +623,7 @@ CAPTION:           April 15, 2010: Rep. Paul Ryan, R-Wis., chairman of the House
 100. NYT
 HEADLINE: Georgetown Faculty Latest to Chide Ryan 
 http://thecaucus.blogs.nytimes.com/2012/04/24/georgetown-faculty-latest-to-chide-ryan/
-No media
+No media (confirmed)
 
 101. FOX
 HEADLINE: Former Mexican President Fox to Trump: We won't pay for 'that f***ing wall!'
@@ -630,7 +637,8 @@ CAPTION:
 102. NYT
 HEADLINE: Vicente Fox and Felipe Calderón, 2 Ex-Presidents of Mexico, Say No Way Country Is Paying for Donald Trump's Wall
 https://www.nytimes.com/politics/first-draft/2016/02/25/2-ex-presidents-of-mexico-say-no-way-theyre-paying-for-donald-trumps-wall/
-IMAGE: data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDE3LjEuMCwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPgo8IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPgo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IgogICAgIHZpZXdCb3g9IjAgMCAyMiAyOCIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgMjIgMjgiIHhtbDpzcGFjZT0icHJlc2VydmUiPgo8cGF0aCBmaWxsPSIjMjMxRjIwIiBkPSJNMjAuOCwxN0wyMC44LDE3Yy0wLjksMi4xLTIuNCwzLjgtNC43LDQuN1YxN2wyLjYtMi4zbC0yLjYtMi4zVjkuMWMyLjQtMC4xLDQuMi0xLjksNC4yLTQuMQogICAgYzAtMi44LTIuNi0zLjgtNC4yLTMuOGMtMC4zLDAtMC43LDAtMS4yLDAuMXYwLjFjMC4yLDAsMC41LDAsMC42LDBjMSwwLDEuOCwwLjUsMS44LDEuNGMwLDAuNy0wLjYsMS40LTEuNiwxLjQKICAgIGMtMi42LDAtNS42LTIuMS04LjktMi4xYy0yLjksMC01LDIuMi01LDQuNGMwLDIuMiwxLjMsMi45LDIuNiwzLjRsMC0wLjFDNCw5LjgsMy43LDkuMywzLjcsOC42YzAtMSwwLjktMS44LDIuMS0xLjgKICAgIGMyLjgsMCw3LjMsMi4zLDEwLDIuNGgwLjF2My4zbC0yLjYsMi4zbDIuNiwyLjN2NC44Yy0wLjksMC4zLTIsMC41LTMuMiwwLjVjLTEuOSwwLTMuNi0wLjUtNC45LTEuNmw0LjctMi4xVjkuMkw2LDEyLjEKICAgIEM2LjgsOS44LDguNSw4LjUsOS44LDhsMC0wLjFDNSw4LjksMS4yLDEyLjMsMS4yLDE3YzAsNS41LDQuMiw5LjYsMTAuMyw5LjZjNi4zLDAsOS4yLTQuNiw5LjItOS4zVjE3eiBNNy43LDIwLjUKICAgIGMtMS4zLTEuMi0yLjEtMy4xLTIuMS01LjVjMC0xLDAuMS0yLDAuNC0yLjdsMi4yLTF2OUw3LjcsMjAuNXoiLz4KPC9zdmc+Cg==
+IMAGE: https://static01.nyt.com/images/2016/02/26/us/25firstdraft-vicente/25firstdraft-vicente-tmagArticle.jpg
+ALT TEXT: Vicente Fox, the former president of Mexico, in 2014.
 CAPTION: Vicente Fox, the former president of Mexico, in 2014.
 
 103. FOX
@@ -679,7 +687,7 @@ CAPTION:           Nov. 16, 2012: President Obama and House Speaker John Boehner
 110. NYT
 HEADLINE: Obama and Boehner Talk Deficits at the White House
 http://thecaucus.blogs.nytimes.com/2012/12/09/officials-foresee-progress-on-fiscal-talks/
-No media
+No media (confirmed)
 
 111. FOX
 HEADLINE: Donald Trump Jr. releases messages with WikiLeaks from before election
@@ -713,7 +721,7 @@ CAPTION: Steve Centanni reports from Washington, D.C.
 116. NYT
 HEADLINE: With Abortion in the Spotlight, a Challenge for Romney
 http://thecaucus.blogs.nytimes.com/2012/08/21/with-abortion-in-the-spotlight-a-challenge-for-romney/
-No media
+No media (confirmed)
 
 117. FOX
 HEADLINE: Obama administration defends 2nd mass surveillance project
@@ -910,7 +918,7 @@ CAPTION:           In this Nov. 16 photo, Republican Senate Leader Mitch McConne
 148. NYT
 HEADLINE: Senate Republicans: No Legislation Until After Tax Cut Extension
 https://thecaucus.blogs.nytimes.com/2010/12/01/senate-republicans-no-legislation-until-after-tax-cut-extension/
-No media
+No media (confirmed)
 
 149. FOX
 HEADLINE: FBI fires Peter Strzok, months after anti-Trump texts revealed
@@ -1024,7 +1032,7 @@ CAPTION:           If Donald Trump became president, Melania Trump would become 
 166. NYT
 HEADLINE: Trump Plans Meeting on Arizona Birth Bill 
 http://thecaucus.blogs.nytimes.com/2011/04/07/trump-plans-meeting-on-arizona-birth-bill/
-No media
+No media (confirmed)
 
 167. FOX
 HEADLINE: Jackson pleads guilty over illegal campaign spending spree
@@ -1061,7 +1069,7 @@ ALT TEXT:
 172. NYT
 HEADLINE: Perry Ad Focuses on Gays and Christianity
 http://thecaucus.blogs.nytimes.com/2011/12/07/perry-ad-focuses-on-gays-and-christianity/
-No media
+VIDEO: https://www.youtube.com/watch?v=0PAJNntoRgA
 
 173. FOX
 HEADLINE: Prominent Republicans call for Ariz. Gov. Jan Brewer to veto bill allowing denial of service to gays
@@ -1099,7 +1107,8 @@ CAPTION:           WAUKEE, IA - APRIL 25:  Senator Marco Rubio (R-FL) speaks to 
 178. NYT
 HEADLINE: Marco Rubio to Outline His Approach to Foreign Policy
 https://www.nytimes.com/politics/first-draft/2015/05/13/marco-rubio-to-outline-his-approach-to-foreign-policy/
-IMAGE: data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDE3LjEuMCwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPgo8IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPgo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IgogICAgIHZpZXdCb3g9IjAgMCAyMiAyOCIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgMjIgMjgiIHhtbDpzcGFjZT0icHJlc2VydmUiPgo8cGF0aCBmaWxsPSIjMjMxRjIwIiBkPSJNMjAuOCwxN0wyMC44LDE3Yy0wLjksMi4xLTIuNCwzLjgtNC43LDQuN1YxN2wyLjYtMi4zbC0yLjYtMi4zVjkuMWMyLjQtMC4xLDQuMi0xLjksNC4yLTQuMQogICAgYzAtMi44LTIuNi0zLjgtNC4yLTMuOGMtMC4zLDAtMC43LDAtMS4yLDAuMXYwLjFjMC4yLDAsMC41LDAsMC42LDBjMSwwLDEuOCwwLjUsMS44LDEuNGMwLDAuNy0wLjYsMS40LTEuNiwxLjQKICAgIGMtMi42LDAtNS42LTIuMS04LjktMi4xYy0yLjksMC01LDIuMi01LDQuNGMwLDIuMiwxLjMsMi45LDIuNiwzLjRsMC0wLjFDNCw5LjgsMy43LDkuMywzLjcsOC42YzAtMSwwLjktMS44LDIuMS0xLjgKICAgIGMyLjgsMCw3LjMsMi4zLDEwLDIuNGgwLjF2My4zbC0yLjYsMi4zbDIuNiwyLjN2NC44Yy0wLjksMC4zLTIsMC41LTMuMiwwLjVjLTEuOSwwLTMuNi0wLjUtNC45LTEuNmw0LjctMi4xVjkuMkw2LDEyLjEKICAgIEM2LjgsOS44LDguNSw4LjUsOS44LDhsMC0wLjFDNSw4LjksMS4yLDEyLjMsMS4yLDE3YzAsNS41LDQuMiw5LjYsMTAuMyw5LjZjNi4zLDAsOS4yLTQuNiw5LjItOS4zVjE3eiBNNy43LDIwLjUKICAgIGMtMS4zLTEuMi0yLjEtMy4xLTIuMS01LjVjMC0xLDAuMS0yLDAuNC0yLjdsMi4yLTF2OUw3LjcsMjAuNXoiLz4KPC9zdmc+Cg==
+IMAGE: https://static01.nyt.com/images/2015/05/13/us/politics/13firstdraft-rubio/13firstdraft-rubio-tmagArticle.jpg
+ALT TEXT: Senator Marco Rubio at the Freedom Summit in Greenville, S.C., this month.
 CAPTION: Senator Marco Rubio at the Freedom Summit in Greenville, S.C., this month.
 
 179. FOX
@@ -1147,7 +1156,8 @@ CAPTION: Ongoing email controversy a distraction for Democratic presidential hop
 186. NYT
 HEADLINE: Clintons Report Earnings of $139 Million in Seven Years
 https://www.nytimes.com/politics/first-draft/2015/07/31/hillary-clinton-releases-8-years-of-tax-returns
-IMAGE: data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDE3LjEuMCwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPgo8IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPgo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IgogICAgIHZpZXdCb3g9IjAgMCAyMiAyOCIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgMjIgMjgiIHhtbDpzcGFjZT0icHJlc2VydmUiPgo8cGF0aCBmaWxsPSIjMjMxRjIwIiBkPSJNMjAuOCwxN0wyMC44LDE3Yy0wLjksMi4xLTIuNCwzLjgtNC43LDQuN1YxN2wyLjYtMi4zbC0yLjYtMi4zVjkuMWMyLjQtMC4xLDQuMi0xLjksNC4yLTQuMQogICAgYzAtMi44LTIuNi0zLjgtNC4yLTMuOGMtMC4zLDAtMC43LDAtMS4yLDAuMXYwLjFjMC4yLDAsMC41LDAsMC42LDBjMSwwLDEuOCwwLjUsMS44LDEuNGMwLDAuNy0wLjYsMS40LTEuNiwxLjQKICAgIGMtMi42LDAtNS42LTIuMS04LjktMi4xYy0yLjksMC01LDIuMi01LDQuNGMwLDIuMiwxLjMsMi45LDIuNiwzLjRsMC0wLjFDNCw5LjgsMy43LDkuMywzLjcsOC42YzAtMSwwLjktMS44LDIuMS0xLjgKICAgIGMyLjgsMCw3LjMsMi4zLDEwLDIuNGgwLjF2My4zbC0yLjYsMi4zbDIuNiwyLjN2NC44Yy0wLjksMC4zLTIsMC41LTMuMiwwLjVjLTEuOSwwLTMuNi0wLjUtNC45LTEuNmw0LjctMi4xVjkuMkw2LDEyLjEKICAgIEM2LjgsOS44LDguNSw4LjUsOS44LDhsMC0wLjFDNSw4LjksMS4yLDEyLjMsMS4yLDE3YzAsNS41LDQuMiw5LjYsMTAuMyw5LjZjNi4zLDAsOS4yLTQuNiw5LjItOS4zVjE3eiBNNy43LDIwLjUKICAgIGMtMS4zLTEuMi0yLjEtMy4xLTIuMS01LjVjMC0xLDAuMS0yLDAuNC0yLjdsMi4yLTF2OUw3LjcsMjAuNXoiLz4KPC9zdmc+Cg==
+IMAGE: https://static01.nyt.com/images/2015/07/31/us/31firstdraft-clintontax/31firstdraft-clintontax-tmagArticle.jpg
+ALT TEXT: Hillary Rodham Clinton at a campaign stop in Hopkinton, N.H., on Tuesday.
 CAPTION: Hillary Rodham Clinton at a campaign stop in Hopkinton, N.H., on Tuesday.
 
 187. FOX
