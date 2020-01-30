@@ -87,11 +87,8 @@ def plot_extra_entities(data):
 
 def main():
     data = create_data_dict()
-    # plot_match_rate(data)
+    plot_match_rate(data)
     plot_extra_entities(data)
-
-
-    # Create a matplotlib visualization of extra named entities in captions, excluding journalist names
 
 
 main()
