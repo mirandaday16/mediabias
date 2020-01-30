@@ -1,6 +1,6 @@
 # Creates table for comparing main entities in caption and article (to be finished manually)
 import json
-import Article_Crawler_Functions
+from Scripts import Article_Crawler_Functions
 import csv
 import os
 
@@ -29,7 +29,7 @@ def get_updated_captions():
 
 def main():
     # Create or open csv file for comparing main entities
-    with open('../Data/processed_data/caption_main_figures.csv', mode='w') as metadata_table:
+    with open('../Data/processed_data/Main_Entities/caption_main_figures.csv', mode='w') as metadata_table:
         metadata_writer = csv.writer(metadata_table, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
         # Write header rows
         metadata_writer.writerow(['Website', 'Headline', 'URL', 'Caption', 'Caption Main Entities',
