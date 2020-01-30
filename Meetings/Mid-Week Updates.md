@@ -40,3 +40,4 @@ To do:
 ### Mid-Week Updates: Thursday, January 30, 2020
 
 - Manually filled in caption main entities, match rate, and other entity data ([spreadsheet here](../Data/processed_data/caption_main_figures_edited.csv))
+- Created separate folders for main entity analysis in [Scripts](../Scripts/Main_Entities/) and [Data](../Data/processed_data/Main_Entities/)
