@@ -44,3 +44,4 @@ To do:
 - Analyzed and plotted the match rate of main entities in captions v. their articles, [comparing NYT to FOX](../Data/processed_data/Main_Entities/README.md)
 - Analyzed and plotted the average number of additional entities in captions v. main entities of their articles, [comparing NYT to FOX](../Data/processed_data/Main_Entities/README.md)
 - Added dedicated section for current hypotheses [here](../Data/processed_data/README.md)
+- Created file for comparing general attributes of captions (relevance to media, level of detail, subjectiveness)
