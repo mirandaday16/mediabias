@@ -39,10 +39,10 @@ Post-meeting ACTION ITEMS:
 - [x] Manually double-check Caucus links
 - [x] Manually check "No Media" articles and make sure they really don't have media
 - [x] Does caption/media contain main figures? Compare to json files. If not, why? (edit by Lu: for each caption, we should also label all the entities mentioned in it, then compare with the main figures in article.)
-- [ ] Check whether captions reflect the content in the multimedia (added by Lu: I think we discussed this too?)
-- [ ] How many captions are detailed/not?
+- [ ] Check whether captions reflect the content in the multimedia (added by Lu: I think we discussed this too?) (**IN PROGRESS**)
+- [ ] How many captions are detailed/not? (**IN PROGRESS**)
 - [ ] Check out Marshall's annotation tool -- email him if you can't find
-- [ ] Annotate captions as subjective or not. Refer to Jurafsky's textbook for guidelines on subjectivity (Chapter 21). Label using binary.
+- [ ] Annotate captions as subjective or not. Refer to Jurafsky's textbook for guidelines on subjectivity (Chapter 21). Label using binary. (**IN PROGRESS**)
 - [x] Write down hypotheses/thoughts somewhere specific in repo.
 
 
@@ -59,9 +59,10 @@ Questions:
 - Conducted analysis on main entities of articles (based on json file data) compared to entities in captions.
     - You can see the data plotted [here](../Data/processed_data/Main_Entities/README.md)
 - Based on above analysis, added a dedicated section for current hypotheses [here](../Data/processed_data/README.md)
+- Created [spreadsheet](../Data/processed_data/caption_general_analysis_edited.csv) for comparison of general caption attributes -- relation to media, level of detail, and subjectiveness
 
 **Next steps**:
-- Other caption analysis: relationship to media, detailed v. not, subjective v. not
+- Manually annotate other caption analysis: relationship to media, detailed v. not, subjective v. not
     - Regarding subjectivity, will reference Jurafsky Ch. 21
     
 ---
