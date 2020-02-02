@@ -60,9 +60,9 @@ Questions:
     - You can see the data plotted [here](../Data/processed_data/Main_Entities/README.md)
 - Based on above analysis, added a dedicated section for current hypotheses [here](../Data/processed_data/README.md)
 - Created [spreadsheet](../Data/processed_data/caption_general_analysis_edited.csv) for comparison of general caption attributes -- relation to media, level of detail, and subjectiveness
+    - Manually filled out spreadsheet with my own analyses
 
 **Next steps**:
-- Manually annotate other caption analysis: relationship to media, detailed v. not, subjective v. not
-    - Regarding subjectivity, will reference Jurafsky Ch. 21
+- Read through subjectivity resources mentioned in Jurafsky, including [MPQA Subjectivity Lexicon](../Literature/MPQA_Subjectivity_Lexicon)
     
 ---
