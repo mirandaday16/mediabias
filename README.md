@@ -9,6 +9,7 @@
 - running list of related works with bibtex links
 - some PDF files of useful works
 - notes on major takeaways from articles
+- information on MPQA Subjectivity Lexicon
 
 **[Meetings](Meetings/)**
 - notes for weekly meetings
