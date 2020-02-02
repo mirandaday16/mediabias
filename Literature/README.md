@@ -47,3 +47,18 @@
                 - Mentioned in Sections 3.3 (Commission and Omission) and 3.4 (Labeling and Word Choice)
         - "We found that most studies in the social sciences either analyze image captions as a component of the main text, or analyze images but disregard their captions entirely." Hamborg et. al., p. 406
         - "The few analyses on captions suggest that bias by picture explanation is not very common. However, more fundamental studies show strong impact of captions on the perception of images and note rather subtle differences in word choice. While many studiess= analyzed captions as part of the regular text, e.g., analyzing bias by labeling and word choice, research currently lacks specialized analyses that examine captions in conjunction with their images." Hamborg et. al., p. 406
+        
+---
+
+- Jurafsky and Martin, [Speech and Language Processing, Chapter 21](https://web.stanford.edu/~jurafsky/slp3/21.pdf), 2019
+- Notes on **subjectivity**:
+    - "We use the word 'affective', following the tradition in _affective computing_ to mean emotion, sentiment, personality, mood, and attitudes. Affective meaning is closely related to **subjectivity**, the study of a speaker or writer's evaluations, opinions, emotions, and speculations.
+    - "The **MPQA Subjectivity lexicon** has 2718 positive and 4912 negative words drawn from prior lexicons plus a bootstrapped list of subjective words and phrases. Each entry in the lexicon is hand-labeled for sentiment and also labeled for reliability (strongly subjetive or weakly subjective)."
+    - "The idea of formally representing the **subjective** meaning of words began with [Osgood et. al. (1957)](https://books.google.com/books?hl=en&lr=&id=Qj8GeUrKZdAC&oi=fnd&pg=PA1&dq=Osgood,+C.+E.,+Suci,+G.+J.,+and+Tannenbaum,+P.+H.+(1957).+The+Measurement+of+Meaning.+University+of+Illinois+Press.&ots=RIN1_WFQca&sig=o_0_rKihtFEUwiztbFJmHOFqxLE#v=onepage&q&f=false), the same pioneering study that first proposed the vector space model of meaning described in Chapter 6."
+    - "[Wiebe (1994)](https://dl.acm.org/doi/10.5555/972525.972529) began an influential line of work on detecting **subjectivity** in text, beginning with the task of identifying subjective sentences and the subjective characters who are described in teh text as holding provate states, beliefs, or attitudes. Learned sentiment lexicons such as the polarity lexicons of [Hatzivassiloglou and McKeown (1997)](https://dl.acm.org/doi/10.3115/976909.979640) were shown to be a useful feature in **subjectivity** detection ([Hatzivassiloglou and Wiebe 2000](https://dl.acm.org/doi/10.3115/990820.990864), [Wiebe 2000](https://www.aaai.org/Papers/AAAI/2000/AAAI00-113.pdf))."
+
+**To Explore**:
+- MPQA Subjectivity Lexicon
+- Wiebe and Hatzivassilogou papers linked above
+
+---
