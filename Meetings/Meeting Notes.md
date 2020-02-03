@@ -65,6 +65,7 @@ Questions:
 ***Other Questions***:
 - How frequently does each website use video v. photo (v. no media?)
 - Are captions which contain more entities than their corresponding media more detailed?
+- Should we create a separate data subset of article pairs which BOTH contain media/captions?
 
 **Next steps**:
 - Read through subjectivity resources mentioned in Jurafsky, including [MPQA Subjectivity Lexicon](../Literature/MPQA_Subjectivity_Lexicon)
