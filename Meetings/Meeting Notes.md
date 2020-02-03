@@ -52,7 +52,7 @@ Questions:
 
 ---
 
-### Friday, January 31, 2020
+### Monday, February 3, 2020
 
 **Progress this past week**:
 - Manually fixed all broken links and missing data
@@ -60,7 +60,7 @@ Questions:
     - You can see the data plotted [here](../Data/processed_data/Main_Entities/README.md)
 - Based on above analysis, added a dedicated section for current hypotheses [here](../Data/processed_data/README.md)
 - Created [spreadsheet](../Data/processed_data/caption_general_analysis_edited.csv) for comparison of general caption attributes -- relation to media, level of detail, and subjectiveness
-    - Manually filled out spreadsheet with my own analyses
+    - Manually filled out spreadsheet with my own analyses (**IN PROGRESS**)
 
 ***Other Questions***:
 - How frequently does each website use video v. photo (v. no media?)
@@ -70,5 +70,7 @@ Questions:
 **Next steps**:
 - Read through subjectivity resources mentioned in Jurafsky, including [MPQA Subjectivity Lexicon](../Literature/MPQA_Subjectivity_Lexicon)
 - Assign articles individual IDs in order to more easily update metadata across files
+    - standardize correct links/metadata across files (as of right now, [caption_general_analysis_edited.csv](../Data/processed_data/caption_general_analysis_edited.csv) has the most up-to-date media links
+- Finish manually annotating caption analysis spreadsheet
     
 ---
