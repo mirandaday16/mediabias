@@ -64,5 +64,6 @@ Questions:
 
 **Next steps**:
 - Read through subjectivity resources mentioned in Jurafsky, including [MPQA Subjectivity Lexicon](../Literature/MPQA_Subjectivity_Lexicon)
+- Assign articles individual IDs in order to more easily update metadata across files
     
 ---
