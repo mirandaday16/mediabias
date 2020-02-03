@@ -45,3 +45,10 @@ To do:
 - Analyzed and plotted the average number of additional entities in captions v. main entities of their articles, [comparing NYT to FOX](../Data/processed_data/Main_Entities/README.md)
 - Added dedicated section for current hypotheses [here](../Data/processed_data/README.md)
 - Created file for comparing general attributes of captions (relevance to media, level of detail, subjectiveness)
+
+---
+### Mid-Week Updates: Sunday, February 2, 2020
+
+- Manually filled in automatically-created spreadsheet rating captions for relevance to media, level of detail, and subjectiveness
+- Read Ch. 21 of Jurafsky textbook ([Lexicons for Sentiment, Affect, and Connotation](https://web.stanford.edu/~jurafsky/slp3/21.pdf))
+    - Downloaded info on [MPQA Subjectivity lexicon](../Literature/MPQA_Subjectivity_Lexicon) to explore options for austomatic subjectivity analysis of caption

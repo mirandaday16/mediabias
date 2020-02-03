@@ -58,7 +58,7 @@
     - "[Wiebe (1994)](https://dl.acm.org/doi/10.5555/972525.972529) began an influential line of work on detecting **subjectivity** in text, beginning with the task of identifying subjective sentences and the subjective characters who are described in teh text as holding provate states, beliefs, or attitudes. Learned sentiment lexicons such as the polarity lexicons of [Hatzivassiloglou and McKeown (1997)](https://dl.acm.org/doi/10.3115/976909.979640) were shown to be a useful feature in **subjectivity** detection ([Hatzivassiloglou and Wiebe 2000](https://dl.acm.org/doi/10.3115/990820.990864), [Wiebe 2000](https://www.aaai.org/Papers/AAAI/2000/AAAI00-113.pdf))."
 
 **To Explore**:
-- MPQA Subjectivity Lexicon
-- Wiebe and Hatzivassilogou papers linked above
+- [MPQA Subjectivity Lexicon](../Literature/MPQA_Subjectivity_Lexicon)
+- Wiebe and Hatzivassilogou papers (linked above)
 
 ---

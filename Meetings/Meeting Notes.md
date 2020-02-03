@@ -60,9 +60,15 @@ Questions:
     - You can see the data plotted [here](../Data/processed_data/Main_Entities/README.md)
 - Based on above analysis, added a dedicated section for current hypotheses [here](../Data/processed_data/README.md)
 - Created [spreadsheet](../Data/processed_data/caption_general_analysis_edited.csv) for comparison of general caption attributes -- relation to media, level of detail, and subjectiveness
+    - Manually filled out spreadsheet with my own analyses
+
+***Other Questions***:
+- How frequently does each website use video v. photo (v. no media?)
+- Are captions which contain more entities than their corresponding media more detailed?
+- Should we create a separate data subset of article pairs which BOTH contain media/captions?
 
 **Next steps**:
-- Manually annotate other caption analysis: relationship to media, detailed v. not, subjective v. not
-    - Regarding subjectivity, will reference Jurafsky Ch. 21
+- Read through subjectivity resources mentioned in Jurafsky, including [MPQA Subjectivity Lexicon](../Literature/MPQA_Subjectivity_Lexicon)
+- Assign articles individual IDs in order to more easily update metadata across files
     
 ---
