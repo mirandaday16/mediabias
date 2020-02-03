@@ -70,7 +70,7 @@ Questions:
 **Next steps**:
 - Read through subjectivity resources mentioned in Jurafsky, including [MPQA Subjectivity Lexicon](../Literature/MPQA_Subjectivity_Lexicon)
 - Assign articles individual IDs in order to more easily update metadata across files
-    - standardize correct links/metadata across files (as of right now, [caption_general_analysis_edited.csv](../Data/processed_data/caption_general_analysis_edited.csv) has the most up-to-date media links
+    - standardize correct links/metadata across files (as of right now, [caption_general_analysis_edited.csv](../Data/processed_data/caption_general_analysis_edited.csv) has the most up-to-date media links)
 - Finish manually annotating caption analysis spreadsheet
     
 ---
