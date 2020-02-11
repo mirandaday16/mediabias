@@ -86,6 +86,6 @@ Questions:
 - [ ] Annotate sentiment towards **entities** in caption (positive or negative), so that we can compare to sentiment on article level later.
 - [ ] Find out how many article **pairs** both have caption and media, and let Lu and Shuyang know.
 - [ ] Look at ratio of sentiment words in caption (and compare to article)
-    - [ ]Figure out a good way to display this data
+    - [ ] Figure out a good way to display this data
     
 ---
