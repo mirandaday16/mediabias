@@ -75,17 +75,17 @@ Questions:
 - Lu: next step will be to add more data -- possibly use some article's from Ian's dataset?
 
 **ACTION ITEMS**:
-    [ ] Look for secondary media (not at the top of articles) and add that information too.
-    [ ] Explore other useful lexicons for sentiment analysis (ask Xinyu if you have questions)
-        [ ] Also ask Xinyu about Valence/Arousal/Dominance (see p. 18 in Jurafsky chapter)
-    [ ] Harvard
-    [ ] Clarify how data in matplotlibs was calculated, and make more matplotlibs
-    [ ] Think about new methods for displaying data
-    [ ] For analyzing detail: calculate number of words in caption, number of words minus entities, etc.
-    [ ] Assign unique article IDs to articles
-    [ ] Annotate sentiment towards **entities** in caption (positive or negative), so that we can compare to sentiment on article level later.
-    [ ] Find out how many article **pairs** both have caption and media, and let Lu and Shuyang know.
-    [ ] Look at ratio of sentiment words in caption (and compare to article)
-        [ ]Figure out a good way to display this data
+- [ ] Look for secondary media (not at the top of articles) and add that information too.
+- [ ] Explore other useful lexicons for sentiment analysis (ask Xinyu if you have questions)
+    - [ ] Also ask Xinyu about Valence/Arousal/Dominance (see p. 18 in Jurafsky chapter)
+- [ ] Harvard
+- [ ] Clarify how data in matplotlibs was calculated, and make more matplotlibs
+- [ ] Think about new methods for displaying data
+- [ ] For analyzing detail: calculate number of words in caption, number of words minus entities, etc.
+- [ ] Assign unique article IDs to articles
+- [ ] Annotate sentiment towards **entities** in caption (positive or negative), so that we can compare to sentiment on article level later.
+- [ ] Find out how many article **pairs** both have caption and media, and let Lu and Shuyang know.
+- [ ] Look at ratio of sentiment words in caption (and compare to article)
+    - [ ]Figure out a good way to display this data
     
 ---
