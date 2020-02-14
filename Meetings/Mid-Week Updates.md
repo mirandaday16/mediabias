@@ -58,6 +58,7 @@ To do:
 
 - Clarified [matplotlib](../Data/Main_Entities/README.md) calculations regarding entity matching
 - Began adding new plots and descriptions to matplotlib file
-    - To do: create plots and save to repo (fix Git error)
+    - To do: create new plots and save to repo (fix Git error)
+- To do: add column to main entity .csv with # of entity **tokens**
     
 ---
