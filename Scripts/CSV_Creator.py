@@ -1,5 +1,6 @@
 # Writes web page details to csv outfile in table form
 import Article_Crawler_Functions
+import assigning_article_ids
 import csv
 import os
 
@@ -9,10 +10,12 @@ def main():
     with open('../Data/processed_data/metadata.csv', mode='w') as metadata_table:
         metadata_writer = csv.writer(metadata_table, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
         # Write header rows
-        metadata_writer.writerow(['Website', 'Headline', 'URL', 'Media Type', 'Media Link', 'Alt Text', 'Caption Text'])
+        metadata_writer.writerow(['ID', 'Website', 'Headline', 'URL', 'Media Type', 'Media Link', 'Alt Text',
+                                  'Caption Text'])
         for file in sorted(os.listdir(Article_Crawler_Functions.directory)):
             # Assign metadata for each article
             website = Article_Crawler_Functions.get_website(file)
+            article_id = assigning_article_ids.get_article_id(file, website)
             headline = Article_Crawler_Functions.get_headline(Article_Crawler_Functions.directory + file)
             url = (Article_Crawler_Functions.get_url(Article_Crawler_Functions.directory + file))
             if Article_Crawler_Functions.get_media(url) is not None:
@@ -33,7 +36,7 @@ def main():
                 media_type = ''
             # Write metadata to file for FOX and NYT articles
             if website != "HPO":
-                metadata_writer.writerow([website, headline, url, media_type, media_link, alt_text, caption])
+                metadata_writer.writerow([article_id, headline, url, media_type, media_link, alt_text, caption])
 
 
 main()
