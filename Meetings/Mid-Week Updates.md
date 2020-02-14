@@ -58,8 +58,8 @@ To do:
 
 - Clarified [matplotlib](../Data/Main_Entities/README.md) calculations regarding entity matching
 - Began adding new plots and descriptions to matplotlib file
-    - To do: create new plots and save to repo (fix Git error)
-- To do: add column to main entity .csv with # of entity **tokens**
-- To do: Create JSON version of main entity .csv file (should be easier to use)
+    - **To do**: create new plots and save to repo
+- Added column to [main entity .csv](https://github.com/mirandaday16/mediabias/blob/master/Data/processed_data/Main_Entities/caption_main_figures_edited.csv) with # of entity **tokens**
+- **To do**: Create JSON version of main entity .csv file (should be easier to use)
     
 ---
