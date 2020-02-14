@@ -104,7 +104,7 @@ def plot_word_count_without_entities(data):
 
 def main():
     data = create_data_dict()
-    # plot_basic_word_count(data)
+    plot_basic_word_count(data)
     plot_word_count_without_entities(data)
 
 
