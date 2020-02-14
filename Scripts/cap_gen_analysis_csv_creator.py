@@ -7,7 +7,7 @@ data_csv_file = "/Users/mirandadayadkins/Desktop/Media_Bias/Data/processed_data/
 media_csv_file = "/Users/mirandadayadkins/Desktop/Media_Bias/Data/processed_data/metadata.csv"
 
 
-# Returns a dictionary with article IDs as keys and a list containing headline, website, caption text, and
+# Returns a dictionary with headlines as keys and a list containing article id, website, caption text, and
 # caption main entities as the values.
 def create_data_dict():
     data = {}
