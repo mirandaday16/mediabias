@@ -95,6 +95,7 @@ Questions:
 **Progress this past week**:
 - Clarified [matplotlib](../Data/Main_Entities/README.md) calculations regarding entity matching
 - Added new plots and descriptions to matplotlib file (see above)
+- 3 current analysis areas for captions: main entities, word count, and sentiment
 
 **Some thoughts**:
 - Possible data display methods: found some suggestions [here](https://mode.com/blog/python-data-visualization-libraries/); interested in trying pygal and Seaborn
