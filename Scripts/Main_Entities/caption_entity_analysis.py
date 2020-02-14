@@ -7,7 +7,7 @@ data_csv_file = "/Users/mirandadayadkins/Desktop/Media_Bias/Data/processed_data/
                 "Main_Entities/caption_main_figures_edited.csv"
 
 
-# Returns a dictionary with article headlines as keys and a lit containing website, match rate,
+# Returns a dictionary with article headlines as keys and a list containing website, match rate,
 # extra caption entity count, and journalist name count as the values.
 def create_data_dict():
     data = {}
@@ -63,7 +63,7 @@ def plot_match_rate(data):
               'Average Article Entity Match Rate in Captions', '% of main entities from article present in caption')
 
 
-# Create a matplotlib visualization of extra named entities in captions by website
+# Create a matplotlib visualization of entity match rate by website (including journalist names)
 def plot_extra_entities(data):
     fox_extras = 0
     nyt_extras = 0
@@ -71,11 +71,42 @@ def plot_extra_entities(data):
     nyt_count = 0
     for key in data:
         if data[key][0] == "FOX":
-            fox_extras += (int(data[key][2]) - int(data[key][3]))
+            fox_extras += int(data[key][2])
             fox_count += 1
         elif data[key][0] == "NYT":
-            nyt_extras += (int(data[key][2]) - int(data[key][3]))
+            nyt_extras += int(data[key][2])
             nyt_count += 1
+    # Get average # of extra entities mentioned in captions per site
+    fox_avg = fox_extras / fox_count
+    nyt_avg = nyt_extras / nyt_count
+    #  Plot data
+    plot_data(nyt_avg, fox_avg, '/Users/mirandadayadkins/Desktop/Media_Bias/Data/processed_data/'
+                                'Main_Entities/extra_entities_rate_with_journalists.png',
+              'Average Number of Extra Entities in Captions (INCLUDING journalist names)',
+              'average # of entities mentioned in caption that are not main entities of article')
+
+
+# Create a matplotlib visualization of extra named entities in captions by website (excluding journalist names)
+def plot_extra_entities_no_journalists(data):
+    fox_extras = 0
+    nyt_extras = 0
+    fox_count = 0
+    nyt_count = 0
+    for key in data:
+        if data[key][3] != "-":
+            if data[key][0] == "FOX":
+                fox_extras += (int(data[key][2]) - int(data[key][3]))
+                fox_count += 1
+            elif data[key][0] == "NYT":
+                nyt_extras += (int(data[key][2]) - int(data[key][3]))
+                nyt_count += 1
+        else:
+            if data[key][0] == "FOX":
+                fox_extras += int(data[key][2])
+                fox_count += 1
+            elif data[key][0] == "NYT":
+                nyt_extras += int(data[key][2])
+                nyt_count += 1
     # Get average # of extra entities mentioned in captions per site
     fox_avg = fox_extras / fox_count
     nyt_avg = nyt_extras / nyt_count
@@ -87,7 +118,8 @@ def plot_extra_entities(data):
 
 def main():
     data = create_data_dict()
-    plot_match_rate(data)
+    # plot_match_rate(data)
+    # plot_extra_entities_no_journalists(data)
     plot_extra_entities(data)
 
 
