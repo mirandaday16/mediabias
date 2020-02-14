@@ -37,7 +37,7 @@ Based on this [spreadsheet](caption_main_figures_edited.csv)
 ### Average Number of Non-Main Entities in Captions, by Website (Including Journalists)
 ![Extra Entity Plot w Journalists](https://github.com/mirandaday16/mediabias/blob/master/Data/processed_data/Main_Entities/extra_entities_rate_with_journalists.png)
 
-This figure shows the average number of named entities in captions that are **NOT** main entities in the article. **This DOES INCLUDE journalist or photographer names/credits that appear in captions.** As you can see, the rates are fairly similar (0.53 entities for NYT captions vs. 0.56 entities for FOX captions). As above, note that these percentages only include articles which contain media **with captions**.
+This figure shows the average number of named entities in captions that are **NOT** main entities in the article. **This DOES INCLUDE journalist or photographer names/credits that appear in captions.** As you can see, the disparity between FOX and NYT rates increases sharply compared to the previous graph (an average of 0.55 extra entities in NYT captions -- similar to the rate not including journalist names -- compared to an average of 0.79 extra entities in FOX articles). **This shows that FOX articles are more likely to use their captions as a space for crediting photographers/journalists involved in creation if the media and/or article**. The implications of this finding are unclear. As above, note that these percentages only include articles which contain media **with captions**.
 
 Calculation for each article: Extra Entity Rate = ((All Caption Entities) - (Caption Entities Which ARE Article Main Entities)) / (# of Article Main Entities)
 
