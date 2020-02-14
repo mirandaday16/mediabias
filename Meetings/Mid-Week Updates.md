@@ -52,3 +52,12 @@ To do:
 - Manually filled in automatically-created spreadsheet rating captions for relevance to media, level of detail, and subjectiveness
 - Read Ch. 21 of Jurafsky textbook ([Lexicons for Sentiment, Affect, and Connotation](https://web.stanford.edu/~jurafsky/slp3/21.pdf))
     - Downloaded info on [MPQA Subjectivity lexicon](../Literature/MPQA_Subjectivity_Lexicon) to explore options for austomatic subjectivity analysis of caption
+    
+---
+### Mid-Week Updates: Thursday, February 13, 2020
+
+- Clarified [matplotlib](../Data/Main_Entities/README.md) calculations regarding entity matching
+- Began adding new plots and descriptions to matplotlib file
+    - To do: create plots and save to repo (fix Git error)
+    
+---
