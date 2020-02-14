@@ -83,10 +83,10 @@ Questions:
 - [x] Think about new methods for displaying data
 - [x] For analyzing detail: calculate number of words in caption, number of words minus entities, etc.
 - [ ] Assign unique article IDs to articles
-- [ ] Annotate sentiment towards **entities** in caption (positive or negative), so that we can compare to sentiment on article level later.
+- [ ] Annotate sentiment towards **entities** in caption (positive or negative), so that we can compare to sentiment on article level later. (**IN PROGRESS**)
 - [ ] Find out how many article **pairs** both have caption and media, and let Lu and Shuyang know.
-- [ ] Look at ratio of sentiment words in caption (and compare to article)
-    - [ ] Figure out a good way to display this data
+- [ ] Look at ratio of sentiment words in caption (and compare to article) (**IN PROGRESS**)
+    - [x] Figure out a good way to display this data
     
 ---
 
@@ -102,6 +102,8 @@ Questions:
     - May try using JSON files instead of .csv going forward (the spreadsheets are becoming unwieldy)
 
 **Next steps**:
-- Annotate and analyze sentiment words/sentiment towards entities in captions, and compare to article sentiment/bias
+- Annotate and analyze sentiment words/sentiment towards entities in captions, and compare to article sentiment/bias (**IN PROGRESS**)
 - Add secondary media to dataset (photos/videos not at the top of articles) -- how to incorporate?
+- Create list of article **_PAIRS_** which both contain media/captions
+- Add individual IDs to each article for easier data comparison
 ---
