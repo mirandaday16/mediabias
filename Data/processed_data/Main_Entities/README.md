@@ -17,7 +17,7 @@ Based on this [spreadsheet](caption_main_figures_edited.csv)
 
 ---
 
-### Average Number of Non-Main Entities in Captions, by Website
+### Average Number of Non-Main Entities in Captions, by Website (Excluding Journalists)
 ![Extra Entity Avg Plot](https://github.com/mirandaday16/mediabias/blob/master/Data/processed_data/Main_Entities/extra_entities_rate.png)
 
 This figure shows the average number of named entities in captions that are **NOT** main entities in the article. **This does not account for journalist or photographer names/credits that may appear in captions.** As you can see, the rates are fairly similar (0.53 entities for NYT captions vs. 0.56 entities for FOX captions). As above, note that these percentages only include articles which contain media **with captions**.
@@ -31,3 +31,52 @@ Calculation for website average: ((Sum of all extra entity rates for articles fr
 Based on this [spreadsheet](caption_main_figures_edited.csv)
 
 [Script](https://github.com/mirandaday16/mediabias/blob/master/Scripts/Main_Entities/caption_entity_analysis.py)
+
+---
+
+### Average Number of Non-Main Entities in Captions, by Website (Including Journalists)
+![Extra Entity Plot w Journalists]()
+
+This figure shows the average number of named entities in captions that are **NOT** main entities in the article. **This DOES INCLUDE journalist or photographer names/credits that appear in captions.** As you can see, the rates are fairly similar (0.53 entities for NYT captions vs. 0.56 entities for FOX captions). As above, note that these percentages only include articles which contain media **with captions**.
+
+Calculation for each article: Extra Entity Rate = ((All Caption Entities) - (Caption Entities Which ARE Article Main Entities)) / (# of Article Main Entities)
+
+Calculation for website average: (Sum of all extra entity rates for articles from that site) / (# of articles considered)
+
+**NOTE**: As above, the # of NYT articles and the # of FOX articles considered are not equal. 85 FOX and 73 NYT articles are considered in this calculation.
+
+Based on this [spreadsheet](caption_main_figures_edited.csv)
+
+[Script](https://github.com/mirandaday16/mediabias/blob/master/Scripts/Main_Entities/caption_entity_analysis.py)
+
+---
+### Average Word Count in Captions, by Website
+![Word Count Plot]()
+
+This figure shows the average number of words in captions for articles on each website. As you can see, the rates are fairly similar (0.53 entities for NYT captions vs. 0.56 entities for FOX captions). As above, note that these percentages only include articles which contain media **with captions**.
+
+Calculation for each article: (# of tokens in caption after NLTK tokenization) - (# of punctuation tokens)
+
+Calculation for website average: (Sum of all caption lengths) / (# of articles considered)
+
+**NOTE**: As above, the # of NYT articles and the # of FOX articles considered are not equal. 85 FOX and 73 NYT articles are considered in this calculation.
+
+Based on this [spreadsheet](caption_main_figures_edited.csv)
+
+[Script]()
+
+---
+### Average Word Count in Captions, by Website (not including Entity Names)
+![Word Count No Names Plot]()
+
+This figure shows the average number of words in captions for articles on each website. **This DOES INCLUDE journalist or photographer names or other entity names** (based on manual annotation of caption entities in the spreadsheet linked below). As you can see, the rates are fairly similar (0.53 entities for NYT captions vs. 0.56 entities for FOX captions). As above, note that these percentages only include articles which contain media **with captions**.
+
+Calculation for each article: (# of tokens in caption after NLTK tokenization) - (# of punctuation tokens) - (# of tokens in all entity names in caption)
+
+Calculation for website average: (Sum of all caption lengths) / (# of articles considered)
+
+**NOTE**: As above, the # of NYT articles and the # of FOX articles considered are not equal. 85 FOX and 73 NYT articles are considered in this calculation.
+
+Based on this [spreadsheet](caption_main_figures_edited.csv)
+
+[Script]()
