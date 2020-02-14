@@ -79,7 +79,7 @@ Questions:
 - [ ] Explore other useful lexicons for sentiment analysis (ask Xinyu if you have questions)
     - [ ] Also ask Xinyu about Valence/Arousal/Dominance (see p. 18 in Jurafsky chapter)
 - [ ] Harvard
-- [ ] Clarify how data in matplotlibs was calculated, and make more matplotlibs
+- [x] Clarify how data in matplotlibs was calculated, and make more matplotlibs
 - [ ] Think about new methods for displaying data
 - [ ] For analyzing detail: calculate number of words in caption, number of words minus entities, etc.
 - [ ] Assign unique article IDs to articles
@@ -87,5 +87,14 @@ Questions:
 - [ ] Find out how many article **pairs** both have caption and media, and let Lu and Shuyang know.
 - [ ] Look at ratio of sentiment words in caption (and compare to article)
     - [ ] Figure out a good way to display this data
+    
+---
+
+### Friday, February 14, 2020
+
+**Progress this past week**:
+- Clarified [matplotlib](../Data/Main_Entities/README.md) calculations regarding entity matching
+- Began adding new plots and descriptions to matplotlib file
+    - To do: create plots and save to repo (fix Git error)
     
 ---
