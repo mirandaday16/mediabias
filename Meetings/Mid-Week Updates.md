@@ -60,5 +60,6 @@ To do:
 - Began adding new plots and descriptions to matplotlib file
     - To do: create new plots and save to repo (fix Git error)
 - To do: add column to main entity .csv with # of entity **tokens**
+- To do: Create JSON version of main entity .csv file (should be easier to use)
     
 ---
