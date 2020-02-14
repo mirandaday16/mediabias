@@ -11,7 +11,7 @@ Calculation for website average: (Sum of all match rates for articles from that 
 
 **NOTE**: Because only articles with captions are considered, the # of NYT articles and the # of FOX articles considered are not equal. 85 FOX and 73 NYT articles are considered in this calculation.
 
-Based on this [spreadsheet](../Data/processed_data/Main_Entities/caption_main_figures_edited.csv)
+Based on this [spreadsheet](caption_main_figures_edited.csv)
 
 [Script](../Scripts/Main_Entities/caption_entity_analysis.py)
 
@@ -28,6 +28,6 @@ Calculation for website average: ((Sum of all extra entity rates for articles fr
 
 **NOTE**: As above, the # of NYT articles and the # of FOX articles considered are not equal. 85 FOX and 73 NYT articles are considered in this calculation.
 
-Based on this [spreadsheet](../Data/processed_data/Main_Entities/caption_main_figures_edited.csv)
+Based on this [spreadsheet](caption_main_figures_edited.csv)
 
 [Script](../Scripts/Main_Entities/caption_main_figures.py)
