@@ -7,8 +7,8 @@ data_csv_file = "/Users/mirandadayadkins/Desktop/Media_Bias/Data/processed_data/
 media_csv_file = "/Users/mirandadayadkins/Desktop/Media_Bias/Data/processed_data/metadata.csv"
 
 
-# Returns a dictionary with article headlines as keys and a lit containing website, match rate,
-# extra caption entity count, and journalist name count as the values.
+# Returns a dictionary with article IDs as keys and a list containing headline, website, caption text, and
+# caption main entities as the values.
 def create_data_dict():
     data = {}
     with open(data_csv_file, 'rt')as file:
@@ -16,8 +16,8 @@ def create_data_dict():
         for row in open_file:
             # Ignore articles without captions
             if row[3] != "NONE":
-                # Headline = Website, Caption, Caption Main Entities
-                data[row[1]] = [row[0], row[3], row[4]]
+                # Headline = Article ID, Website, Caption, Caption Main Entities
+                data[row[2]] = [row[0], row[1], row[4], row[5]]
     return data
 
 
@@ -29,14 +29,14 @@ def create_media_dict():
             # Ignore articles without captions
             if row[6] != "":
                 # Headline = Media Type, Media Link
-                media[row[1]] = [row[3], str(row[4])]
+                media[row[1]] = [row[4], str(row[5])]
     return media
 
 
 def main():
     data = create_data_dict()
     media = create_media_dict()
-    # Updated dictionary. Headline: Website, Caption, Caption Main Entities, Media Type, Media Link
+    # Updated dictionary. Headline: Article ID, Website, Caption, Caption Main Entities, Media Type, Media Link
     all_data = {**media, **data}
     merged_data = {}
     for key, value in all_data.items():
@@ -47,13 +47,14 @@ def main():
         metadata_writer = csv.writer(metadata_table, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
         # Set metadata values for each row and write to file
         for all_key in merged_data:
-            website = merged_data[all_key][0]
+            article_id = merged_data[all_key][0]
+            website = merged_data[all_key][1]
             headline = all_key
-            caption = merged_data[all_key][1]
-            media_type = merged_data[all_key][3]
-            media_link = merged_data[all_key][4]
-            cap_entities = merged_data[all_key][2]
-            metadata_writer.writerow([website, headline, caption, media_type, media_link, cap_entities, "", "", "", ""])
+            caption = merged_data[all_key][2]
+            media_type = merged_data[all_key][4]
+            media_link = merged_data[all_key][5]
+            cap_entities = merged_data[all_key][3]
+            metadata_writer.writerow([article_id, website, headline, caption, media_type, media_link, cap_entities, "", "", "", ""])
 
 
 main()
