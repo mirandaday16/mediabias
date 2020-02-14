@@ -49,7 +49,7 @@ def main():
             captions = get_updated_captions()
             # Write metadata to file for FOX and NYT articles
             if website != "HPO":
-                metadata_writer.writerow([article_id, headline, url, captions[count], '', article_entities, ""])
+                metadata_writer.writerow([article_id, website, headline, url, captions[count], '', article_entities, ""])
                 count += 1
 
 
