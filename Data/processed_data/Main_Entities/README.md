@@ -51,9 +51,9 @@ Based on this [spreadsheet](caption_main_figures_edited.csv)
 
 ---
 ### Average Word Count in Captions, by Website
-![Word Count Plot]()
+![Word Count Plot](https://github.com/mirandaday16/mediabias/blob/master/Data/processed_data/Word_Counts/basic_word_counts.png)
 
-This figure shows the average number of words in captions for articles on each website. As you can see, the rates are fairly similar (0.53 entities for NYT captions vs. 0.56 entities for FOX captions). As above, note that these percentages only include articles which contain media **with captions**.
+This figure shows the average number of words in captions for articles on each website. As you can see, the rates are fairly similar (19.4 words for NYT captions vs. 19.0 words for FOX captions). As above, note that these percentages only include articles which contain media **with captions**.
 
 Calculation for each article: (# of tokens in caption after NLTK tokenization) - (# of punctuation tokens)
 
@@ -63,13 +63,13 @@ Calculation for website average: (Sum of all caption lengths) / (# of articles c
 
 Based on this [spreadsheet](caption_main_figures_edited.csv)
 
-[Script]()
+[Script](https://github.com/mirandaday16/mediabias/blob/master/Scripts/Word_Counts/word_count_analysis.py)
 
 ---
 ### Average Word Count in Captions, by Website (not including Entity Names)
-![Word Count No Names Plot]()
+![Word Count No Names Plot](https://github.com/mirandaday16/mediabias/blob/master/Data/processed_data/Word_Counts/word_counts_without_entities.png)
 
-This figure shows the average number of words in captions for articles on each website. **This DOES INCLUDE journalist or photographer names or other entity names** (based on manual annotation of caption entities in the spreadsheet linked below). As you can see, the rates are fairly similar (0.53 entities for NYT captions vs. 0.56 entities for FOX captions). As above, note that these percentages only include articles which contain media **with captions**.
+This figure shows the average number of words in captions for articles on each website. **This DOES INCLUDE journalist or photographer names or other entity names** (based on manual annotation of caption entities in the spreadsheet linked below). As you can see, the rates are fairly similar (14.6 words for NYT captions vs. 14.3 for FOX captions). **This shows that there is not a significant difference in the amount of entity names included in each website's captions, on average**. As above, note that these percentages only include articles which contain media **with captions**.
 
 Calculation for each article: (# of tokens in caption after NLTK tokenization) - (# of punctuation tokens) - (# of tokens in all entity names in caption)
 
@@ -79,4 +79,4 @@ Calculation for website average: (Sum of all caption lengths) / (# of articles c
 
 Based on this [spreadsheet](caption_main_figures_edited.csv)
 
-[Script]()
+[Script](https://github.com/mirandaday16/mediabias/blob/master/Scripts/Word_Counts/word_count_analysis.py)
