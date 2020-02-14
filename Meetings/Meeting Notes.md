@@ -93,7 +93,7 @@ Questions:
 ### Friday, February 14, 2020
 
 **Progress this past week**:
-- Clarified [matplotlib](../Data/Main_Entities/README.md) calculations regarding entity matching
+- Clarified [matplotlib](https://github.com/mirandaday16/mediabias/blob/master/Data/processed_data/Main_Entities/README.md) calculations regarding entity matching
 - Added new plots and descriptions to matplotlib file (see above)
 - 3 current analysis areas for captions: main entities, word count, and sentiment
 
@@ -103,6 +103,7 @@ Questions:
 
 **Next steps**:
 - Annotate and analyze sentiment words/sentiment towards entities in captions, and compare to article sentiment/bias (**IN PROGRESS**)
+    - Plan to use MPQA Subjectivity Lexicon for sentiment-word tagging
 - Add secondary media to dataset (photos/videos not at the top of articles) -- how to incorporate?
 - Create list of article **_PAIRS_** which both contain media/captions
 - Add individual IDs to each article for easier data comparison
