@@ -43,7 +43,7 @@ def main():
         if key in data and key in media:
             merged_data[key] = (value + media[key])
     # Create or open metadata csv file
-    with open('../Data/processed_data/caption_general_analysis.csv', mode='w') as metadata_table:
+    with open('../Data/processed_data/Caption_General_Analysis/caption_general_analysis.csv', mode='w') as metadata_table:
         metadata_writer = csv.writer(metadata_table, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
         # Set metadata values for each row and write to file
         for all_key in merged_data:

@@ -32,7 +32,7 @@ Progress this past week:
     - Next step: consider ways to **quantitatively compare** bias in media across aligned articles
 - Brainstormed replacement news outlets for HuffPost. I checked The Atlantic, which skews more center-left than HPO and NYT, and they seem to use alt-text and/or captions fairly consistently.
     - Next step: find articles aligned by topic with those from FOX and NYT in the initial dataset
-    - Regarding the above, I wrote a script to produce a [.csv spreadsheet](../Data/processed_data/article_topics_edited.csv) to track the article topics and dates in the initial FOX and NYT articles, which will help me to search for appropriate articles in the Atlantic (or another/more source(s) in the future)
+    - Regarding the above, I wrote a script to produce a [.csv spreadsheet](../Data/processed_data/Article_Topics/article_topics_edited.csv) to track the article topics and dates in the initial FOX and NYT articles, which will help me to search for appropriate articles in the Atlantic (or another/more source(s) in the future)
     
 Post-meeting ACTION ITEMS:
 - [x] Manually find metadata for HTTP Error articles
@@ -59,7 +59,7 @@ Questions:
 - Conducted analysis on main entities of articles (based on json file data) compared to entities in captions.
     - You can see the data plotted [here](../Data/processed_data/Main_Entities/README.md)
 - Based on above analysis, added a dedicated section for current hypotheses [here](../Data/processed_data/README.md)
-- Created [spreadsheet](../Data/processed_data/caption_general_analysis_edited.csv) for comparison of general caption attributes -- relation to media, level of detail, and subjectiveness
+- Created [spreadsheet](../Data/processed_data/Caption_General_Analysis/caption_general_analysis_edited.csv) for comparison of general caption attributes -- relation to media, level of detail, and subjectiveness
     - Manually filled out spreadsheet with my own analyses (**IN PROGRESS**)
 
 **Other Questions**:
@@ -70,7 +70,7 @@ Questions:
 **Next steps**:
 - Read through subjectivity resources mentioned in Jurafsky, including [MPQA Subjectivity Lexicon](../Literature/MPQA_Subjectivity_Lexicon)
 - Assign articles individual IDs in order to more easily update metadata across files
-    - standardize correct links/metadata across files (as of right now, [caption_general_analysis_edited.csv](../Data/processed_data/caption_general_analysis_edited.csv) has the most up-to-date media links)
+    - standardize correct links/metadata across files (as of right now, [caption_general_analysis_edited.csv](../Data/processed_data/Caption_General_Analysis/caption_general_analysis_edited.csv) has the most up-to-date media links)
 - Finish manually annotating caption analysis spreadsheet
 - Lu: next step will be to add more data -- possibly use some article's from Ian's dataset?
 

@@ -6,7 +6,7 @@ import csv
 ids_csv_file = "/Users/mirandadayadkins/Desktop/Media_Bias/Data/processed_data/" \
                 "Main_Entities/caption_main_figures_edited.csv"
 
-data_csv_file = "/Users/mirandadayadkins/Desktop/Media_Bias/Data/processed_data/caption_general_analysis_edited.csv"
+data_csv_file = "/Data/processed_data/Caption_General_Analysis/caption_general_analysis_edited.csv"
 
 # Returns a dictionary with headlines as keys and article ids as values
 def create_id_dict():
@@ -46,7 +46,7 @@ def main():
             merged_data[key] = (value + data[key])
     print(merged_data)
     # Create or open metadata csv file
-    with open('../Data/processed_data/caption_general_analysis_combined.csv', mode='w') as metadata_table:
+    with open('../Data/processed_data/Caption_General_Analysis/caption_general_analysis_combined.csv', mode='w') as metadata_table:
         metadata_writer = csv.writer(metadata_table, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
         metadata_writer.writerow(['Article ID', 'Website', 'Headline', 'Caption', 'Media Type', 'Media Link',
                                   'Caption Entities','Media Main Entities', 'Match Rate'])

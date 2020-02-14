@@ -26,7 +26,7 @@ def get_number(filename: str):
 
 def main():
     # Create or open article topics csv file
-    with open('../Data/processed_data/article_topics.csv', mode='w') as article_topics_table:
+    with open('../Data/processed_data/Article_Topics/article_topics.csv', mode='w') as article_topics_table:
         topics_writer = csv.writer(article_topics_table, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
         # Write header rows
         topics_writer.writerow(['Alignment #', 'Topic', 'Date', 'Headline', 'Publication Date', 'URL'])
