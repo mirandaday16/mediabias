@@ -81,7 +81,7 @@ Questions:
 - [ ] Harvard
 - [x] Clarify how data in matplotlibs was calculated, and make more matplotlibs
 - [x] Think about new methods for displaying data
-- [ ] For analyzing detail: calculate number of words in caption, number of words minus entities, etc.
+- [x] For analyzing detail: calculate number of words in caption, number of words minus entities, etc.
 - [ ] Assign unique article IDs to articles
 - [ ] Annotate sentiment towards **entities** in caption (positive or negative), so that we can compare to sentiment on article level later.
 - [ ] Find out how many article **pairs** both have caption and media, and let Lu and Shuyang know.
@@ -100,5 +100,7 @@ Questions:
 - Possible data display methods: found some suggestions [here](https://mode.com/blog/python-data-visualization-libraries/); interested in trying pygal and Seaborn
     - May try using JSON files instead of .csv going forward (the spreadsheets are becoming unwieldy)
 
-    
+**Next steps**:
+- Annotate and analyze sentiment words/sentiment towards entities in captions, and compare to article sentiment/bias
+- Add secondary media to dataset (photos/videos not at the top of articles) -- how to incorporate?
 ---
