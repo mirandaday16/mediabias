@@ -13,7 +13,7 @@ Calculation for website average: (Sum of all match rates for articles from that 
 
 Based on this [spreadsheet](caption_main_figures_edited.csv)
 
-[Script](../Scripts/Main_Entities/caption_entity_analysis.py)
+[Script](~/Scripts/Main_Entities/caption_entity_analysis.py)
 
 ---
 
@@ -30,4 +30,4 @@ Calculation for website average: ((Sum of all extra entity rates for articles fr
 
 Based on this [spreadsheet](caption_main_figures_edited.csv)
 
-[Script](../Scripts/Main_Entities/caption_main_figures.py)
+[Script](~/Scripts/Main_Entities/caption_entity_analysis.py)
