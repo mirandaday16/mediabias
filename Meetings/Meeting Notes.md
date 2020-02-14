@@ -80,7 +80,7 @@ Questions:
     - [ ] Also ask Xinyu about Valence/Arousal/Dominance (see p. 18 in Jurafsky chapter)
 - [ ] Harvard
 - [x] Clarify how data in matplotlibs was calculated, and make more matplotlibs
-- [ ] Think about new methods for displaying data
+- [x] Think about new methods for displaying data
 - [ ] For analyzing detail: calculate number of words in caption, number of words minus entities, etc.
 - [ ] Assign unique article IDs to articles
 - [ ] Annotate sentiment towards **entities** in caption (positive or negative), so that we can compare to sentiment on article level later.
@@ -94,7 +94,11 @@ Questions:
 
 **Progress this past week**:
 - Clarified [matplotlib](../Data/Main_Entities/README.md) calculations regarding entity matching
-- Began adding new plots and descriptions to matplotlib file
-    - To do: create plots and save to repo (fix Git error)
+- Added new plots and descriptions to matplotlib file (see above)
+
+**Some thoughts**:
+- Possible data display methods: found some suggestions [here](https://mode.com/blog/python-data-visualization-libraries/); interested in trying pygal and Seaborn
+    - May try using JSON files instead of .csv going forward (the spreadsheets are becoming unwieldy)
+
     
 ---
