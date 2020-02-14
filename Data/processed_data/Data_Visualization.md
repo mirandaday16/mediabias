@@ -50,6 +50,8 @@ Based on this [spreadsheet](caption_main_figures_edited.csv)
 [Script](https://github.com/mirandaday16/mediabias/blob/master/Scripts/Main_Entities/caption_entity_analysis.py)
 
 ---
+## Word Count Analyses
+
 ### Average Word Count in Captions, by Website
 ![Word Count Plot](https://github.com/mirandaday16/mediabias/blob/master/Data/processed_data/Word_Counts/basic_word_counts.png)
 
