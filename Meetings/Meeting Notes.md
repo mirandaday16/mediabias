@@ -116,3 +116,19 @@ Questions:
 - [ ] Start talking to Ian/Xinyu about other data sources
 
 ---
+
+### Friday, February 20, 2020
+
+**Progress This Week**:
+- Updated all files with unique article IDs
+- Created a [list](https://github.com/mirandaday16/mediabias/blob/master/Data/processed_data/Caption_General_Analysis/aligned_articles_with_captions.csv) of aligned article pairs which BOTH contain media and caption
+    - **Question**: should we compare websites using this set of articles, or all articles which have captions? So far, I have been using the set of all articles containing captions.
+- Annotated sentiment:
+    - Sentiment words in caption (using MPQA Lexicon)
+    - Ratio of sentiment words to caption length
+    - Sentiment toward caption entities (manual; positive or negative)
+    - Caption sentiment compared to article sentiment (annotated in JSON files)
+- Created a chart of # of captions which mention 0, 1, etc. MAIN entities
+- Updated matplotlib displays with charts of most important numbers
+
+---
