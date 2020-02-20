@@ -59,7 +59,8 @@ def create_csv(combined_dict):
     with open('../Data/processed_data/Caption_General_Analysis/aligned_articles_with_captions.csv', mode='w') as \
             metadata_table:
         metadata_writer = csv.writer(metadata_table, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
-        # Set metadata values for each row and write to file
+        # Write header row
+        metadata_writer.writerow(["Article ID", "Headline", "URL"])
         for key in combined_dict:
             # key = article ID, key[0] = headline, key[1] = url
             metadata_writer.writerow([key, combined_dict[key][0], combined_dict[key][1]])
