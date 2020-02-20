@@ -63,3 +63,6 @@ To do:
 - **To do**: Create JSON version of main entity .csv file (should be easier to use)
     
 ---
+### Mid-Week Updates: Thursday, February 20, 2020
+
+- Created a [list](https://github.com/mirandaday16/mediabias/blob/master/Data/processed_data/Caption_General_Analysis/aligned_articles_with_captions.csv) of aligned article PAIRS in which both articles have media/captions. There are a total of **122 articles** in the list (**61 pairs**)
