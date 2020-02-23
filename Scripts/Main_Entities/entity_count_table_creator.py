@@ -3,10 +3,16 @@
 
 import plotly.graph_objects as graph_obj
 import csv
+import os
+import psutil
+import orca
 from Scripts import parallel_articles_list_creator
 
 main_entities_csv_file = "/Users/mirandadayadkins/Desktop/Media_Bias/Data/processed_data/Main_Entities/" \
                          "caption_main_figures_edited.csv"
+
+save_location = "/Users/mirandadayadkins/Desktop/Media_Bias/Data/processed_data/Main_Entities/" \
+                "main_entity_count_in_captions.png"
 
 
 # Creates a dictionary of caption entity data from caption main figures file, with articles narrowed down to the
@@ -35,26 +41,56 @@ def get_max_entities(data_dict):
             continue
     return max_entities
 
-# Gets values for each possible number of main entities for a given website
-def get_caption_numbers(website):
-
-
 
 # Creates a plotly table to visualize the distribution of main entity counts in captions, by website
 def create_table(data_dict, maximum):
     possible_values = []
     for i in range(maximum + 1):
         possible_values.append(i)
-    print(possible_values)
-    table = graph_obj.Figure(data=[graph_obj.Table(header=dict(values=['# of Main Entities', 'NYT', 'FOX']),
-                                                   cells=dict(values=[possible_values, [], []]))
+    possible_values.append("TOTAL")
+
+    # Initialize values which will be used in table columns
+    nyt_values = [0] * (maximum + 1)
+    nyt_total = 0
+    fox_values = [0] * (maximum + 1)
+    fox_total = 0
+
+    # Get values for each possible # of entities, and add to total # of captions for each site (should be equal)
+    for key in data_dict:
+        if data_dict[key][0] == 'NYT':
+            nyt_total += 1
+            # Increment for # of entities value
+            entities = 0
+            try:
+                if int(data_dict[key][1]) > 0:
+                    entities = int(data_dict[key][1])
+            except ValueError:
+                continue
+            nyt_values[entities] += 1
+        elif data_dict[key][0] == 'FOX':
+            fox_total += 1
+            entities = 0
+            try:
+                if int(data_dict[key][1]) > 0:
+                    entities = int(data_dict[key][1])
+            except ValueError:
+                continue
+            fox_values[entities] += 1
+
+    # Add total caption counts for final row in table
+    nyt_values.append(nyt_total)
+    fox_values.append(fox_total)
+
+    table = graph_obj.Figure(data=[graph_obj.Table(header=dict(values=['# of Main Entities', '# of NYT captions',
+                                                                       '# of FOX captions']),
+                                                   cells=dict(values=[possible_values, nyt_values, fox_values]))
                                    ])
     table.show()
+    table.to_image(format='png')
 
 
 # Gets data for aligned article captions and then creates a table to display the data.
 def main():
-    get_max_entities(create_match_rate_dict())
     create_table(create_match_rate_dict(), get_max_entities(create_match_rate_dict()))
 
 
