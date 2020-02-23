@@ -56,7 +56,8 @@ def create_combined_dict(id_list, metadata_dict):
 
 # Creates a csv file to display metadata of aligned articles.
 def create_csv(combined_dict):
-    with open('../Data/processed_data/Caption_General_Analysis/aligned_articles_with_captions.csv', mode='w') as \
+    with open('/Users/mirandadayadkins/Desktop/Media_Bias/Data/processed_data/Caption_General_Analysis/'
+              'aligned_articles_with_captions.csv', mode='w') as \
             metadata_table:
         metadata_writer = csv.writer(metadata_table, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
         # Write header row
