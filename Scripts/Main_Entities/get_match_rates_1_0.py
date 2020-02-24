@@ -3,8 +3,7 @@
 
 import csv
 
-data_file = "/Users/mirandadayadkins/Desktop/Media_Bias/Data/processed_data/Main_Entities/" \
-            "caption_main_figures_edited.csv"
+data_file = "/Data/processed_data/Main_Entities/caption_main_figures_edited.csv"
 
 
 # Finds # of captions from a given website with 100% main entity match rate
