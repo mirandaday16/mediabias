@@ -23,6 +23,10 @@ Based on this [spreadsheet](caption_main_figures_edited.csv)
 
 ### Average Number of Non-Main Entities in Captions, by Website (Excluding Journalists)
 ![Extra Entity Avg Plot](https://github.com/mirandaday16/mediabias/blob/master/Data/processed_data/Main_Entities/extra_entities_rate.png)
+|     | Average # of Extra Entities | Max # of Extra Entities | Min # of Extra Entities |
+|-----|-----------------------------|-------------------------|-------------------------|
+| NYT | 0.53                        | 4                       | 0                       |
+| FOX | 0.56                        | 4                       | 0                       |
 
 This figure shows the average number of named entities in captions that are **NOT** main entities in the article. **This does not account for journalist or photographer names/credits that may appear in captions.** As you can see, the rates are fairly similar (0.53 entities for NYT captions vs. 0.56 entities for FOX captions). As above, note that these percentages only include articles which contain media **with captions**.
 
@@ -58,6 +62,7 @@ Based on this [spreadsheet](caption_main_figures_edited.csv)
 
 ### Average Word Count in Captions, by Website
 ![Word Count Plot](https://github.com/mirandaday16/mediabias/blob/master/Data/processed_data/Word_Counts/basic_word_counts.png)
+
 
 This figure shows the average number of words in captions for articles on each website. As you can see, the rates are fairly similar (19.4 words for NYT captions vs. 19.0 words for FOX captions). As above, note that these percentages only include articles which contain media **with captions**.
 
