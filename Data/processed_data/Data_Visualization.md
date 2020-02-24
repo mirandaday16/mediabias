@@ -2,6 +2,10 @@
 
 ### Average Caption-to-Article Entity Match, by Website
 ![Average Entity Match Plot](https://github.com/mirandaday16/mediabias/blob/master/Data/processed_data/Main_Entities/avg_match_rate.png)
+|     | Average Main Entity Match Rate per Caption (out of 100%) | # of columns with 100% match rate | # of columns with 0% match rate |
+|-----|----------------------------------------------------------|-----------------------------------|---------------------------------|
+| NYT | 0.65                                                     | 31 (42.5%)                        | 8 (11.0%)                       |
+| FOX | 0.52                                                     | 28 (32.9%)                        | 23 (27.0%)                      |
 
 This figure shows the average number of main entities **from the article** that appear in the caption, separated by news outlet. We can see that NYT captions tend to be somewhat more thorough in mentioning main entities (65%) than FOX captions (52%). Note that these percentages only include articles which contain media **with captions**.
 
