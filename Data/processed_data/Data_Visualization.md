@@ -40,6 +40,23 @@ This data shows that, out of the aligned articles considered, NYT articles are m
 
 ---
 
+### Average Number of Extra Entities in Captions, by Website
+
+| # of Extra Entities in Caption | # of NYT captions | # of FOX captions |
+|--------------------------------|-------------------|-------------------|
+| 0                              | 59                | 47                |
+| 1                              | 1                 | 10                |
+| 2                              | 0                 | 3                 |
+| TOTAL                          | 61                | 61                |
+
+This chart shows the number of captions from each website containing various numbers of "extra" entities (entities which are not *article* main entities). **This does not include articles without captions.** Note that the total number of articles considered from each website is 61. This is because these calculations are based on the [**aligned dataset**](https://github.com/mirandaday16/mediabias/blob/master/Data/processed_data/Caption_General_Analysis/aligned_articles_with_captions.csv) of paralell articles CONTAINING CAPTIONS (see [script](https://github.com/mirandaday16/mediabias/blob/master/Scripts/Main_Entities/entity_count_table_creator.py)).
+
+This data shows that, out of the aligned articles considered, NYT articles are more likely to contain NO extra entities; that is, the entities mentioned in NYT captions are almost certain to be article main entities. Comparing this data to the table above, we can guess that NYT captions tend to be **less specific in nature (regarding entities)**, since they tend to mention fewer article main entities than FOX captions and are also unlikely to introduce additional entities.
+
+See the following charts for more data on non-main entities in captions.
+
+---
+
 ### Average Number of Non-Main Entities in Captions, by Website (Excluding Journalists)
 ![Extra Entity Avg Plot](https://github.com/mirandaday16/mediabias/blob/master/Data/processed_data/Main_Entities/extra_entities_rate.png)
 |     | Average # of Extra Entities | Max # of Extra Entities | Min # of Extra Entities |
