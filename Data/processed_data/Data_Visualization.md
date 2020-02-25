@@ -21,6 +21,25 @@ Based on this [spreadsheet](caption_main_figures_edited.csv)
 
 ---
 
+### Average Number of (Article) Main Entities in Captions, by Website
+
+| # of Main Entities in Caption | # of NYT captions | # of FOX captions |
+|-------------------------------|-------------------|-------------------|
+| 0                             | 36                | 25                |
+| 1                             | 18                | 23                |
+| 2                             | 5                 | 10                |
+| 3                             | 0                 | 1                 |
+| 4                             | 1                 | 1                 |
+| TOTAL                         | 61                | 61                |
+
+This chart shows the number of captions from each website containing various numbers of article main entities. **This does not include articles without captions. Each article has at least one article main entity.** Note that the total number of articles considered from each website is 61. This is because these calculations are based on the [**aligned dataset**](https://github.com/mirandaday16/mediabias/blob/master/Data/processed_data/Caption_General_Analysis/aligned_articles_with_captions.csv) of paralell articles CONTAINING CAPTIONS (see [script](https://github.com/mirandaday16/mediabias/blob/master/Scripts/Main_Entities/entity_count_table_creator.py)).
+
+*Note that the values here are raw counts of article main entities and do not consider the PROPORTION of article main entities also included in captions (see above plot for that data).*
+
+This data shows that, out of the aligned articles considered, NYT articles are more likely to contain NO article main entities. This may indicate that the captions tend to be more general rather than naming specific entities, or it could indicate that NYT captions are somewhat more likely to mention less-important figures, giving a more detailed look at some aspect of the article (see following tables for more on non-main entities included in captions).
+
+---
+
 ### Average Number of Non-Main Entities in Captions, by Website (Excluding Journalists)
 ![Extra Entity Avg Plot](https://github.com/mirandaday16/mediabias/blob/master/Data/processed_data/Main_Entities/extra_entities_rate.png)
 |     | Average # of Extra Entities | Max # of Extra Entities | Min # of Extra Entities |
@@ -44,6 +63,10 @@ Based on this [spreadsheet](caption_main_figures_edited.csv)
 
 ### Average Number of Non-Main Entities in Captions, by Website (Including Journalists)
 ![Extra Entity Plot w Journalists](https://github.com/mirandaday16/mediabias/blob/master/Data/processed_data/Main_Entities/extra_entities_rate_with_journalists.png)
+|     | Average # of Extra Entities | Max # of Extra Entities | Min # of Extra Entities |
+|-----|-----------------------------|-------------------------|-------------------------|
+| NYT | 0.55                        | 4                       | 0                       |
+| FOX | 0.79                        | 4                       | 0                       |
 
 This figure shows the average number of named entities in captions that are **NOT** main entities in the article. **This DOES INCLUDE journalist or photographer names/credits that appear in captions.** As you can see, the disparity between FOX and NYT rates increases sharply compared to the previous graph (an average of 0.55 extra entities in NYT captions -- similar to the rate not including journalist names -- compared to an average of 0.79 extra entities in FOX articles). **This shows that FOX articles are more likely to use their captions as a space for crediting photographers/journalists involved in creation if the media and/or article**. The implications of this finding are unclear. As above, note that these percentages only include articles which contain media **with captions**.
 
