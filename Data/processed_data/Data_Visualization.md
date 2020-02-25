@@ -53,9 +53,9 @@ Calculation for each article: Extra Entity Rate = ((All Caption Entities) - (Cap
 
 Calculation for website average: ((Sum of all extra entity rates for articles from that site) - (# of journalist names occurring in each caption)) / (# of articles considered)
 
-**NOTE**: As above, the # of NYT articles and the # of FOX articles considered are not equal. 85 FOX and 73 NYT articles are considered in this calculation.
+**NOTE**: The # of NYT articles and the # of FOX articles considered are not equal. 85 FOX and 73 NYT articles are considered in this calculation.
 
-Based on this [spreadsheet](caption_main_figures_edited.csv)
+Based on this [spreadsheet](https://github.com/mirandaday16/mediabias/blob/master/Data/processed_data/Main_Entities/caption_main_figures_edited.csv)
 
 [Script](https://github.com/mirandaday16/mediabias/blob/master/Scripts/Main_Entities/caption_entity_analysis.py)
 
@@ -76,7 +76,7 @@ Calculation for website average: (Sum of all extra entity rates for articles fro
 
 **NOTE**: As above, the # of NYT articles and the # of FOX articles considered are not equal. 85 FOX and 73 NYT articles are considered in this calculation.
 
-Based on this [spreadsheet](caption_main_figures_edited.csv)
+Based on this [spreadsheet](https://github.com/mirandaday16/mediabias/blob/master/Data/processed_data/Main_Entities/caption_main_figures_edited.csv)
 
 [Script](https://github.com/mirandaday16/mediabias/blob/master/Scripts/Main_Entities/caption_entity_analysis.py)
 
