@@ -110,9 +110,9 @@ Questions:
 - Create list of article **_PAIRS_** which both contain media/captions
 
 **ACTION ITEMS:**
-- [ ] Include motivation in matplotlib graphics
-- [ ] Create chart of # of captions which mention 0, 1, etc. main entities.
-- [ ] Double-check word counts of captions
+- [x] Include motivation in matplotlib graphics
+- [x] Create chart of # of captions which mention 0, 1, etc. main entities.
+- [x] Double-check word counts of captions
 - [ ] Start talking to Ian/Xinyu about other data sources
 
 ---
