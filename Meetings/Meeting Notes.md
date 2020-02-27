@@ -117,9 +117,9 @@ Questions:
 
 ---
 
-### Friday, February 20, 2020
+### Friday, February 28, 2020
 
-**Progress This Week**:
+**Progress Update**:
 - Updated all files with unique article IDs
 - Created a [list](https://github.com/mirandaday16/mediabias/blob/master/Data/processed_data/Caption_General_Analysis/aligned_articles_with_captions.csv) of aligned article pairs which BOTH contain media and caption
     - **Question**: should we compare websites using this set of articles, or all articles which have captions? So far, I have been using the set of all articles containing captions.
@@ -130,5 +130,8 @@ Questions:
     - Caption sentiment compared to article sentiment (annotated in JSON files)
 - Created a chart of # of captions which mention 0, 1, etc. MAIN entities
 - Updated matplotlib displays with charts of most important numbers
+
+**Up Next**:
+- Decide how to incorporate secondary media into analysis. Most articles do not have secondary media. How many do? Are there any noticeable patterns? How can we compare them?
 
 ---
