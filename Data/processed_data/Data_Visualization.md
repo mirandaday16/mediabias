@@ -131,3 +131,19 @@ Calculation for website average: (Sum of all caption lengths) / (# of articles c
 Based on this [spreadsheet](caption_main_figures_edited.csv)
 
 [Script](https://github.com/mirandaday16/mediabias/blob/master/Scripts/Word_Counts/word_count_analysis.py)
+
+---
+### Number of Captions with Various Main Entity Counts (by Website)
+
+| # of Main Entities | # of NYT captions | # of FOX captions |
+|--------------------|-------------------|-------------------|
+| 0                  | 0                 | 8                 |
+| 1                  | 60                | 54                |
+| 2                  | 28                | 27                |
+| 3                  | 9                 | 8                 |
+| 4                  | 3                 | 3                 |
+| TOTAL              | 100               | 100               |
+
+Calculation taken from [this spreadsheet](https://github.com/mirandaday16/mediabias/blob/master/Data/processed_data/Main_Entities/caption_main_figures_edited.csv)
+
+[Script](https://github.com/mirandaday16/mediabias/blob/master/Scripts/Sentiment_Analysis/caption_entity_chart_maker.py)
