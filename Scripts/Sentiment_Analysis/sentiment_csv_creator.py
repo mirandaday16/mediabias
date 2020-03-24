@@ -1,4 +1,4 @@
-# Writes sentiment data to a csv file to compare  attributes
+# Writes sentiment data to a csv file to compare attributes using MPQA Subjectivity Lexicon
 import csv
 
 data_csv_file = "/Users/mirandadayadkins/Desktop/Media_Bias/Data/processed_data/Caption_General_Analysis/" \
